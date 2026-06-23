@@ -1,0 +1,37 @@
+
+DAY 1 DATA QUALITY REPORT
+=========================
+
+DATASET SUMMARY
+---------------
+Total Funds                : 5
+Unique Fund Houses         : 5
+Unique Categories          : 1
+Unique Subcategories       : 1
+Unique Risk Grades         : 1
+
+SCHEME CODE VALIDATION
+----------------------
+Total Scheme Codes (Master): 5
+Total Scheme Codes (NAV)   : 5
+Missing Scheme Codes       : 0
+
+MISSING VALUES
+--------------
+Fund House Missing         : 0
+Category Missing           : 0
+Subcategory Missing        : 0
+Risk Grade Missing         : 0
+
+DUPLICATES
+----------
+Duplicate Scheme Codes     : 0
+
+OVERALL ASSESSMENT
+------------------
+The ingestion process completed successfully.
+All datasets were loaded into Pandas and validated.
+AMFI scheme code matching was performed between fund_master and nav_history.
+Further cleaning and transformation will be performed in Day 2.
+
+END OF REPORT
