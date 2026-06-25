@@ -1,0 +1,3001 @@
+transaction_id,amfi_code,transaction_date,transaction_type,amount,state,kyc_status
+1,118632,2025/01/06,redemption,79463.25,Karnataka,Rejected
+2,120503,2025/06/05,Redemption,180878.98,Delhi,Verified
+3,120841,01-04-2025,SIP,124367.79,Maharashtra,Rejected
+4,120503,2025/06/10,Sip,157827.79,Karnataka,Rejected
+5,118632,03-02-2025,Sip,65680.47,Tamil Nadu,Verified
+6,119551,2025/02/03,Sip,106405.05,Delhi,Verified
+7,118632,2025/05/04,Sip,149438.59,Delhi,Verified
+8,119092,20-01-2025,SIP,172098.05,Tamil Nadu,Rejected
+9,118632,2025/01/24,sip,53259.49,Karnataka,Pending
+10,118632,2025/06/22,Sip,117119.74,Delhi,Verified
+11,119551,01-05-2025,Lumpsum,65937.25,Telangana,Verified
+12,120503,2025/06/12,redemption,60786.94,Tamil Nadu,Verified
+13,119551,2025/01/12,Sip,199187.51,Karnataka,Verified
+14,119551,18-05-2025,lumpsum,74516.8,Telangana,Pending
+15,120841,2025/02/09,redemption,20254.82,Tamil Nadu,Rejected
+16,119092,13-03-2025,Sip,43845.3,Tamil Nadu,Verified
+17,118632,2025/01/26,Sip,109120.94,Delhi,Verified
+18,119092,12-03-2025,sip,189827.65,Tamil Nadu,Verified
+19,119551,2025/06/14,sip,10590.41,Delhi,Verified
+20,119551,25-05-2025,Redemption,153148.9,Maharashtra,Rejected
+21,119551,2025/03/01,SIP,157834.43,Telangana,Verified
+22,118632,2025/02/07,Lumpsum,50505.51,Maharashtra,Verified
+23,120503,03-02-2025,Redemption,157792.09,Telangana,Pending
+24,120503,14-02-2025,SIP,148472.75,Telangana,Verified
+25,120503,2025/05/02,Sip,102890.97,Karnataka,Pending
+26,120841,2025/02/26,sip,145584.98,Telangana,Pending
+27,119092,2025/06/14,sip,199718.06,Tamil Nadu,Pending
+28,120503,2025/05/06,lumpsum,15161.4,Karnataka,Pending
+29,120841,07-02-2025,Sip,125051.34,Telangana,Rejected
+30,118632,2025/04/08,Lumpsum,59332.1,Telangana,Rejected
+31,119092,2025/01/26,sip,170632.15,Telangana,Rejected
+32,119551,2025/04/21,SIP,83055.81,Tamil Nadu,Pending
+33,119092,2025/01/25,Sip,133189.02,Delhi,Verified
+34,119092,18-01-2025,sip,19099.41,Karnataka,Rejected
+35,118632,2025/02/03,Lumpsum,191346.61,Telangana,Pending
+36,120503,2025/04/16,redemption,188255.41,Tamil Nadu,Rejected
+37,120503,2025/03/15,Sip,21168.31,Telangana,Verified
+38,119551,2025/06/18,Redemption,22089.57,Telangana,Pending
+39,120503,2025/03/13,Redemption,86107.93,Telangana,Rejected
+40,120841,2025/06/22,sip,121994.49,Delhi,Verified
+41,119551,2025/03/11,Sip,184346.74,Delhi,Verified
+42,119551,2025/02/06,lumpsum,14382.29,Karnataka,Verified
+43,120841,2025/02/25,lumpsum,68508.75,Delhi,Pending
+44,118632,2025/05/26,sip,31538.19,Telangana,Verified
+45,120503,2025/03/11,lumpsum,97389.51,Tamil Nadu,Pending
+46,118632,2025/02/25,sip,69361.98,Karnataka,Pending
+47,120841,2025/05/05,Sip,9560.76,Tamil Nadu,Rejected
+48,120503,02-01-2025,SIP,153586.23,Delhi,Pending
+49,118632,31-01-2025,redemption,86415.67,Maharashtra,Pending
+50,120841,2025/02/28,Redemption,133775.61,Delhi,Verified
+51,119092,2025/01/11,lumpsum,184271.91,Delhi,Rejected
+52,119092,2025/05/27,redemption,83829.94,Karnataka,Pending
+53,120503,25-03-2025,Lumpsum,92289.33,Delhi,Verified
+54,119092,28-01-2025,Lumpsum,80389.74,Karnataka,Pending
+55,118632,28-03-2025,Redemption,34042.48,Telangana,Rejected
+56,120503,2025/05/16,Redemption,70200.37,Maharashtra,Verified
+57,120503,07-02-2025,SIP,120678.6,Karnataka,Verified
+58,119092,2025/04/29,Redemption,116103.88,Telangana,Rejected
+59,120841,2025/03/24,redemption,63569.71,Tamil Nadu,Verified
+60,119092,2025/04/24,Redemption,55297.4,Karnataka,Pending
+61,120841,2025/01/19,lumpsum,8002.65,Delhi,Pending
+62,120503,2025/06/15,Redemption,18514.15,Telangana,Rejected
+63,119092,2025/04/29,Redemption,147914.75,Karnataka,Pending
+64,120841,16-06-2025,Lumpsum,95387.99,Maharashtra,Verified
+65,119092,2025/01/27,Redemption,69015.84,Karnataka,Rejected
+66,119551,11-01-2025,lumpsum,198201.71,Telangana,Rejected
+67,120841,2025/02/10,Sip,77789.6,Delhi,Rejected
+68,120841,2025/01/14,redemption,67262.54,Delhi,Verified
+69,120841,2025/06/23,Sip,144884.86,Telangana,Verified
+70,118632,2025/01/21,SIP,183390.92,Delhi,Rejected
+71,119092,2025/02/03,sip,62261.59,Tamil Nadu,Rejected
+72,118632,2025/02/02,Redemption,189448.17,Telangana,Verified
+73,119092,2025/05/11,Sip,62118.78,Maharashtra,Pending
+74,119092,19-02-2025,SIP,31411.56,Delhi,Verified
+75,120841,2025/05/19,Lumpsum,8030.62,Delhi,Rejected
+76,119551,2025/06/02,SIP,36578.77,Telangana,Verified
+77,119092,2025/01/12,redemption,144057.34,Tamil Nadu,Rejected
+78,118632,25-04-2025,SIP,62238.85,Tamil Nadu,Verified
+79,118632,2025/06/23,lumpsum,92605.16,Delhi,Pending
+80,120841,2025/05/16,SIP,163469.8,Telangana,Verified
+81,118632,2025/01/14,Redemption,74556.82,Karnataka,Rejected
+82,120841,01-02-2025,Redemption,32482.31,Tamil Nadu,Rejected
+83,119551,22-04-2025,SIP,163432.3,Delhi,Verified
+84,119092,2025/01/14,Sip,47537.73,Karnataka,Pending
+85,119551,2025/01/08,sip,167915.67,Delhi,Verified
+86,119551,10-01-2025,Redemption,94754.76,Maharashtra,Rejected
+87,119092,2025/04/25,sip,4291.28,Maharashtra,Verified
+88,120841,2025/06/05,sip,155346.44,Maharashtra,Pending
+89,120503,13-01-2025,redemption,158882.87,Tamil Nadu,Verified
+90,120503,2025/05/08,sip,126575.01,Telangana,Verified
+91,119551,2025/03/16,Lumpsum,70886.8,Telangana,Pending
+92,119551,2025/06/20,Lumpsum,194943.57,Karnataka,Rejected
+93,120841,2025/05/10,Lumpsum,111053.31,Tamil Nadu,Pending
+94,120503,2025/06/12,Sip,51103.23,Karnataka,Pending
+95,120503,30-03-2025,redemption,125837.26,Telangana,Rejected
+96,118632,04-02-2025,Lumpsum,68040.18,Maharashtra,Rejected
+97,119092,2025/06/28,SIP,162393.79,Karnataka,Rejected
+98,119092,10-01-2025,sip,158326.29,Karnataka,Pending
+99,118632,2025/05/12,Redemption,108834.62,Delhi,Verified
+100,119551,2025/03/15,Redemption,10036.9,Delhi,Pending
+101,120503,2025/04/05,lumpsum,148789.89,Tamil Nadu,Pending
+102,119551,2025/05/08,Sip,184899.94,Telangana,Pending
+103,120503,19-04-2025,Lumpsum,199022.08,Maharashtra,Rejected
+104,118632,24-03-2025,Sip,132353.38,Delhi,Pending
+105,120841,20-04-2025,lumpsum,70633.62,Karnataka,Rejected
+106,118632,2025/06/07,Sip,128074.13,Karnataka,Verified
+107,119092,2025/04/04,redemption,136042.42,Karnataka,Verified
+108,120841,2025/06/23,sip,25682.89,Maharashtra,Rejected
+109,118632,2025/04/03,Lumpsum,6960.87,Maharashtra,Rejected
+110,119092,2025/04/05,Redemption,15838.64,Maharashtra,Rejected
+111,118632,2025/04/12,Sip,50297.52,Karnataka,Verified
+112,119551,2025/05/08,Lumpsum,23993.32,Delhi,Rejected
+113,119092,2025/02/24,Sip,138949.14,Tamil Nadu,Verified
+114,120503,2025/02/04,lumpsum,34944.94,Tamil Nadu,Verified
+115,118632,2025/06/20,sip,110224.43,Delhi,Pending
+116,119551,2025/06/29,Redemption,72617.69,Maharashtra,Verified
+117,119551,05-02-2025,lumpsum,5743.66,Telangana,Rejected
+118,118632,2025/04/30,Lumpsum,26389.36,Karnataka,Verified
+119,118632,2025/04/12,redemption,95993.69,Tamil Nadu,Pending
+120,120841,19-01-2025,Sip,128646.55,Tamil Nadu,Pending
+121,120841,30-03-2025,Redemption,156162.45,Telangana,Verified
+122,119551,2025/04/21,Redemption,11554.86,Karnataka,Rejected
+123,119551,19-03-2025,Sip,186980.2,Maharashtra,Pending
+124,120841,2025/03/14,Sip,39662.23,Telangana,Pending
+125,119551,2025/06/10,Lumpsum,19138.97,Maharashtra,Rejected
+126,120841,09-02-2025,Lumpsum,144266.24,Telangana,Pending
+127,120841,2025/01/11,sip,16703.96,Telangana,Pending
+128,119551,2025/05/27,redemption,6542.04,Telangana,Pending
+129,118632,04-05-2025,Redemption,137155.67,Delhi,Pending
+130,120503,26-06-2025,lumpsum,83416.54,Tamil Nadu,Verified
+131,118632,05-06-2025,Redemption,143813.4,Delhi,Pending
+132,119551,2025/04/05,sip,64163.62,Tamil Nadu,Verified
+133,118632,26-04-2025,sip,10595.76,Tamil Nadu,Rejected
+134,119092,2025/03/05,SIP,162788.83,Telangana,Rejected
+135,118632,2025/02/18,lumpsum,199195.9,Tamil Nadu,Pending
+136,118632,08-05-2025,lumpsum,101336.17,Maharashtra,Verified
+137,120841,01-04-2025,Sip,99231.39,Tamil Nadu,Pending
+138,120841,2025/01/03,lumpsum,27220.02,Delhi,Rejected
+139,118632,2025/04/14,lumpsum,10705.96,Telangana,Verified
+140,118632,22-05-2025,lumpsum,101098.98,Telangana,Pending
+141,120841,2025/06/24,SIP,195029.02,Tamil Nadu,Pending
+142,118632,2025/05/23,Redemption,29281.34,Telangana,Rejected
+143,119092,09-05-2025,sip,27838.76,Delhi,Pending
+144,120841,27-04-2025,Lumpsum,28386.31,Telangana,Pending
+145,119551,2025/04/11,redemption,168599.08,Telangana,Pending
+146,120841,2025/05/11,redemption,112803.39,Tamil Nadu,Verified
+147,118632,2025/03/26,lumpsum,116948.58,Karnataka,Rejected
+148,119092,2025/03/09,Redemption,194425.34,Telangana,Rejected
+149,119551,2025/01/14,SIP,105084.35,Telangana,Pending
+150,119551,24-06-2025,Lumpsum,189666.93,Karnataka,Verified
+151,120503,2025/04/23,SIP,82885.54,Maharashtra,Pending
+152,120841,2025/06/06,Redemption,169751.21,Karnataka,Rejected
+153,119551,13-05-2025,Sip,199625.51,Tamil Nadu,Rejected
+154,119092,2025/03/22,lumpsum,182468.77,Delhi,Rejected
+155,118632,2025/06/23,redemption,136308.8,Delhi,Rejected
+156,119092,2025/02/19,Sip,111838.29,Maharashtra,Pending
+157,118632,2025/02/23,lumpsum,63749.63,Delhi,Rejected
+158,118632,15-03-2025,redemption,108866.58,Tamil Nadu,Pending
+159,119551,16-03-2025,redemption,16266.37,Tamil Nadu,Rejected
+160,118632,03-05-2025,Redemption,107946.3,Telangana,Rejected
+161,118632,05-02-2025,redemption,117572.68,Maharashtra,Verified
+162,120841,2025/02/27,sip,20489.49,Delhi,Rejected
+163,119092,2025/01/26,SIP,1533.7,Telangana,Verified
+164,119092,2025/06/17,lumpsum,95750.98,Maharashtra,Pending
+165,118632,2025/03/15,Redemption,18347.41,Telangana,Verified
+166,120841,2025/01/10,SIP,83868.05,Maharashtra,Verified
+167,119092,07-05-2025,redemption,192445.21,Delhi,Verified
+168,120503,2025/03/18,sip,185726.74,Delhi,Pending
+169,119092,2025/06/14,lumpsum,177907.36,Maharashtra,Rejected
+170,119092,11-03-2025,sip,66471.48,Tamil Nadu,Rejected
+171,118632,17-02-2025,Sip,158258.15,Telangana,Rejected
+172,119551,2025/02/14,redemption,179460.03,Tamil Nadu,Rejected
+173,118632,2025/01/23,sip,37363.85,Maharashtra,Pending
+174,118632,05-03-2025,lumpsum,47486.49,Delhi,Pending
+175,118632,2025/05/30,sip,52679.85,Delhi,Rejected
+176,119551,2025/01/16,lumpsum,61707.87,Tamil Nadu,Rejected
+177,120841,2025/03/21,redemption,183268.01,Delhi,Pending
+178,120841,26-02-2025,SIP,95897.29,Tamil Nadu,Rejected
+179,120841,2025/04/06,Lumpsum,182602.98,Telangana,Rejected
+180,119551,2025/03/05,Lumpsum,174690.44,Karnataka,Rejected
+181,119092,2025/05/16,sip,183490.32,Karnataka,Verified
+182,120841,10-05-2025,Lumpsum,30395.55,Delhi,Rejected
+183,119092,2025/01/30,redemption,116837.96,Karnataka,Rejected
+184,119092,2025/01/15,Lumpsum,83377.2,Telangana,Verified
+185,120841,2025/04/29,Sip,144794.38,Tamil Nadu,Pending
+186,120503,2025/02/25,sip,85027.63,Karnataka,Rejected
+187,120503,2025/01/18,lumpsum,6831.11,Tamil Nadu,Verified
+188,119551,2025/06/14,redemption,192774.62,Delhi,Pending
+189,119092,2025/04/07,redemption,192846.8,Telangana,Verified
+190,118632,31-01-2025,Lumpsum,78915.2,Maharashtra,Rejected
+191,119551,2025/01/01,Sip,92869.28,Telangana,Pending
+192,120841,2025/04/08,SIP,92394.74,Maharashtra,Pending
+193,119551,29-01-2025,redemption,84138.5,Karnataka,Verified
+194,119551,18-01-2025,sip,89564.99,Karnataka,Verified
+195,120503,2025/04/13,Lumpsum,43845.21,Karnataka,Verified
+196,120841,16-03-2025,redemption,115434.01,Telangana,Rejected
+197,118632,2025/03/02,SIP,197146.26,Telangana,Verified
+198,119092,18-03-2025,Lumpsum,189729.79,Maharashtra,Rejected
+199,119092,2025/05/23,Sip,188346.49,Tamil Nadu,Rejected
+200,118632,2025/06/28,SIP,60327.75,Maharashtra,Rejected
+201,119092,2025/03/03,Sip,171579.48,Maharashtra,Pending
+202,120503,2025/05/24,lumpsum,111678.71,Maharashtra,Pending
+203,119551,07-03-2025,redemption,16274.55,Tamil Nadu,Pending
+204,120503,2025/05/18,SIP,10781.56,Tamil Nadu,Rejected
+205,120841,04-06-2025,sip,38038.58,Telangana,Rejected
+206,120841,2025/02/25,Redemption,181453.05,Delhi,Verified
+207,119551,2025/02/18,sip,149502.41,Tamil Nadu,Verified
+208,120841,2025/02/22,SIP,110639.82,Delhi,Pending
+209,119092,2025/05/17,Sip,52681.54,Telangana,Pending
+210,119092,2025/01/26,redemption,94163.34,Delhi,Verified
+211,118632,2025/03/22,Lumpsum,172884.93,Maharashtra,Verified
+212,118632,2025/05/22,Lumpsum,144142.38,Delhi,Verified
+213,119551,26-03-2025,Lumpsum,166755.86,Tamil Nadu,Rejected
+214,118632,2025/03/07,lumpsum,193318.4,Tamil Nadu,Pending
+215,119551,01-04-2025,redemption,109535.99,Maharashtra,Rejected
+216,120503,15-05-2025,Redemption,15328.92,Karnataka,Verified
+217,119092,2025/02/05,SIP,14059.6,Maharashtra,Verified
+218,119551,2025/05/10,sip,123758.13,Telangana,Pending
+219,119092,05-01-2025,Lumpsum,82562.03,Karnataka,Rejected
+220,118632,2025/05/18,sip,100692.1,Tamil Nadu,Verified
+221,120503,2025/01/25,SIP,38790.45,Telangana,Pending
+222,118632,2025/03/10,sip,74923.79,Tamil Nadu,Pending
+223,120841,2025/03/04,SIP,60344.94,Karnataka,Rejected
+224,120503,2025/01/24,lumpsum,110763.94,Karnataka,Rejected
+225,120503,29-06-2025,lumpsum,169143.29,Delhi,Rejected
+226,120503,2025/05/16,SIP,42677.7,Telangana,Pending
+227,118632,2025/01/12,redemption,185154.17,Telangana,Rejected
+228,120503,2025/02/15,Sip,3623.79,Maharashtra,Rejected
+229,119551,2025/04/12,Sip,32908.83,Maharashtra,Rejected
+230,119092,2025/06/23,Sip,77077.32,Maharashtra,Rejected
+231,120503,2025/05/09,Sip,11212.44,Tamil Nadu,Verified
+232,120503,2025/03/29,Lumpsum,190994.25,Tamil Nadu,Pending
+233,120503,12-06-2025,lumpsum,98375.39,Delhi,Rejected
+234,119092,21-04-2025,Lumpsum,132304.05,Karnataka,Rejected
+235,118632,2025/03/05,sip,53960.42,Tamil Nadu,Rejected
+236,119551,2025/04/10,sip,18758.33,Delhi,Pending
+237,118632,11-03-2025,sip,37884.66,Tamil Nadu,Rejected
+238,120841,2025/05/12,sip,18378.96,Telangana,Verified
+239,120841,2025/06/03,Redemption,77354.96,Delhi,Pending
+240,119092,2025/01/22,Lumpsum,181088.91,Maharashtra,Rejected
+241,120841,2025/02/13,SIP,28198.59,Delhi,Pending
+242,119092,07-02-2025,lumpsum,55554.39,Delhi,Pending
+243,120503,03-04-2025,SIP,144319.44,Tamil Nadu,Rejected
+244,120841,2025/02/20,SIP,61279.27,Tamil Nadu,Pending
+245,120841,2025/04/08,Sip,88324.47,Tamil Nadu,Rejected
+246,120841,2025/02/04,Lumpsum,189482.14,Maharashtra,Pending
+247,118632,2025/02/15,Sip,58643.91,Tamil Nadu,Rejected
+248,119551,2025/03/25,Redemption,157280.37,Delhi,Verified
+249,120841,2025/02/21,Lumpsum,36395.48,Telangana,Verified
+250,119092,2025/02/23,Sip,166340.72,Karnataka,Pending
+251,119092,2025/02/05,SIP,50910.0,Maharashtra,Rejected
+252,119092,07-04-2025,Lumpsum,96107.32,Tamil Nadu,Rejected
+253,120841,2025/06/27,sip,158248.82,Delhi,Rejected
+254,120841,2025/06/02,sip,22319.2,Maharashtra,Rejected
+255,118632,2025/02/12,sip,112862.45,Tamil Nadu,Pending
+256,119092,28-01-2025,Sip,44789.22,Telangana,Rejected
+257,120841,2025/06/26,lumpsum,75136.85,Tamil Nadu,Rejected
+258,120841,2025/06/26,Sip,199541.69,Tamil Nadu,Verified
+259,118632,2025/04/17,sip,23655.83,Maharashtra,Pending
+260,118632,2025/03/29,SIP,104462.41,Delhi,Pending
+261,120503,2025/04/23,lumpsum,64122.44,Delhi,Verified
+262,120503,2025/01/06,redemption,22317.86,Maharashtra,Rejected
+263,119551,13-05-2025,SIP,66532.44,Tamil Nadu,Pending
+264,119551,2025/04/14,SIP,128275.54,Tamil Nadu,Pending
+265,120503,2025/06/07,lumpsum,118644.53,Tamil Nadu,Verified
+266,119551,22-02-2025,redemption,161841.59,Karnataka,Rejected
+267,120503,18-05-2025,Sip,39816.32,Karnataka,Pending
+268,119092,2025/05/16,Sip,119595.68,Telangana,Pending
+269,120841,2025/01/30,Redemption,91843.19,Maharashtra,Rejected
+270,118632,2025/06/07,redemption,27222.58,Karnataka,Verified
+271,118632,30-01-2025,redemption,28701.03,Tamil Nadu,Pending
+272,120841,2025/02/05,lumpsum,37557.86,Telangana,Rejected
+273,119551,23-05-2025,Sip,28489.16,Delhi,Pending
+274,120841,2025/01/14,sip,97179.48,Maharashtra,Pending
+275,120841,2025/05/10,lumpsum,137096.99,Tamil Nadu,Rejected
+276,119092,06-05-2025,Lumpsum,6656.71,Maharashtra,Pending
+277,120503,12-03-2025,Sip,34057.69,Tamil Nadu,Rejected
+278,119092,2025/05/21,Lumpsum,23284.23,Telangana,Pending
+279,120841,2025/01/11,lumpsum,109497.48,Tamil Nadu,Verified
+280,119551,2025/03/18,sip,90221.6,Delhi,Verified
+281,119092,2025/01/31,SIP,42370.69,Telangana,Rejected
+282,118632,2025/06/06,SIP,123422.16,Maharashtra,Verified
+283,120503,2025/05/26,Sip,119573.11,Maharashtra,Pending
+284,118632,2025/03/16,Redemption,103125.79,Karnataka,Verified
+285,119092,2025/01/16,Redemption,131351.31,Maharashtra,Verified
+286,119551,2025/03/24,Redemption,168789.35,Tamil Nadu,Pending
+287,119551,2025/05/28,redemption,83137.91,Tamil Nadu,Verified
+288,120503,2025/04/14,Sip,139093.37,Delhi,Pending
+289,119092,2025/03/25,Redemption,154939.99,Karnataka,Rejected
+290,119092,2025/06/12,Sip,170096.19,Telangana,Pending
+291,119551,2025/04/20,lumpsum,54073.1,Delhi,Pending
+292,120841,28-05-2025,Redemption,97324.91,Delhi,Rejected
+293,120503,12-01-2025,Redemption,167422.08,Karnataka,Verified
+294,119551,2025/04/23,lumpsum,40862.48,Maharashtra,Rejected
+295,118632,2025/02/10,Sip,19121.33,Delhi,Pending
+296,120503,2025/04/06,redemption,33522.25,Tamil Nadu,Rejected
+297,118632,2025/06/29,lumpsum,131269.3,Karnataka,Verified
+298,119551,03-05-2025,Lumpsum,45625.08,Tamil Nadu,Verified
+299,120503,2025/06/28,sip,197636.9,Tamil Nadu,Rejected
+300,119551,03-05-2025,lumpsum,18321.55,Karnataka,Verified
+301,118632,2025/04/05,SIP,76852.85,Maharashtra,Rejected
+302,119551,2025/01/18,sip,122258.69,Maharashtra,Pending
+303,118632,2025/02/24,SIP,184018.88,Telangana,Rejected
+304,119092,25-02-2025,sip,28432.62,Karnataka,Rejected
+305,119092,2025/03/31,Sip,158319.79,Maharashtra,Pending
+306,120503,2025/03/05,Lumpsum,144375.34,Delhi,Rejected
+307,120503,2025/06/18,SIP,103790.95,Telangana,Verified
+308,119092,2025/03/17,Redemption,179633.56,Maharashtra,Pending
+309,119092,29-01-2025,redemption,118988.99,Telangana,Verified
+310,118632,23-03-2025,Redemption,167875.17,Tamil Nadu,Pending
+311,120841,24-06-2025,lumpsum,190913.37,Karnataka,Verified
+312,120841,18-01-2025,SIP,8445.46,Karnataka,Pending
+313,120841,2025/03/15,Lumpsum,153538.45,Tamil Nadu,Rejected
+314,119092,2025/01/22,Lumpsum,123401.39,Delhi,Verified
+315,118632,2025/01/21,SIP,194875.52,Maharashtra,Rejected
+316,118632,2025/04/11,Redemption,166988.03,Karnataka,Pending
+317,119092,03-03-2025,sip,184963.24,Karnataka,Pending
+318,120841,05-06-2025,redemption,148467.86,Maharashtra,Verified
+319,120503,2025/02/05,SIP,99534.38,Delhi,Rejected
+320,120841,08-03-2025,SIP,150080.39,Delhi,Rejected
+321,120503,2025/01/08,lumpsum,54760.13,Karnataka,Pending
+322,120841,10-06-2025,lumpsum,102400.98,Karnataka,Pending
+323,120841,2025/02/12,Sip,154779.13,Telangana,Rejected
+324,120503,2025/02/28,sip,9285.56,Karnataka,Verified
+325,120503,2025/05/01,SIP,36202.71,Karnataka,Rejected
+326,119092,2025/02/27,lumpsum,183213.03,Delhi,Pending
+327,120503,2025/05/27,Lumpsum,134828.48,Karnataka,Verified
+328,119551,2025/05/13,lumpsum,14250.82,Tamil Nadu,Pending
+329,118632,25-03-2025,lumpsum,2089.85,Maharashtra,Pending
+330,120841,2025/03/19,SIP,93053.37,Telangana,Pending
+331,119551,2025/05/20,SIP,30537.99,Tamil Nadu,Verified
+332,119551,2025/05/19,Redemption,138845.43,Karnataka,Pending
+333,120503,2025/06/18,redemption,145579.4,Karnataka,Verified
+334,120841,2025/03/02,sip,194525.57,Maharashtra,Rejected
+335,118632,24-01-2025,SIP,179508.85,Telangana,Pending
+336,118632,2025/04/28,sip,116363.74,Telangana,Verified
+337,119092,2025/01/20,sip,87279.08,Maharashtra,Verified
+338,118632,2025/03/08,Redemption,78894.06,Delhi,Pending
+339,119092,11-03-2025,SIP,27654.31,Telangana,Verified
+340,119551,28-01-2025,lumpsum,63149.64,Karnataka,Rejected
+341,118632,2025/02/23,lumpsum,53369.08,Karnataka,Verified
+342,119551,2025/06/25,redemption,139527.16,Karnataka,Verified
+343,118632,07-02-2025,SIP,193695.8,Tamil Nadu,Rejected
+344,120503,23-06-2025,Redemption,198139.99,Karnataka,Pending
+345,119092,2025/05/23,SIP,19397.69,Karnataka,Verified
+346,120503,04-01-2025,Redemption,196522.16,Maharashtra,Verified
+347,119092,2025/04/06,redemption,17265.87,Telangana,Pending
+348,120503,2025/01/06,SIP,180547.97,Tamil Nadu,Verified
+349,120503,26-03-2025,lumpsum,10602.22,Telangana,Pending
+350,119092,08-05-2025,redemption,85619.47,Delhi,Verified
+351,119551,12-03-2025,SIP,7412.56,Telangana,Rejected
+352,119551,15-06-2025,lumpsum,176614.33,Tamil Nadu,Verified
+353,120503,2025/03/13,lumpsum,40291.83,Telangana,Verified
+354,120841,2025/01/05,Redemption,142817.45,Tamil Nadu,Rejected
+355,119092,2025/03/30,Lumpsum,64660.08,Delhi,Verified
+356,120503,2025/03/23,sip,179205.07,Delhi,Verified
+357,119092,2025/05/16,Lumpsum,199921.35,Maharashtra,Verified
+358,119551,18-06-2025,Lumpsum,163348.89,Karnataka,Verified
+359,120841,2025/04/10,Redemption,198312.61,Maharashtra,Verified
+360,119551,2025/06/01,redemption,139676.5,Telangana,Verified
+361,118632,2025/05/26,Lumpsum,189699.52,Tamil Nadu,Rejected
+362,118632,2025/02/14,sip,11705.51,Telangana,Verified
+363,120503,2025/05/15,Sip,183620.29,Maharashtra,Verified
+364,118632,2025/02/15,Redemption,173709.31,Karnataka,Verified
+365,119551,2025/05/31,SIP,154986.12,Telangana,Pending
+366,120503,2025/04/06,redemption,79421.31,Karnataka,Pending
+367,118632,24-03-2025,SIP,146604.23,Tamil Nadu,Rejected
+368,119092,2025/06/16,redemption,193764.21,Telangana,Pending
+369,119551,2025/06/20,SIP,75987.63,Delhi,Verified
+370,119551,2025/01/01,Lumpsum,78624.48,Telangana,Verified
+371,119551,2025/06/04,Redemption,193522.57,Maharashtra,Rejected
+372,120841,2025/01/27,SIP,66568.1,Karnataka,Verified
+373,118632,23-03-2025,sip,164421.53,Delhi,Pending
+374,120503,09-03-2025,redemption,14025.06,Delhi,Verified
+375,120503,2025/01/13,redemption,84220.82,Maharashtra,Pending
+376,119092,2025/04/07,lumpsum,20735.0,Tamil Nadu,Rejected
+377,119551,2025/02/11,Redemption,169229.62,Delhi,Verified
+378,118632,2025/03/08,sip,68690.74,Tamil Nadu,Verified
+379,120503,2025/05/21,sip,67921.14,Telangana,Pending
+380,120503,2025/04/21,SIP,121659.87,Tamil Nadu,Verified
+381,120503,2025/01/26,SIP,82151.33,Telangana,Rejected
+382,120841,2025/03/09,Sip,47890.88,Karnataka,Pending
+383,120841,2025/05/21,SIP,11373.72,Karnataka,Pending
+384,120503,2025/03/17,redemption,120243.0,Maharashtra,Verified
+385,120503,22-02-2025,Sip,195423.01,Tamil Nadu,Verified
+386,118632,2025/04/12,redemption,53368.38,Telangana,Pending
+387,119551,2025/04/05,Sip,37723.3,Karnataka,Pending
+388,119092,30-04-2025,Redemption,54078.12,Karnataka,Verified
+389,120503,2025/01/22,Redemption,108519.08,Telangana,Verified
+390,120841,2025/01/16,Redemption,104755.16,Telangana,Rejected
+391,119092,2025/05/27,lumpsum,60121.0,Tamil Nadu,Rejected
+392,120503,2025/05/09,Lumpsum,160189.84,Telangana,Verified
+393,120503,25-04-2025,SIP,194446.89,Maharashtra,Verified
+394,120503,19-04-2025,redemption,87360.95,Maharashtra,Rejected
+395,118632,2025/03/23,Redemption,13868.88,Tamil Nadu,Rejected
+396,119092,2025/05/22,Sip,104177.79,Karnataka,Rejected
+397,120841,2025/05/31,lumpsum,22947.51,Maharashtra,Verified
+398,120841,2025/05/31,sip,185023.17,Telangana,Verified
+399,118632,2025/05/18,lumpsum,53195.26,Tamil Nadu,Rejected
+400,120841,02-05-2025,Sip,80893.3,Telangana,Rejected
+401,119092,2025/01/10,Sip,138257.49,Karnataka,Rejected
+402,119092,2025/03/10,sip,67904.28,Delhi,Pending
+403,118632,2025/05/06,redemption,20094.37,Maharashtra,Verified
+404,118632,2025/04/24,Sip,54249.29,Tamil Nadu,Rejected
+405,120503,2025/02/18,Redemption,81730.49,Tamil Nadu,Rejected
+406,118632,2025/01/15,SIP,13590.59,Telangana,Pending
+407,119551,2025/05/15,sip,35160.6,Maharashtra,Verified
+408,119551,2025/01/09,Sip,141074.47,Delhi,Pending
+409,119092,2025/05/10,sip,136394.28,Maharashtra,Pending
+410,119092,2025/06/02,Redemption,95179.17,Telangana,Pending
+411,118632,2025/02/11,Sip,149917.75,Karnataka,Pending
+412,120503,09-04-2025,Redemption,114665.48,Maharashtra,Verified
+413,119551,23-06-2025,redemption,82196.69,Karnataka,Rejected
+414,120503,2025/05/02,redemption,35053.53,Karnataka,Verified
+415,118632,2025/06/05,Sip,142691.73,Delhi,Pending
+416,119092,2025/03/31,SIP,93606.25,Telangana,Rejected
+417,119092,30-05-2025,Lumpsum,199886.16,Delhi,Rejected
+418,120841,05-06-2025,redemption,22066.85,Karnataka,Pending
+419,118632,2025/06/13,Sip,52598.81,Delhi,Verified
+420,119551,2025/05/13,sip,161183.25,Telangana,Pending
+421,118632,24-06-2025,sip,131252.41,Delhi,Pending
+422,119092,2025/04/14,sip,116813.23,Telangana,Verified
+423,118632,2025/02/26,redemption,157086.96,Delhi,Rejected
+424,118632,2025/02/13,Lumpsum,36636.6,Karnataka,Pending
+425,119551,2025/03/08,Lumpsum,152702.18,Maharashtra,Rejected
+426,118632,17-06-2025,Sip,45053.92,Delhi,Pending
+427,118632,06-04-2025,Sip,93020.25,Karnataka,Pending
+428,120503,2025/06/12,Lumpsum,14707.54,Maharashtra,Rejected
+429,120503,2025/06/24,Sip,82914.9,Maharashtra,Verified
+430,119551,2025/03/29,Lumpsum,178622.6,Tamil Nadu,Verified
+431,118632,2025/02/16,lumpsum,66859.57,Maharashtra,Pending
+432,120503,2025/01/02,SIP,152358.06,Maharashtra,Rejected
+433,119551,2025/05/06,Redemption,18064.25,Telangana,Pending
+434,119092,2025/04/14,lumpsum,76971.63,Karnataka,Rejected
+435,119551,2025/04/06,Sip,151491.12,Telangana,Verified
+436,120503,23-06-2025,redemption,50140.21,Delhi,Pending
+437,119551,2025/01/27,Lumpsum,61569.96,Karnataka,Verified
+438,118632,2025/03/16,Lumpsum,119475.8,Delhi,Pending
+439,119551,2025/03/29,lumpsum,72170.55,Maharashtra,Verified
+440,119092,05-01-2025,redemption,196983.47,Maharashtra,Rejected
+441,120503,2025/05/31,sip,73634.99,Karnataka,Pending
+442,118632,2025/05/17,Lumpsum,198938.71,Karnataka,Rejected
+443,120503,2025/01/13,lumpsum,89140.7,Karnataka,Rejected
+444,118632,2025/05/02,SIP,139190.81,Karnataka,Pending
+445,119092,19-06-2025,Lumpsum,54360.44,Telangana,Rejected
+446,119551,2025/04/18,sip,102561.16,Telangana,Verified
+447,118632,2025/01/30,lumpsum,40130.01,Maharashtra,Pending
+448,120841,2025/02/21,lumpsum,59422.56,Karnataka,Rejected
+449,119092,2025/02/23,lumpsum,66455.42,Karnataka,Verified
+450,120503,2025/01/29,redemption,99073.75,Karnataka,Rejected
+451,120503,2025/01/26,redemption,46616.48,Delhi,Pending
+452,119092,13-01-2025,SIP,174891.02,Delhi,Pending
+453,118632,2025/04/20,sip,170323.56,Karnataka,Verified
+454,119551,2025/06/19,Sip,71826.72,Tamil Nadu,Rejected
+455,118632,2025/01/24,Sip,36982.45,Tamil Nadu,Pending
+456,119092,2025/03/11,redemption,170208.98,Tamil Nadu,Rejected
+457,119551,29-01-2025,redemption,12199.96,Maharashtra,Verified
+458,119092,2025/06/01,Lumpsum,135839.43,Maharashtra,Rejected
+459,119092,2025/04/02,Redemption,137050.59,Maharashtra,Pending
+460,119092,2025/01/29,lumpsum,9671.48,Delhi,Rejected
+461,118632,2025/01/04,redemption,105201.17,Telangana,Rejected
+462,120841,2025/02/27,redemption,174692.14,Telangana,Rejected
+463,120841,2025/01/25,redemption,50091.11,Delhi,Rejected
+464,119092,2025/02/08,Lumpsum,178466.35,Telangana,Verified
+465,120503,2025/06/14,Lumpsum,169844.69,Tamil Nadu,Verified
+466,120503,2025/05/06,Sip,194043.94,Karnataka,Rejected
+467,119551,2025/05/21,lumpsum,163512.11,Karnataka,Pending
+468,119092,2025/05/27,Redemption,99942.0,Delhi,Verified
+469,119092,17-06-2025,lumpsum,82761.54,Telangana,Rejected
+470,120503,2025/01/24,Lumpsum,127688.86,Telangana,Rejected
+471,119551,2025/06/17,Sip,72986.82,Karnataka,Verified
+472,119092,2025/03/26,Lumpsum,120190.25,Delhi,Rejected
+473,119092,30-01-2025,redemption,44738.55,Delhi,Pending
+474,118632,2025/05/21,redemption,21711.28,Maharashtra,Pending
+475,119551,15-04-2025,Lumpsum,39586.33,Karnataka,Pending
+476,119551,2025/04/28,SIP,143499.19,Karnataka,Pending
+477,120503,2025/06/12,Lumpsum,25082.23,Tamil Nadu,Pending
+478,120841,10-05-2025,lumpsum,1365.36,Karnataka,Rejected
+479,119092,2025/05/30,Lumpsum,156325.76,Maharashtra,Rejected
+480,120841,2025/02/14,SIP,21159.02,Telangana,Rejected
+481,118632,2025/05/10,lumpsum,195910.4,Maharashtra,Pending
+482,119092,2025/03/29,lumpsum,161056.97,Maharashtra,Pending
+483,120841,2025/06/29,Lumpsum,60133.17,Telangana,Pending
+484,120841,11-06-2025,SIP,125021.43,Delhi,Rejected
+485,118632,22-06-2025,redemption,130192.23,Maharashtra,Rejected
+486,120841,2025/06/27,redemption,23523.35,Delhi,Rejected
+487,119092,2025/05/30,redemption,142169.66,Telangana,Pending
+488,119092,2025/01/04,sip,76483.63,Karnataka,Rejected
+489,120503,21-02-2025,Redemption,32606.61,Delhi,Rejected
+490,118632,2025/02/07,redemption,156979.3,Maharashtra,Rejected
+491,120503,2025/04/02,sip,123413.71,Telangana,Verified
+492,120841,10-04-2025,Redemption,159468.31,Delhi,Rejected
+493,120503,2025/04/08,Redemption,195176.63,Delhi,Rejected
+494,120503,2025/01/04,SIP,124302.06,Tamil Nadu,Verified
+495,118632,2025/05/31,Lumpsum,39695.58,Maharashtra,Pending
+496,119092,2025/02/15,sip,37801.83,Maharashtra,Rejected
+497,120841,2025/01/31,lumpsum,56182.89,Delhi,Verified
+498,119551,2025/05/30,sip,66447.28,Maharashtra,Verified
+499,119551,2025/03/24,Redemption,186510.18,Telangana,Rejected
+500,118632,2025/05/06,Lumpsum,71938.07,Delhi,Rejected
+501,119551,2025/02/17,Redemption,101275.5,Tamil Nadu,Rejected
+502,120841,14-04-2025,SIP,176737.65,Delhi,Pending
+503,118632,17-03-2025,Redemption,123846.98,Tamil Nadu,Rejected
+504,120503,2025/01/30,lumpsum,48449.4,Telangana,Rejected
+505,119551,2025/01/11,Sip,76583.84,Karnataka,Pending
+506,118632,2025/05/19,sip,182311.52,Delhi,Rejected
+507,120841,2025/04/25,Sip,179707.18,Maharashtra,Pending
+508,120841,2025/01/22,SIP,194339.94,Telangana,Rejected
+509,120503,10-06-2025,redemption,126088.14,Maharashtra,Rejected
+510,119092,27-01-2025,Redemption,140697.2,Tamil Nadu,Rejected
+511,120503,25-06-2025,lumpsum,143515.22,Karnataka,Verified
+512,120503,14-01-2025,Sip,111837.8,Telangana,Verified
+513,118632,2025/04/15,redemption,81187.38,Delhi,Verified
+514,119092,22-06-2025,sip,128463.84,Telangana,Verified
+515,120841,2025/01/12,sip,71861.18,Telangana,Verified
+516,118632,2025/06/25,sip,56662.73,Tamil Nadu,Pending
+517,119092,19-06-2025,SIP,106926.82,Maharashtra,Rejected
+518,119092,20-05-2025,redemption,29243.07,Delhi,Verified
+519,120841,23-05-2025,sip,1503.45,Telangana,Pending
+520,120841,2025/05/21,Sip,42405.55,Delhi,Verified
+521,119092,2025/06/15,SIP,32610.39,Maharashtra,Rejected
+522,118632,19-02-2025,redemption,160032.18,Karnataka,Rejected
+523,119092,2025/06/15,Sip,134501.21,Delhi,Verified
+524,119551,2025/05/29,Sip,71749.1,Maharashtra,Verified
+525,118632,08-06-2025,SIP,63898.29,Tamil Nadu,Pending
+526,120841,2025/06/18,Lumpsum,30902.79,Telangana,Pending
+527,118632,20-04-2025,Sip,49611.94,Maharashtra,Rejected
+528,119092,2025/03/12,SIP,136076.25,Delhi,Pending
+529,119092,2025/04/25,Sip,97650.79,Karnataka,Verified
+530,120841,2025/01/21,Redemption,165375.51,Telangana,Verified
+531,118632,10-06-2025,sip,178474.98,Telangana,Rejected
+532,120503,2025/05/29,Redemption,118212.24,Karnataka,Rejected
+533,118632,2025/05/20,Lumpsum,94684.74,Maharashtra,Pending
+534,119092,2025/02/27,Lumpsum,146778.75,Delhi,Verified
+535,119092,2025/05/09,lumpsum,73091.18,Karnataka,Rejected
+536,119551,2025/06/07,Redemption,103070.27,Tamil Nadu,Verified
+537,119551,2025/05/25,redemption,174502.93,Maharashtra,Rejected
+538,119092,02-04-2025,Redemption,97784.61,Karnataka,Pending
+539,118632,01-03-2025,SIP,103818.1,Delhi,Pending
+540,119092,2025/04/27,sip,196127.66,Delhi,Verified
+541,120841,2025/06/12,Redemption,148510.99,Telangana,Rejected
+542,120841,2025/02/14,lumpsum,73376.71,Karnataka,Rejected
+543,118632,2025/04/07,SIP,103516.17,Delhi,Pending
+544,119092,2025/05/04,sip,100616.48,Maharashtra,Pending
+545,119551,28-02-2025,redemption,56521.5,Maharashtra,Verified
+546,119551,2025/04/03,Redemption,24106.88,Maharashtra,Pending
+547,118632,2025/01/30,lumpsum,96064.72,Telangana,Verified
+548,119092,06-01-2025,SIP,114910.56,Maharashtra,Verified
+549,120841,2025/01/11,SIP,11654.44,Delhi,Verified
+550,120841,2025/04/14,Lumpsum,127705.73,Delhi,Verified
+551,119551,2025/04/25,lumpsum,173526.83,Maharashtra,Verified
+552,119092,03-06-2025,Lumpsum,164180.41,Maharashtra,Rejected
+553,120841,09-03-2025,redemption,68862.92,Tamil Nadu,Rejected
+554,120841,18-01-2025,lumpsum,26876.53,Karnataka,Verified
+555,120841,2025/05/10,Redemption,30337.46,Karnataka,Verified
+556,119092,2025/06/07,Redemption,106520.28,Karnataka,Verified
+557,119092,18-06-2025,Lumpsum,108087.55,Karnataka,Rejected
+558,119092,2025/05/14,Redemption,9165.94,Telangana,Pending
+559,119551,2025/05/04,lumpsum,70428.3,Telangana,Verified
+560,119092,04-02-2025,Redemption,46886.32,Karnataka,Pending
+561,120841,2025/05/20,SIP,1591.16,Karnataka,Rejected
+562,120841,2025/01/31,lumpsum,131081.95,Delhi,Pending
+563,118632,28-01-2025,redemption,117281.35,Delhi,Rejected
+564,119092,2025/05/25,Sip,198363.84,Tamil Nadu,Verified
+565,119092,2025/05/22,lumpsum,36154.56,Telangana,Rejected
+566,119092,2025/03/06,Lumpsum,69199.08,Tamil Nadu,Rejected
+567,119551,18-06-2025,SIP,89595.68,Maharashtra,Verified
+568,119551,2025/05/11,Sip,160270.32,Telangana,Rejected
+569,120503,2025/02/11,redemption,1555.48,Karnataka,Verified
+570,119092,2025/06/03,sip,52986.85,Delhi,Verified
+571,120841,2025/01/10,lumpsum,122986.14,Telangana,Pending
+572,120841,2025/01/15,Redemption,35466.59,Tamil Nadu,Pending
+573,120503,2025/02/21,Redemption,103871.58,Maharashtra,Verified
+574,120841,2025/05/11,SIP,123230.4,Karnataka,Pending
+575,119551,17-06-2025,SIP,17825.14,Delhi,Pending
+576,118632,2025/06/21,Lumpsum,40461.92,Karnataka,Rejected
+577,120503,2025/01/24,redemption,166038.08,Telangana,Pending
+578,118632,12-03-2025,SIP,91224.42,Tamil Nadu,Rejected
+579,120503,08-03-2025,Lumpsum,21739.76,Karnataka,Rejected
+580,118632,2025/03/29,Redemption,102900.69,Delhi,Rejected
+581,120841,2025/03/06,lumpsum,112852.14,Maharashtra,Pending
+582,119092,2025/06/24,Lumpsum,172473.64,Tamil Nadu,Verified
+583,118632,2025/01/18,Redemption,198842.51,Maharashtra,Pending
+584,119092,2025/04/01,sip,140313.3,Delhi,Verified
+585,118632,2025/01/24,redemption,164304.4,Karnataka,Rejected
+586,119551,2025/05/02,SIP,178916.09,Delhi,Verified
+587,119551,2025/05/08,SIP,147218.1,Delhi,Verified
+588,119551,2025/02/21,Redemption,123910.08,Maharashtra,Verified
+589,120503,2025/01/21,redemption,98786.64,Karnataka,Rejected
+590,120503,2025/05/04,Sip,98721.91,Telangana,Pending
+591,119092,2025/02/16,Lumpsum,56413.19,Maharashtra,Rejected
+592,119551,2025/01/14,lumpsum,95924.86,Telangana,Verified
+593,120841,2025/03/30,redemption,155292.84,Tamil Nadu,Verified
+594,120841,2025/04/28,sip,2858.09,Maharashtra,Pending
+595,120841,2025/01/26,Lumpsum,172437.48,Maharashtra,Rejected
+596,118632,02-03-2025,Lumpsum,68947.74,Maharashtra,Pending
+597,119092,2025/02/23,Redemption,74775.77,Tamil Nadu,Pending
+598,119092,2025/02/16,Lumpsum,137359.38,Karnataka,Rejected
+599,118632,2025/03/02,Redemption,76486.23,Maharashtra,Rejected
+600,119551,2025/05/02,SIP,84593.37,Maharashtra,Rejected
+601,120841,2025/05/17,Redemption,97580.73,Delhi,Rejected
+602,120841,2025/01/13,redemption,33086.71,Maharashtra,Pending
+603,119092,11-06-2025,redemption,67263.98,Delhi,Pending
+604,120841,2025/05/23,Sip,69155.99,Tamil Nadu,Verified
+605,118632,2025/06/23,SIP,115582.32,Telangana,Verified
+606,118632,2025/04/01,Lumpsum,97755.0,Tamil Nadu,Verified
+607,119092,07-06-2025,redemption,191340.59,Maharashtra,Rejected
+608,118632,2025/04/18,Lumpsum,81252.16,Karnataka,Verified
+609,119551,29-03-2025,Sip,130776.11,Delhi,Rejected
+610,119092,2025/03/11,Redemption,172629.89,Delhi,Rejected
+611,120841,2025/05/14,lumpsum,33879.96,Karnataka,Verified
+612,119551,19-06-2025,redemption,140289.04,Karnataka,Verified
+613,119551,12-04-2025,sip,187390.34,Tamil Nadu,Rejected
+614,120503,2025/01/07,Lumpsum,153116.78,Karnataka,Verified
+615,118632,08-06-2025,redemption,186352.12,Tamil Nadu,Pending
+616,119551,2025/03/05,lumpsum,125482.9,Maharashtra,Rejected
+617,119551,08-01-2025,Sip,172143.58,Delhi,Pending
+618,119092,2025/05/19,Lumpsum,89246.56,Telangana,Verified
+619,120841,2025/06/02,redemption,127352.3,Telangana,Pending
+620,120841,2025/06/13,Sip,181830.17,Tamil Nadu,Rejected
+621,119551,2025/01/23,Sip,82734.66,Maharashtra,Pending
+622,120503,2025/01/01,Redemption,169665.32,Delhi,Pending
+623,119092,17-05-2025,lumpsum,189418.02,Tamil Nadu,Pending
+624,120503,2025/04/21,Lumpsum,46627.47,Karnataka,Rejected
+625,118632,2025/02/18,Lumpsum,87702.72,Maharashtra,Verified
+626,119092,07-04-2025,sip,84736.76,Maharashtra,Rejected
+627,120841,2025/06/27,Sip,129867.18,Telangana,Pending
+628,119092,2025/02/18,SIP,27756.49,Karnataka,Rejected
+629,119092,2025/06/08,redemption,124739.38,Maharashtra,Pending
+630,120503,08-02-2025,Lumpsum,4915.11,Karnataka,Pending
+631,118632,2025/02/02,redemption,2136.72,Karnataka,Verified
+632,120503,07-05-2025,lumpsum,62659.55,Tamil Nadu,Pending
+633,119092,2025/06/28,Sip,16504.51,Maharashtra,Verified
+634,118632,11-04-2025,lumpsum,36729.95,Delhi,Pending
+635,120503,2025/02/01,redemption,50167.99,Tamil Nadu,Verified
+636,120503,2025/02/20,Redemption,19245.08,Maharashtra,Pending
+637,119092,2025/06/24,Sip,32142.98,Karnataka,Rejected
+638,120841,14-05-2025,lumpsum,127884.74,Maharashtra,Pending
+639,120503,20-06-2025,sip,47575.18,Tamil Nadu,Pending
+640,120503,2025/02/12,Lumpsum,24370.09,Maharashtra,Verified
+641,120503,2025/05/29,lumpsum,137837.1,Maharashtra,Pending
+642,120503,05-03-2025,sip,137345.96,Delhi,Rejected
+643,120503,2025/01/16,SIP,140414.96,Karnataka,Verified
+644,119092,2025/03/01,Lumpsum,157818.08,Delhi,Pending
+645,119551,2025/01/06,Sip,145017.63,Delhi,Verified
+646,119092,2025/04/23,Lumpsum,139559.04,Maharashtra,Rejected
+647,119551,2025/05/20,redemption,93944.75,Telangana,Rejected
+648,119551,2025/01/18,lumpsum,59486.7,Delhi,Rejected
+649,118632,27-04-2025,redemption,101438.57,Maharashtra,Verified
+650,120841,2025/04/04,SIP,64478.47,Karnataka,Rejected
+651,120841,10-04-2025,redemption,99761.06,Telangana,Verified
+652,120841,2025/03/14,redemption,64743.8,Karnataka,Rejected
+653,120503,2025/01/12,SIP,36138.44,Karnataka,Verified
+654,120503,05-05-2025,sip,114416.93,Tamil Nadu,Rejected
+655,119092,2025/05/15,Lumpsum,51559.74,Delhi,Verified
+656,120841,19-01-2025,SIP,131322.0,Karnataka,Pending
+657,120503,2025/04/03,lumpsum,164494.29,Karnataka,Rejected
+658,118632,16-05-2025,sip,166974.07,Karnataka,Verified
+659,120841,25-01-2025,SIP,106566.38,Maharashtra,Verified
+660,120841,18-06-2025,redemption,189526.92,Telangana,Rejected
+661,120841,2025/04/17,Redemption,127905.55,Delhi,Rejected
+662,119092,2025/06/29,sip,33778.46,Maharashtra,Rejected
+663,119092,2025/05/10,SIP,107013.15,Telangana,Pending
+664,118632,2025/03/22,Sip,169048.38,Tamil Nadu,Rejected
+665,119092,2025/03/24,Lumpsum,109352.43,Tamil Nadu,Rejected
+666,118632,2025/04/03,lumpsum,191984.97,Karnataka,Rejected
+667,120503,2025/03/14,Lumpsum,27449.6,Delhi,Verified
+668,118632,26-02-2025,Sip,4829.42,Delhi,Rejected
+669,120841,2025/05/23,Lumpsum,31365.6,Karnataka,Pending
+670,118632,09-02-2025,Sip,177980.26,Maharashtra,Verified
+671,118632,18-03-2025,lumpsum,114028.45,Maharashtra,Rejected
+672,120503,2025/03/25,SIP,97911.14,Telangana,Verified
+673,120841,2025/06/14,redemption,161764.06,Tamil Nadu,Verified
+674,120503,2025/03/27,Redemption,87143.73,Karnataka,Verified
+675,120841,2025/01/03,redemption,76806.15,Delhi,Rejected
+676,120503,2025/03/23,SIP,65702.91,Maharashtra,Verified
+677,120503,2025/06/22,lumpsum,194222.53,Telangana,Rejected
+678,120841,24-01-2025,Sip,157380.48,Maharashtra,Verified
+679,118632,2025/01/22,redemption,10337.56,Tamil Nadu,Pending
+680,120503,2025/04/13,Redemption,139725.17,Maharashtra,Pending
+681,120841,2025/02/20,redemption,114480.47,Telangana,Rejected
+682,120841,05-03-2025,Sip,155465.99,Delhi,Rejected
+683,120841,23-01-2025,lumpsum,84996.35,Delhi,Verified
+684,118632,2025/03/30,sip,154051.42,Maharashtra,Pending
+685,120841,2025/04/24,lumpsum,9453.07,Maharashtra,Verified
+686,118632,2025/02/09,Redemption,17619.98,Karnataka,Verified
+687,120841,2025/02/07,Redemption,57893.18,Delhi,Rejected
+688,120503,2025/03/20,sip,66709.41,Telangana,Verified
+689,119551,2025/05/20,Sip,109985.61,Telangana,Rejected
+690,119551,2025/06/27,sip,75633.03,Telangana,Verified
+691,118632,13-02-2025,SIP,157943.1,Telangana,Pending
+692,120503,2025/04/30,sip,13786.26,Delhi,Rejected
+693,118632,28-01-2025,Redemption,176738.76,Tamil Nadu,Verified
+694,119092,2025/05/11,sip,180822.48,Tamil Nadu,Rejected
+695,120841,23-01-2025,Lumpsum,193374.88,Telangana,Rejected
+696,120503,11-01-2025,Lumpsum,61333.04,Tamil Nadu,Pending
+697,119551,2025/01/05,Sip,71397.94,Delhi,Verified
+698,120841,2025/03/12,redemption,51907.03,Tamil Nadu,Verified
+699,120841,13-03-2025,Sip,179486.48,Maharashtra,Verified
+700,119092,2025/05/14,Lumpsum,174603.94,Maharashtra,Pending
+701,119551,27-05-2025,Sip,181992.21,Delhi,Pending
+702,120841,03-02-2025,SIP,116415.62,Maharashtra,Verified
+703,118632,2025/06/26,Lumpsum,181957.76,Tamil Nadu,Verified
+704,120841,2025/02/10,Lumpsum,106825.83,Karnataka,Verified
+705,118632,2025/02/07,Redemption,64078.15,Tamil Nadu,Pending
+706,118632,2025/04/24,Redemption,178878.95,Delhi,Verified
+707,119551,28-01-2025,sip,152608.27,Telangana,Rejected
+708,118632,2025/06/05,SIP,119473.96,Maharashtra,Rejected
+709,120503,02-04-2025,Redemption,95582.14,Telangana,Rejected
+710,119092,2025/06/16,Redemption,77798.33,Tamil Nadu,Verified
+711,119551,19-02-2025,lumpsum,153025.5,Karnataka,Pending
+712,119092,2025/02/26,SIP,151676.43,Karnataka,Verified
+713,119092,2025/06/07,Sip,173421.59,Maharashtra,Pending
+714,119092,2025/01/11,Redemption,76384.65,Delhi,Pending
+715,120841,2025/05/27,Lumpsum,128458.07,Karnataka,Rejected
+716,120503,2025/04/26,sip,175617.1,Maharashtra,Rejected
+717,120841,2025/04/12,sip,111761.34,Telangana,Rejected
+718,120503,18-02-2025,lumpsum,176937.32,Delhi,Pending
+719,119551,19-04-2025,sip,138145.62,Maharashtra,Pending
+720,119092,2025/01/24,sip,36364.39,Telangana,Rejected
+721,120841,2025/02/04,Sip,90451.73,Maharashtra,Pending
+722,120841,2025/02/21,sip,50391.42,Maharashtra,Rejected
+723,120503,24-01-2025,lumpsum,126997.45,Karnataka,Rejected
+724,119092,2025/05/11,SIP,76046.39,Tamil Nadu,Verified
+725,119551,2025/03/27,redemption,172603.16,Maharashtra,Verified
+726,119551,2025/01/14,Sip,146167.27,Tamil Nadu,Pending
+727,119551,2025/01/31,SIP,1204.81,Delhi,Verified
+728,119092,2025/05/08,Lumpsum,161587.19,Telangana,Pending
+729,119551,2025/02/25,lumpsum,91020.83,Tamil Nadu,Verified
+730,120841,03-06-2025,Lumpsum,55983.53,Telangana,Verified
+731,120503,17-02-2025,redemption,70129.46,Maharashtra,Verified
+732,120841,04-06-2025,sip,10281.76,Tamil Nadu,Verified
+733,119551,22-06-2025,redemption,138456.97,Telangana,Rejected
+734,120841,2025/02/15,redemption,116003.78,Karnataka,Verified
+735,118632,2025/03/24,lumpsum,164142.82,Tamil Nadu,Rejected
+736,120503,2025/03/16,sip,139076.58,Delhi,Pending
+737,120841,2025/04/16,redemption,42205.67,Karnataka,Verified
+738,120841,2025/06/11,sip,96990.77,Telangana,Rejected
+739,118632,2025/04/20,Sip,52302.18,Telangana,Rejected
+740,118632,2025/02/03,lumpsum,104181.31,Tamil Nadu,Pending
+741,119551,06-06-2025,Sip,195861.9,Karnataka,Verified
+742,120503,2025/04/30,sip,147624.94,Maharashtra,Rejected
+743,119092,16-04-2025,Sip,112302.89,Maharashtra,Verified
+744,119551,26-06-2025,Redemption,14033.29,Delhi,Rejected
+745,120841,2025/03/24,sip,137324.24,Delhi,Pending
+746,120841,2025/06/07,Redemption,35538.0,Delhi,Pending
+747,119092,2025/05/02,redemption,27582.9,Maharashtra,Rejected
+748,119092,2025/05/18,lumpsum,156905.81,Tamil Nadu,Rejected
+749,120503,14-05-2025,redemption,135800.43,Telangana,Rejected
+750,120503,2025/02/23,Sip,160007.3,Delhi,Verified
+751,119551,2025/03/13,Sip,196731.94,Telangana,Verified
+752,120841,2025/06/05,Lumpsum,23810.51,Delhi,Rejected
+753,118632,09-01-2025,sip,99662.36,Maharashtra,Pending
+754,119092,19-03-2025,Sip,35415.04,Delhi,Verified
+755,119551,2025/01/24,sip,159905.54,Telangana,Verified
+756,119551,2025/03/29,redemption,174838.88,Delhi,Pending
+757,119551,2025/01/26,Lumpsum,135505.1,Maharashtra,Verified
+758,120503,2025/04/28,Redemption,104707.8,Karnataka,Pending
+759,120503,2025/06/25,Redemption,17871.64,Tamil Nadu,Verified
+760,120503,2025/05/14,redemption,62839.92,Telangana,Pending
+761,119551,24-03-2025,Sip,55691.58,Delhi,Pending
+762,120503,11-03-2025,Sip,23334.85,Telangana,Rejected
+763,120841,27-01-2025,Sip,110098.45,Delhi,Verified
+764,118632,27-05-2025,sip,62619.82,Delhi,Rejected
+765,119092,13-01-2025,lumpsum,180706.84,Karnataka,Verified
+766,119092,14-01-2025,lumpsum,36207.11,Telangana,Rejected
+767,119092,2025/06/07,Sip,163579.67,Telangana,Verified
+768,119092,26-05-2025,Redemption,160568.92,Tamil Nadu,Verified
+769,119092,2025/03/21,redemption,153415.45,Tamil Nadu,Verified
+770,119551,2025/02/06,Lumpsum,51981.53,Delhi,Pending
+771,119551,2025/06/29,Sip,157861.35,Delhi,Pending
+772,119092,08-01-2025,sip,70612.44,Tamil Nadu,Verified
+773,118632,2025/03/31,SIP,101835.96,Tamil Nadu,Rejected
+774,120503,2025/03/25,sip,158589.97,Telangana,Pending
+775,119092,2025/06/01,Lumpsum,49116.37,Maharashtra,Pending
+776,119092,2025/01/17,Redemption,138964.94,Tamil Nadu,Pending
+777,120841,2025/03/29,SIP,35030.55,Karnataka,Rejected
+778,120841,05-05-2025,Lumpsum,92850.23,Telangana,Verified
+779,119092,2025/02/15,lumpsum,14386.72,Karnataka,Rejected
+780,120841,2025/04/08,redemption,132202.87,Karnataka,Verified
+781,119551,2025/05/29,redemption,162062.95,Maharashtra,Rejected
+782,119551,2025/04/26,lumpsum,123306.65,Tamil Nadu,Verified
+783,119551,2025/06/24,Sip,114270.14,Delhi,Pending
+784,118632,2025/01/23,Lumpsum,197291.12,Tamil Nadu,Verified
+785,118632,2025/01/16,Lumpsum,193595.95,Karnataka,Rejected
+786,120841,02-04-2025,Sip,173203.09,Maharashtra,Pending
+787,120841,2025/04/11,redemption,76866.53,Tamil Nadu,Pending
+788,120841,2025/02/24,lumpsum,28244.24,Telangana,Pending
+789,118632,17-04-2025,Redemption,134178.18,Maharashtra,Verified
+790,120503,15-06-2025,redemption,177035.29,Tamil Nadu,Verified
+791,120503,2025/02/05,lumpsum,172100.48,Telangana,Pending
+792,120841,2025/02/16,lumpsum,110633.98,Tamil Nadu,Pending
+793,118632,27-02-2025,Lumpsum,1982.28,Tamil Nadu,Rejected
+794,119551,09-05-2025,Lumpsum,115482.29,Karnataka,Verified
+795,120841,2025/05/04,sip,116263.62,Karnataka,Verified
+796,120841,2025/03/13,sip,104909.68,Telangana,Verified
+797,119551,2025/05/01,redemption,192102.0,Karnataka,Rejected
+798,120841,2025/05/29,sip,180765.26,Telangana,Verified
+799,119092,2025/04/27,lumpsum,115006.08,Delhi,Pending
+800,118632,17-03-2025,sip,139162.71,Telangana,Rejected
+801,118632,25-05-2025,redemption,94895.53,Maharashtra,Rejected
+802,120503,2025/06/18,Redemption,147607.33,Karnataka,Pending
+803,119092,22-01-2025,sip,170363.33,Delhi,Pending
+804,119551,07-06-2025,Redemption,51762.67,Karnataka,Rejected
+805,119551,2025/06/01,redemption,89607.31,Maharashtra,Pending
+806,119551,05-05-2025,Lumpsum,172471.88,Delhi,Verified
+807,119551,2025/06/02,SIP,167604.04,Tamil Nadu,Pending
+808,119551,2025/06/19,redemption,33873.01,Telangana,Rejected
+809,118632,2025/01/14,Redemption,163996.44,Karnataka,Verified
+810,119092,2025/04/13,lumpsum,149357.03,Telangana,Verified
+811,119092,2025/06/24,lumpsum,52893.72,Telangana,Pending
+812,120503,2025/03/15,lumpsum,76709.82,Delhi,Rejected
+813,120503,2025/01/25,redemption,71088.7,Tamil Nadu,Rejected
+814,118632,27-03-2025,Redemption,20106.22,Telangana,Pending
+815,119092,2025/06/22,redemption,134542.03,Maharashtra,Rejected
+816,118632,2025/06/23,SIP,62997.33,Karnataka,Rejected
+817,120503,18-01-2025,sip,105290.22,Tamil Nadu,Pending
+818,119551,14-03-2025,sip,5228.24,Karnataka,Verified
+819,120841,2025/06/18,SIP,190122.55,Karnataka,Rejected
+820,120503,2025/01/23,SIP,75503.71,Telangana,Verified
+821,120503,28-06-2025,Sip,93657.64,Karnataka,Rejected
+822,119092,2025/03/12,redemption,180726.6,Delhi,Pending
+823,119551,19-01-2025,sip,76868.4,Delhi,Verified
+824,118632,09-03-2025,sip,98598.5,Maharashtra,Rejected
+825,119092,2025/02/15,sip,29202.58,Tamil Nadu,Verified
+826,120841,14-06-2025,lumpsum,143222.36,Karnataka,Verified
+827,120503,2025/01/19,Sip,155558.81,Karnataka,Pending
+828,119551,2025/06/17,sip,133088.86,Delhi,Verified
+829,118632,2025/04/11,Lumpsum,141667.33,Tamil Nadu,Pending
+830,119092,2025/04/14,Redemption,162548.99,Karnataka,Rejected
+831,119551,2025/01/01,redemption,163686.34,Tamil Nadu,Verified
+832,120841,2025/05/18,Sip,67021.22,Delhi,Pending
+833,120503,2025/06/11,redemption,18588.06,Telangana,Pending
+834,120503,2025/04/28,Sip,129734.62,Maharashtra,Rejected
+835,120503,2025/04/09,Sip,139328.51,Karnataka,Rejected
+836,118632,05-05-2025,redemption,87877.76,Maharashtra,Verified
+837,120503,19-02-2025,Lumpsum,48077.78,Tamil Nadu,Verified
+838,120841,2025/06/14,Lumpsum,193008.29,Tamil Nadu,Verified
+839,120503,28-03-2025,Redemption,144341.89,Tamil Nadu,Verified
+840,119551,2025/06/17,lumpsum,188047.91,Telangana,Verified
+841,120841,2025/03/01,sip,147224.21,Tamil Nadu,Rejected
+842,120503,2025/05/01,Lumpsum,9637.44,Maharashtra,Verified
+843,119551,11-06-2025,Sip,164237.47,Karnataka,Pending
+844,120841,2025/02/13,sip,163651.14,Karnataka,Verified
+845,119092,2025/06/02,SIP,13090.47,Maharashtra,Pending
+846,118632,2025/06/23,sip,195182.73,Telangana,Rejected
+847,119551,2025/03/24,Redemption,43039.75,Karnataka,Rejected
+848,119551,27-03-2025,Sip,28676.74,Tamil Nadu,Verified
+849,118632,22-05-2025,SIP,185172.27,Karnataka,Verified
+850,120503,2025/06/11,Redemption,31971.86,Tamil Nadu,Verified
+851,120503,02-01-2025,sip,141494.88,Telangana,Pending
+852,119092,2025/06/27,Redemption,95464.49,Maharashtra,Verified
+853,119551,13-06-2025,lumpsum,82700.25,Maharashtra,Rejected
+854,120503,02-06-2025,lumpsum,122603.94,Karnataka,Rejected
+855,118632,2025/03/31,Lumpsum,47509.98,Karnataka,Rejected
+856,120503,2025/06/08,Redemption,197363.03,Telangana,Verified
+857,119092,2025/06/10,Sip,11087.27,Karnataka,Verified
+858,119092,08-05-2025,redemption,184573.27,Karnataka,Rejected
+859,118632,14-03-2025,Sip,67191.78,Tamil Nadu,Verified
+860,120503,2025/01/14,SIP,32030.1,Karnataka,Pending
+861,120841,30-01-2025,SIP,144419.91,Telangana,Rejected
+862,118632,18-04-2025,redemption,179725.36,Maharashtra,Verified
+863,118632,28-02-2025,redemption,82812.79,Maharashtra,Pending
+864,119551,2025/01/19,lumpsum,11340.7,Tamil Nadu,Verified
+865,119551,2025/06/06,lumpsum,75010.27,Tamil Nadu,Rejected
+866,119551,2025/06/11,Sip,40841.07,Maharashtra,Verified
+867,120841,16-01-2025,sip,170404.45,Tamil Nadu,Pending
+868,119551,29-03-2025,Sip,120925.38,Telangana,Verified
+869,120841,2025/05/22,sip,82633.38,Telangana,Pending
+870,119551,2025/06/01,lumpsum,56194.59,Tamil Nadu,Rejected
+871,119551,2025/03/05,Lumpsum,44870.12,Telangana,Verified
+872,120841,2025/01/02,sip,8491.71,Tamil Nadu,Rejected
+873,120841,2025/01/09,lumpsum,96114.23,Karnataka,Pending
+874,119092,03-03-2025,Redemption,2978.39,Tamil Nadu,Verified
+875,119551,02-04-2025,redemption,199790.86,Karnataka,Pending
+876,118632,2025/02/11,Redemption,114290.97,Telangana,Verified
+877,119092,2025/04/29,Redemption,140775.41,Maharashtra,Pending
+878,119092,12-06-2025,redemption,14604.37,Delhi,Rejected
+879,120503,2025/03/17,Sip,139761.97,Telangana,Rejected
+880,120841,2025/02/23,sip,124280.81,Delhi,Rejected
+881,120503,2025/05/12,redemption,73116.11,Karnataka,Verified
+882,119092,2025/04/04,sip,73431.44,Maharashtra,Rejected
+883,120841,2025/01/18,Redemption,41340.16,Delhi,Verified
+884,120841,2025/01/30,redemption,187860.01,Telangana,Rejected
+885,119551,2025/02/27,Sip,100961.41,Tamil Nadu,Pending
+886,120503,2025/01/17,lumpsum,97502.27,Telangana,Verified
+887,119092,2025/05/17,Lumpsum,179940.51,Tamil Nadu,Rejected
+888,118632,2025/06/22,Redemption,195627.85,Karnataka,Verified
+889,119092,23-01-2025,SIP,58030.35,Karnataka,Verified
+890,119551,12-03-2025,SIP,99517.58,Maharashtra,Rejected
+891,120503,2025/03/17,redemption,108516.27,Maharashtra,Pending
+892,118632,2025/04/18,redemption,4785.72,Maharashtra,Verified
+893,120503,2025/03/01,Lumpsum,129112.07,Tamil Nadu,Rejected
+894,118632,2025/06/17,Sip,97486.6,Telangana,Rejected
+895,119092,2025/04/28,SIP,179707.24,Delhi,Verified
+896,118632,2025/02/28,Sip,154065.07,Karnataka,Verified
+897,118632,2025/03/14,SIP,123916.73,Maharashtra,Rejected
+898,120841,15-03-2025,SIP,167946.67,Maharashtra,Verified
+899,119551,30-01-2025,Sip,115117.77,Tamil Nadu,Pending
+900,118632,17-02-2025,redemption,7420.47,Delhi,Pending
+901,119551,2025/04/06,SIP,106961.77,Karnataka,Verified
+902,119092,2025/05/08,lumpsum,185598.35,Maharashtra,Verified
+903,120841,2025/05/10,redemption,59463.6,Delhi,Rejected
+904,119551,2025/05/25,lumpsum,68067.54,Karnataka,Rejected
+905,119092,11-01-2025,Lumpsum,23816.78,Karnataka,Pending
+906,120841,2025/02/26,sip,65610.11,Telangana,Rejected
+907,119551,2025/05/30,Redemption,187165.18,Delhi,Verified
+908,120503,2025/01/22,lumpsum,135574.15,Karnataka,Rejected
+909,119092,2025/02/19,Lumpsum,121213.03,Karnataka,Rejected
+910,118632,12-04-2025,Redemption,85814.28,Tamil Nadu,Pending
+911,120503,2025/03/14,Sip,195515.96,Telangana,Verified
+912,119551,2025/04/24,lumpsum,160835.26,Delhi,Verified
+913,119092,17-04-2025,Lumpsum,119788.17,Maharashtra,Verified
+914,118632,2025/05/02,Lumpsum,197334.35,Karnataka,Rejected
+915,119092,23-01-2025,redemption,182924.89,Tamil Nadu,Verified
+916,120841,2025/04/29,Redemption,183016.99,Maharashtra,Verified
+917,119092,2025/03/16,sip,164648.44,Delhi,Rejected
+918,118632,2025/05/07,lumpsum,45291.78,Karnataka,Verified
+919,118632,2025/03/18,Redemption,127493.89,Karnataka,Rejected
+920,118632,17-04-2025,redemption,129134.78,Karnataka,Verified
+921,118632,2025/05/07,sip,119978.82,Delhi,Rejected
+922,119092,2025/05/25,Sip,125785.21,Tamil Nadu,Rejected
+923,120503,2025/04/06,Lumpsum,4000.24,Delhi,Verified
+924,120841,15-01-2025,lumpsum,175724.29,Maharashtra,Pending
+925,119551,14-01-2025,lumpsum,127431.3,Delhi,Verified
+926,118632,2025/03/16,sip,103016.37,Maharashtra,Verified
+927,120841,2025/02/12,Redemption,63583.98,Delhi,Pending
+928,118632,2025/01/25,Sip,164751.31,Karnataka,Verified
+929,120841,2025/03/14,lumpsum,82692.9,Maharashtra,Verified
+930,119551,2025/02/09,Redemption,38089.15,Telangana,Rejected
+931,120841,2025/05/17,redemption,151383.2,Karnataka,Pending
+932,119092,20-01-2025,SIP,184720.25,Tamil Nadu,Pending
+933,118632,2025/06/26,Redemption,88666.61,Telangana,Rejected
+934,118632,2025/02/14,sip,149019.81,Karnataka,Verified
+935,119551,27-06-2025,SIP,61831.95,Maharashtra,Verified
+936,120503,2025/04/19,Redemption,22788.58,Karnataka,Pending
+937,119092,11-01-2025,sip,158714.51,Telangana,Rejected
+938,120503,01-05-2025,Sip,9134.66,Delhi,Rejected
+939,120503,2025/01/25,Lumpsum,41477.54,Maharashtra,Verified
+940,118632,08-01-2025,Redemption,149366.5,Delhi,Rejected
+941,118632,01-04-2025,Lumpsum,156270.03,Telangana,Verified
+942,120841,26-05-2025,Redemption,115837.67,Karnataka,Rejected
+943,119551,2025/02/19,SIP,180381.23,Telangana,Verified
+944,120503,2025/02/24,Redemption,141697.34,Delhi,Rejected
+945,120841,2025/02/17,sip,36579.28,Delhi,Pending
+946,119092,2025/02/24,lumpsum,23012.67,Delhi,Verified
+947,119092,2025/01/29,lumpsum,152573.6,Delhi,Rejected
+948,120503,2025/01/22,sip,77263.83,Tamil Nadu,Rejected
+949,118632,2025/06/25,lumpsum,45561.75,Tamil Nadu,Pending
+950,119092,2025/02/18,Redemption,160586.06,Delhi,Verified
+951,120503,2025/06/22,sip,79575.77,Telangana,Rejected
+952,120503,31-01-2025,lumpsum,139159.9,Karnataka,Rejected
+953,119551,2025/01/17,SIP,68057.01,Telangana,Pending
+954,120503,2025/03/01,redemption,100072.47,Telangana,Rejected
+955,118632,2025/06/14,Sip,95427.34,Telangana,Pending
+956,119092,11-05-2025,Redemption,91199.63,Karnataka,Pending
+957,119092,08-05-2025,SIP,6429.84,Karnataka,Verified
+958,119092,23-06-2025,SIP,76835.28,Delhi,Verified
+959,118632,2025/06/09,Redemption,15765.19,Telangana,Pending
+960,119092,21-02-2025,lumpsum,98304.95,Delhi,Rejected
+961,118632,2025/05/19,Redemption,6803.91,Tamil Nadu,Verified
+962,119092,2025/04/26,lumpsum,88789.95,Karnataka,Verified
+963,119551,2025/05/23,Redemption,60957.39,Maharashtra,Pending
+964,119092,2025/02/04,lumpsum,97747.26,Karnataka,Rejected
+965,119092,2025/06/18,Lumpsum,114655.94,Tamil Nadu,Rejected
+966,119551,10-05-2025,Sip,99190.88,Tamil Nadu,Rejected
+967,118632,2025/03/14,sip,118297.45,Maharashtra,Pending
+968,118632,30-05-2025,redemption,68580.68,Karnataka,Pending
+969,118632,2025/04/02,sip,132417.38,Maharashtra,Verified
+970,118632,01-06-2025,redemption,13567.3,Delhi,Verified
+971,118632,13-02-2025,Sip,7956.84,Tamil Nadu,Rejected
+972,120841,18-04-2025,redemption,94205.13,Karnataka,Pending
+973,119092,2025/05/27,Lumpsum,19996.27,Tamil Nadu,Verified
+974,119551,2025/03/28,Redemption,153098.33,Delhi,Verified
+975,120841,2025/03/18,lumpsum,40750.85,Karnataka,Rejected
+976,119551,15-03-2025,Sip,199247.42,Tamil Nadu,Verified
+977,120841,2025/01/24,Lumpsum,19399.36,Delhi,Pending
+978,120503,2025/05/26,lumpsum,85707.63,Delhi,Verified
+979,118632,2025/05/10,lumpsum,132859.61,Delhi,Verified
+980,119092,13-04-2025,Lumpsum,90919.11,Telangana,Verified
+981,120503,2025/06/10,Redemption,37714.52,Tamil Nadu,Verified
+982,119092,2025/03/10,Lumpsum,161882.23,Tamil Nadu,Rejected
+983,120503,14-05-2025,lumpsum,29974.87,Maharashtra,Rejected
+984,118632,2025/04/22,Redemption,166127.77,Karnataka,Rejected
+985,119551,16-04-2025,Sip,129385.51,Delhi,Rejected
+986,120841,2025/03/02,sip,30417.47,Karnataka,Verified
+987,118632,2025/04/29,lumpsum,84692.82,Karnataka,Verified
+988,119551,11-03-2025,Sip,158039.13,Delhi,Rejected
+989,120841,2025/02/15,sip,192775.48,Tamil Nadu,Verified
+990,120503,2025/01/22,Sip,173500.77,Tamil Nadu,Pending
+991,120503,2025/04/12,redemption,168628.68,Maharashtra,Verified
+992,120841,2025/05/09,Lumpsum,133011.32,Telangana,Rejected
+993,118632,2025/05/08,SIP,120164.35,Delhi,Pending
+994,120841,2025/04/10,redemption,47569.65,Tamil Nadu,Verified
+995,119551,28-01-2025,Sip,88175.34,Delhi,Rejected
+996,120503,2025/05/06,redemption,189767.82,Delhi,Rejected
+997,119092,2025/05/02,Sip,175946.99,Maharashtra,Pending
+998,119092,2025/04/05,sip,129256.82,Telangana,Verified
+999,120503,2025/06/26,redemption,48315.33,Telangana,Pending
+1000,118632,2025/06/13,Sip,180679.84,Karnataka,Rejected
+1001,119551,2025/04/24,lumpsum,185537.73,Delhi,Pending
+1002,120503,02-03-2025,Redemption,178104.22,Tamil Nadu,Rejected
+1003,118632,2025/06/14,sip,55170.29,Karnataka,Pending
+1004,119092,2025/04/16,Sip,143618.51,Karnataka,Verified
+1005,118632,10-05-2025,lumpsum,120622.13,Telangana,Rejected
+1006,118632,2025/04/27,Redemption,10893.72,Maharashtra,Rejected
+1007,119092,14-06-2025,lumpsum,40415.03,Delhi,Pending
+1008,120841,22-01-2025,SIP,103515.0,Maharashtra,Rejected
+1009,119092,2025/03/23,Redemption,147166.84,Delhi,Verified
+1010,120841,2025/03/25,SIP,17337.59,Delhi,Verified
+1011,119092,2025/04/07,Lumpsum,45285.18,Karnataka,Rejected
+1012,120841,10-06-2025,sip,194838.45,Maharashtra,Pending
+1013,119551,2025/01/13,lumpsum,120278.35,Maharashtra,Verified
+1014,118632,2025/02/13,sip,3315.92,Telangana,Pending
+1015,119092,2025/06/22,SIP,142855.96,Maharashtra,Pending
+1016,118632,2025/05/07,lumpsum,171339.38,Telangana,Verified
+1017,118632,23-06-2025,SIP,82000.56,Maharashtra,Verified
+1018,118632,09-03-2025,lumpsum,181511.98,Delhi,Rejected
+1019,119092,22-01-2025,SIP,174352.97,Tamil Nadu,Rejected
+1020,119551,2025/04/09,redemption,119640.59,Karnataka,Verified
+1021,120841,16-01-2025,SIP,94451.02,Delhi,Rejected
+1022,120841,12-01-2025,Lumpsum,124121.75,Delhi,Pending
+1023,118632,2025/02/03,Lumpsum,8704.44,Maharashtra,Pending
+1024,119551,2025/05/09,Sip,175640.4,Maharashtra,Verified
+1025,118632,2025/05/16,Sip,23809.99,Karnataka,Verified
+1026,119092,2025/03/13,lumpsum,56943.64,Delhi,Rejected
+1027,118632,2025/05/13,SIP,63450.81,Tamil Nadu,Verified
+1028,120841,2025/06/18,lumpsum,11117.83,Maharashtra,Verified
+1029,119551,16-02-2025,Sip,33129.21,Tamil Nadu,Pending
+1030,120503,07-05-2025,Sip,197769.31,Telangana,Pending
+1031,119092,07-05-2025,redemption,173442.42,Karnataka,Pending
+1032,120503,2025/02/22,SIP,167073.26,Telangana,Pending
+1033,120841,2025/06/19,Lumpsum,199601.91,Karnataka,Rejected
+1034,120841,2025/02/16,sip,49608.41,Tamil Nadu,Rejected
+1035,120503,26-03-2025,redemption,196276.23,Karnataka,Pending
+1036,118632,2025/06/01,sip,167476.95,Maharashtra,Verified
+1037,120503,2025/04/28,redemption,96231.09,Delhi,Rejected
+1038,120503,2025/03/26,redemption,124661.79,Tamil Nadu,Pending
+1039,120841,03-02-2025,sip,160410.81,Delhi,Pending
+1040,120503,2025/01/19,Lumpsum,76587.49,Tamil Nadu,Pending
+1041,119551,2025/03/03,Redemption,80083.99,Karnataka,Verified
+1042,119551,2025/04/10,Sip,129610.02,Maharashtra,Verified
+1043,118632,2025/05/06,redemption,161367.46,Delhi,Rejected
+1044,120841,2025/02/03,sip,166494.55,Telangana,Verified
+1045,119092,2025/04/25,lumpsum,54061.64,Telangana,Pending
+1046,120503,2025/04/19,Lumpsum,37677.99,Tamil Nadu,Verified
+1047,120503,2025/05/12,lumpsum,135449.79,Maharashtra,Pending
+1048,120841,2025/06/11,sip,58495.25,Tamil Nadu,Verified
+1049,119092,18-03-2025,SIP,137020.63,Delhi,Verified
+1050,120841,20-04-2025,sip,110423.37,Karnataka,Rejected
+1051,120503,2025/05/11,sip,93198.97,Telangana,Pending
+1052,118632,2025/03/07,Redemption,100937.19,Karnataka,Rejected
+1053,119092,2025/02/15,Redemption,78894.99,Karnataka,Pending
+1054,118632,2025/03/22,lumpsum,151592.18,Tamil Nadu,Rejected
+1055,118632,2025/03/29,Redemption,162096.2,Maharashtra,Verified
+1056,120503,04-06-2025,redemption,21712.97,Telangana,Verified
+1057,120503,12-04-2025,SIP,131332.29,Tamil Nadu,Rejected
+1058,119092,2025/06/18,Lumpsum,145319.33,Delhi,Rejected
+1059,120841,2025/04/03,redemption,135182.91,Delhi,Verified
+1060,119551,04-02-2025,sip,163285.66,Maharashtra,Verified
+1061,119551,2025/05/04,redemption,48735.15,Telangana,Verified
+1062,120503,2025/03/19,SIP,95060.82,Karnataka,Verified
+1063,119551,2025/02/09,lumpsum,192791.44,Tamil Nadu,Verified
+1064,119092,30-05-2025,Sip,114101.38,Tamil Nadu,Verified
+1065,118632,03-01-2025,Redemption,142762.02,Tamil Nadu,Pending
+1066,120841,2025/06/02,Sip,7884.93,Tamil Nadu,Pending
+1067,120841,2025/06/01,redemption,181062.09,Tamil Nadu,Verified
+1068,120503,16-05-2025,Lumpsum,63512.1,Karnataka,Pending
+1069,119092,02-05-2025,Lumpsum,187823.41,Delhi,Pending
+1070,119092,06-01-2025,redemption,38844.16,Delhi,Pending
+1071,119551,10-05-2025,redemption,68161.02,Telangana,Rejected
+1072,119092,2025/02/03,redemption,142421.34,Tamil Nadu,Rejected
+1073,118632,2025/05/01,Redemption,32824.14,Maharashtra,Pending
+1074,120503,2025/06/20,SIP,40297.1,Telangana,Pending
+1075,120503,2025/04/17,lumpsum,61078.55,Maharashtra,Rejected
+1076,120503,2025/01/05,Sip,71730.25,Maharashtra,Verified
+1077,120841,2025/01/09,Sip,86408.78,Telangana,Verified
+1078,120503,24-05-2025,Sip,198735.73,Delhi,Verified
+1079,120841,2025/03/10,Redemption,138182.05,Telangana,Rejected
+1080,120503,2025/01/13,lumpsum,159897.88,Karnataka,Verified
+1081,120841,2025/06/06,sip,164810.24,Karnataka,Rejected
+1082,120503,2025/02/12,Redemption,41474.55,Delhi,Verified
+1083,118632,2025/04/24,lumpsum,146644.1,Karnataka,Verified
+1084,118632,2025/03/27,sip,169794.72,Tamil Nadu,Pending
+1085,120503,2025/03/04,lumpsum,68593.35,Telangana,Verified
+1086,120503,2025/03/10,Redemption,83294.22,Maharashtra,Verified
+1087,120841,2025/04/18,SIP,160452.85,Tamil Nadu,Pending
+1088,119092,2025/05/13,Sip,188776.18,Tamil Nadu,Verified
+1089,120503,2025/05/13,sip,67991.57,Tamil Nadu,Verified
+1090,119092,2025/01/16,sip,132205.15,Maharashtra,Rejected
+1091,120503,2025/06/11,Redemption,132242.15,Telangana,Pending
+1092,119092,2025/04/13,redemption,110945.28,Delhi,Rejected
+1093,118632,30-03-2025,Sip,180091.6,Telangana,Verified
+1094,119092,2025/04/25,Lumpsum,125059.76,Telangana,Rejected
+1095,119092,2025/06/28,Redemption,156421.84,Tamil Nadu,Verified
+1096,118632,22-01-2025,Sip,78303.71,Maharashtra,Rejected
+1097,120841,14-03-2025,Lumpsum,110581.28,Telangana,Pending
+1098,119551,06-01-2025,Redemption,108216.56,Delhi,Verified
+1099,118632,2025/04/19,sip,146531.24,Delhi,Pending
+1100,120841,01-04-2025,Redemption,130367.0,Karnataka,Pending
+1101,118632,2025/05/27,lumpsum,68126.57,Maharashtra,Rejected
+1102,120841,2025/05/25,redemption,133271.35,Telangana,Verified
+1103,118632,18-03-2025,Redemption,163108.31,Telangana,Rejected
+1104,119551,2025/04/07,SIP,21492.77,Telangana,Rejected
+1105,119551,2025/04/03,SIP,142472.26,Tamil Nadu,Verified
+1106,120503,2025/01/16,SIP,95512.49,Tamil Nadu,Verified
+1107,118632,2025/06/23,Lumpsum,112014.21,Tamil Nadu,Pending
+1108,120841,2025/05/08,lumpsum,137959.06,Tamil Nadu,Rejected
+1109,119092,11-02-2025,SIP,97210.5,Tamil Nadu,Verified
+1110,120841,16-05-2025,SIP,91358.76,Karnataka,Rejected
+1111,119551,2025/05/24,sip,120519.24,Tamil Nadu,Verified
+1112,120503,2025/04/05,sip,104794.11,Karnataka,Pending
+1113,118632,2025/04/06,lumpsum,6081.57,Maharashtra,Verified
+1114,120841,18-04-2025,Sip,177866.91,Maharashtra,Verified
+1115,119092,01-01-2025,Sip,13979.13,Karnataka,Pending
+1116,119092,2025/05/27,lumpsum,180107.31,Tamil Nadu,Pending
+1117,120841,2025/02/03,Lumpsum,127473.82,Tamil Nadu,Rejected
+1118,119092,2025/02/08,Sip,18318.34,Telangana,Rejected
+1119,120841,2025/04/15,lumpsum,68130.08,Karnataka,Rejected
+1120,119092,2025/03/13,Redemption,33540.15,Karnataka,Rejected
+1121,118632,2025/05/24,redemption,112090.89,Maharashtra,Rejected
+1122,120841,2025/05/28,Lumpsum,104589.88,Tamil Nadu,Rejected
+1123,120503,2025/01/31,Lumpsum,36358.81,Karnataka,Pending
+1124,119551,2025/03/04,Redemption,177587.34,Tamil Nadu,Verified
+1125,120841,2025/06/05,Lumpsum,9474.24,Karnataka,Pending
+1126,119092,2025/02/16,Redemption,105816.4,Tamil Nadu,Pending
+1127,120503,2025/01/30,Lumpsum,34047.12,Maharashtra,Verified
+1128,118632,23-01-2025,lumpsum,135882.41,Karnataka,Rejected
+1129,118632,16-02-2025,sip,59955.86,Karnataka,Pending
+1130,119551,2025/04/16,Sip,75414.88,Karnataka,Verified
+1131,119551,2025/03/03,Lumpsum,47679.98,Telangana,Rejected
+1132,119092,30-01-2025,Sip,93232.29,Tamil Nadu,Verified
+1133,119092,2025/01/08,SIP,182790.15,Karnataka,Pending
+1134,120841,2025/05/31,SIP,152714.17,Maharashtra,Pending
+1135,120841,2025/04/15,Redemption,127341.9,Maharashtra,Verified
+1136,118632,2025/05/19,Redemption,49409.72,Tamil Nadu,Rejected
+1137,119092,11-01-2025,lumpsum,192242.33,Telangana,Pending
+1138,119551,01-01-2025,lumpsum,55023.94,Delhi,Rejected
+1139,119092,2025/03/31,SIP,117239.25,Telangana,Pending
+1140,120503,2025/02/11,Lumpsum,14452.08,Karnataka,Pending
+1141,120503,2025/02/05,Sip,175716.72,Maharashtra,Rejected
+1142,120841,2025/03/23,Sip,127216.39,Tamil Nadu,Pending
+1143,119551,2025/06/19,Sip,42519.47,Telangana,Pending
+1144,120503,27-06-2025,sip,121952.96,Karnataka,Verified
+1145,119551,2025/04/16,redemption,140808.29,Tamil Nadu,Rejected
+1146,120503,2025/06/16,Lumpsum,6674.03,Tamil Nadu,Rejected
+1147,120503,2025/04/01,lumpsum,165579.63,Delhi,Pending
+1148,119551,2025/06/28,sip,92807.16,Maharashtra,Pending
+1149,120503,2025/02/26,Redemption,56586.33,Delhi,Verified
+1150,120503,2025/06/07,Redemption,143703.0,Maharashtra,Pending
+1151,118632,10-01-2025,redemption,141540.12,Maharashtra,Verified
+1152,119551,2025/06/13,Redemption,55830.84,Telangana,Pending
+1153,119551,22-05-2025,redemption,113358.56,Telangana,Rejected
+1154,119551,2025/01/17,redemption,13477.34,Delhi,Rejected
+1155,119551,2025/05/14,Sip,38774.38,Karnataka,Rejected
+1156,120841,07-06-2025,Lumpsum,176678.84,Karnataka,Pending
+1157,120503,2025/03/24,lumpsum,55170.1,Telangana,Pending
+1158,119092,2025/04/03,sip,176818.59,Maharashtra,Verified
+1159,118632,2025/04/18,Sip,1529.28,Maharashtra,Pending
+1160,120503,2025/05/27,redemption,45512.79,Tamil Nadu,Verified
+1161,119551,20-02-2025,Sip,13037.4,Karnataka,Verified
+1162,119092,2025/04/21,Lumpsum,159545.57,Delhi,Pending
+1163,119551,2025/01/28,Sip,166587.24,Delhi,Rejected
+1164,119551,2025/01/19,Lumpsum,87986.63,Karnataka,Rejected
+1165,119092,29-05-2025,sip,183384.52,Tamil Nadu,Pending
+1166,120503,02-02-2025,Redemption,88662.72,Delhi,Rejected
+1167,119092,17-01-2025,sip,112071.98,Delhi,Pending
+1168,119092,2025/01/25,lumpsum,47005.84,Telangana,Rejected
+1169,120841,2025/01/03,lumpsum,159135.35,Telangana,Rejected
+1170,120503,2025/03/28,redemption,156694.36,Tamil Nadu,Rejected
+1171,118632,31-05-2025,sip,2951.57,Karnataka,Rejected
+1172,119551,27-05-2025,Lumpsum,51629.08,Tamil Nadu,Pending
+1173,120841,24-04-2025,SIP,159506.6,Karnataka,Verified
+1174,118632,2025/05/30,redemption,150997.54,Delhi,Rejected
+1175,120841,07-02-2025,Sip,120864.23,Delhi,Pending
+1176,120503,2025/05/13,redemption,29347.78,Maharashtra,Rejected
+1177,120841,2025/01/14,SIP,195313.9,Maharashtra,Verified
+1178,118632,2025/02/18,redemption,138522.28,Tamil Nadu,Rejected
+1179,118632,2025/05/29,Sip,123412.58,Tamil Nadu,Pending
+1180,119551,2025/01/27,Redemption,182153.33,Tamil Nadu,Verified
+1181,120503,13-06-2025,SIP,93574.08,Maharashtra,Verified
+1182,119092,2025/03/26,lumpsum,41460.61,Maharashtra,Verified
+1183,118632,03-01-2025,sip,111160.98,Maharashtra,Pending
+1184,119092,2025/02/19,Redemption,72301.89,Karnataka,Verified
+1185,119551,14-03-2025,Sip,143907.92,Delhi,Rejected
+1186,119551,15-02-2025,SIP,168654.84,Karnataka,Verified
+1187,119551,2025/04/08,sip,68007.46,Maharashtra,Pending
+1188,119092,2025/03/03,Sip,132351.29,Telangana,Rejected
+1189,119092,17-01-2025,SIP,159082.17,Maharashtra,Rejected
+1190,119092,2025/06/27,Lumpsum,86193.26,Maharashtra,Verified
+1191,120841,31-05-2025,Lumpsum,59189.46,Maharashtra,Pending
+1192,119551,2025/01/14,Sip,174633.87,Telangana,Rejected
+1193,119092,2025/02/23,Redemption,94398.13,Telangana,Verified
+1194,119551,2025/05/11,redemption,150351.69,Delhi,Pending
+1195,120841,29-04-2025,redemption,75088.8,Tamil Nadu,Rejected
+1196,119092,02-05-2025,lumpsum,127802.07,Telangana,Rejected
+1197,120503,23-02-2025,SIP,90689.97,Maharashtra,Pending
+1198,119551,2025/03/20,lumpsum,114488.39,Delhi,Pending
+1199,120841,22-01-2025,sip,59362.08,Telangana,Pending
+1200,119551,30-05-2025,Lumpsum,124414.6,Tamil Nadu,Pending
+1201,119092,2025/04/21,Redemption,99759.84,Delhi,Pending
+1202,120503,2025/02/15,Sip,129248.29,Delhi,Verified
+1203,118632,2025/05/09,redemption,16092.72,Delhi,Verified
+1204,120503,31-01-2025,sip,109432.2,Delhi,Verified
+1205,118632,2025/03/06,Redemption,153812.33,Delhi,Verified
+1206,120841,2025/02/05,Redemption,143378.98,Telangana,Pending
+1207,120503,18-03-2025,Sip,156734.09,Tamil Nadu,Pending
+1208,120841,17-06-2025,redemption,102773.07,Maharashtra,Pending
+1209,119551,2025/02/28,SIP,95150.43,Telangana,Rejected
+1210,120841,2025/04/30,lumpsum,68461.58,Karnataka,Pending
+1211,119551,2025/04/20,redemption,83828.73,Tamil Nadu,Pending
+1212,120841,2025/01/08,Lumpsum,174813.17,Delhi,Rejected
+1213,120503,2025/05/08,Redemption,71255.16,Maharashtra,Pending
+1214,119092,2025/06/25,Redemption,155839.36,Telangana,Pending
+1215,118632,31-05-2025,Redemption,6925.69,Maharashtra,Verified
+1216,118632,2025/05/26,Lumpsum,182793.56,Telangana,Pending
+1217,119092,2025/02/22,sip,107130.87,Maharashtra,Pending
+1218,120503,2025/03/26,lumpsum,127981.16,Delhi,Verified
+1219,119551,2025/01/27,SIP,6895.8,Telangana,Pending
+1220,120503,17-02-2025,lumpsum,57121.62,Maharashtra,Pending
+1221,120841,2025/01/18,Sip,103947.07,Maharashtra,Pending
+1222,119092,11-04-2025,sip,26262.96,Tamil Nadu,Pending
+1223,120503,2025/04/10,Redemption,41692.7,Maharashtra,Pending
+1224,119092,2025/06/20,Lumpsum,115230.73,Delhi,Rejected
+1225,119551,2025/05/09,lumpsum,55450.48,Karnataka,Verified
+1226,119092,2025/01/17,Lumpsum,161609.38,Telangana,Pending
+1227,120841,2025/05/06,Lumpsum,8297.42,Karnataka,Pending
+1228,119092,2025/03/30,redemption,158573.18,Tamil Nadu,Rejected
+1229,119551,17-04-2025,Lumpsum,146782.17,Tamil Nadu,Pending
+1230,119551,2025/06/28,lumpsum,139879.63,Karnataka,Verified
+1231,119551,2025/03/12,Lumpsum,58731.97,Karnataka,Rejected
+1232,119551,2025/05/07,Redemption,110788.37,Delhi,Verified
+1233,120503,2025/05/10,Sip,82314.17,Maharashtra,Pending
+1234,119551,10-05-2025,sip,15102.5,Tamil Nadu,Pending
+1235,118632,2025/04/13,lumpsum,8036.04,Delhi,Verified
+1236,119551,2025/03/25,lumpsum,97209.47,Karnataka,Verified
+1237,120841,18-06-2025,lumpsum,28481.02,Delhi,Verified
+1238,119551,2025/01/05,SIP,59181.86,Telangana,Rejected
+1239,119092,13-02-2025,Redemption,2736.52,Delhi,Verified
+1240,119092,02-04-2025,redemption,7371.75,Telangana,Verified
+1241,119092,28-06-2025,redemption,162396.61,Karnataka,Pending
+1242,118632,24-04-2025,sip,10208.61,Tamil Nadu,Verified
+1243,119551,2025/04/06,SIP,18731.59,Tamil Nadu,Verified
+1244,120503,2025/03/28,redemption,133955.42,Maharashtra,Verified
+1245,119551,12-02-2025,Lumpsum,21982.92,Delhi,Pending
+1246,120841,10-06-2025,SIP,186898.31,Tamil Nadu,Pending
+1247,120503,01-03-2025,Sip,65011.88,Karnataka,Pending
+1248,118632,2025/01/04,lumpsum,44409.19,Delhi,Rejected
+1249,120841,05-04-2025,SIP,82513.82,Telangana,Pending
+1250,120503,2025/05/18,Redemption,114056.41,Delhi,Verified
+1251,120841,2025/03/25,redemption,78018.81,Maharashtra,Pending
+1252,119551,2025/06/12,redemption,63934.41,Tamil Nadu,Verified
+1253,118632,2025/01/05,Lumpsum,90057.86,Telangana,Rejected
+1254,119551,2025/05/09,sip,46904.88,Telangana,Verified
+1255,118632,2025/03/02,Redemption,49087.37,Karnataka,Verified
+1256,119551,2025/04/06,SIP,30758.28,Maharashtra,Rejected
+1257,120503,2025/03/02,Lumpsum,197716.0,Tamil Nadu,Rejected
+1258,118632,04-02-2025,redemption,157500.69,Karnataka,Rejected
+1259,119092,2025/06/15,Redemption,5226.82,Delhi,Pending
+1260,119551,2025/02/22,redemption,197681.07,Maharashtra,Rejected
+1261,119092,2025/05/14,lumpsum,126141.61,Karnataka,Pending
+1262,120503,19-02-2025,SIP,187685.77,Maharashtra,Verified
+1263,119551,2025/06/01,Redemption,186396.63,Maharashtra,Rejected
+1264,120503,2025/04/20,Sip,33249.68,Maharashtra,Verified
+1265,119092,2025/02/15,Sip,57427.9,Tamil Nadu,Rejected
+1266,119551,2025/03/11,lumpsum,16463.19,Delhi,Pending
+1267,119092,2025/02/12,lumpsum,101305.86,Tamil Nadu,Verified
+1268,119092,2025/01/06,lumpsum,170881.42,Delhi,Rejected
+1269,120841,2025/02/09,SIP,51829.7,Tamil Nadu,Pending
+1270,119092,2025/03/14,Lumpsum,96428.44,Delhi,Verified
+1271,119092,20-02-2025,SIP,1334.02,Telangana,Rejected
+1272,118632,2025/05/06,lumpsum,188086.85,Delhi,Pending
+1273,119092,2025/03/20,Lumpsum,14711.25,Karnataka,Verified
+1274,119092,25-05-2025,Redemption,87541.44,Delhi,Rejected
+1275,118632,2025/05/11,redemption,137853.63,Karnataka,Rejected
+1276,119092,2025/04/19,SIP,95806.25,Delhi,Rejected
+1277,120503,2025/06/28,SIP,52635.47,Tamil Nadu,Rejected
+1278,119551,07-03-2025,Lumpsum,190379.76,Maharashtra,Verified
+1279,120503,2025/01/24,lumpsum,79834.55,Telangana,Verified
+1280,120841,2025/02/18,SIP,166035.04,Delhi,Rejected
+1281,118632,2025/05/09,redemption,177386.85,Telangana,Pending
+1282,119092,23-01-2025,Lumpsum,155449.88,Delhi,Verified
+1283,118632,2025/02/23,lumpsum,139952.29,Karnataka,Verified
+1284,119092,01-01-2025,Redemption,139415.18,Telangana,Pending
+1285,118632,21-04-2025,Sip,37686.81,Maharashtra,Verified
+1286,119092,2025/02/16,sip,90406.83,Maharashtra,Verified
+1287,119551,2025/01/16,Redemption,151953.35,Delhi,Pending
+1288,119092,2025/06/10,sip,173738.22,Maharashtra,Verified
+1289,118632,2025/01/22,Sip,13320.36,Karnataka,Rejected
+1290,119551,2025/05/03,Redemption,20611.42,Karnataka,Pending
+1291,120503,2025/06/20,sip,19819.95,Telangana,Verified
+1292,119092,2025/06/04,Redemption,53534.24,Tamil Nadu,Pending
+1293,118632,2025/06/04,Sip,136531.07,Delhi,Pending
+1294,119551,2025/04/03,lumpsum,122356.41,Delhi,Pending
+1295,120503,2025/01/01,redemption,80660.77,Maharashtra,Verified
+1296,120841,2025/02/01,Sip,190236.86,Maharashtra,Pending
+1297,119092,2025/06/08,Redemption,95302.29,Tamil Nadu,Rejected
+1298,119551,2025/01/01,Redemption,64775.62,Delhi,Verified
+1299,118632,2025/06/23,Lumpsum,97164.96,Telangana,Verified
+1300,118632,2025/04/20,lumpsum,197380.86,Karnataka,Rejected
+1301,119092,2025/03/17,redemption,29060.71,Telangana,Rejected
+1302,120841,09-01-2025,Redemption,17874.43,Telangana,Pending
+1303,119551,2025/04/25,lumpsum,132697.1,Maharashtra,Verified
+1304,119551,2025/02/13,redemption,140131.85,Karnataka,Pending
+1305,120503,2025/02/11,Sip,180578.38,Delhi,Verified
+1306,118632,2025/06/20,redemption,25058.07,Maharashtra,Rejected
+1307,119092,2025/01/24,Sip,174452.15,Telangana,Rejected
+1308,120503,2025/06/14,redemption,148722.08,Tamil Nadu,Rejected
+1309,120841,2025/04/22,SIP,52189.24,Delhi,Verified
+1310,120503,2025/01/23,Lumpsum,187473.52,Karnataka,Rejected
+1311,118632,2025/02/02,lumpsum,115594.91,Karnataka,Pending
+1312,120503,2025/06/01,Redemption,77935.03,Tamil Nadu,Pending
+1313,118632,2025/06/23,SIP,104190.4,Telangana,Rejected
+1314,119551,2025/01/28,Lumpsum,170546.22,Delhi,Verified
+1315,118632,2025/02/26,lumpsum,29911.36,Delhi,Verified
+1316,120503,2025/06/03,Lumpsum,198071.85,Karnataka,Pending
+1317,120841,2025/05/03,SIP,99257.59,Tamil Nadu,Verified
+1318,118632,2025/02/09,SIP,169689.95,Maharashtra,Rejected
+1319,120503,2025/02/15,redemption,78665.67,Maharashtra,Verified
+1320,120841,2025/04/11,redemption,94947.61,Delhi,Pending
+1321,119092,2025/01/19,Sip,56831.63,Maharashtra,Rejected
+1322,120841,11-04-2025,Sip,150577.16,Telangana,Verified
+1323,118632,2025/04/28,Lumpsum,27943.41,Tamil Nadu,Pending
+1324,119551,23-02-2025,redemption,39533.19,Karnataka,Pending
+1325,120841,2025/01/27,Redemption,29947.29,Tamil Nadu,Rejected
+1326,119551,15-01-2025,lumpsum,36336.76,Karnataka,Verified
+1327,120841,2025/06/16,lumpsum,193960.53,Tamil Nadu,Verified
+1328,120503,31-01-2025,lumpsum,60886.58,Telangana,Verified
+1329,119092,2025/06/27,redemption,131874.51,Tamil Nadu,Rejected
+1330,119092,2025/03/12,lumpsum,73780.95,Karnataka,Verified
+1331,120503,2025/02/01,redemption,181741.45,Maharashtra,Verified
+1332,120841,2025/05/27,lumpsum,55108.1,Karnataka,Rejected
+1333,119551,2025/04/09,redemption,140696.03,Delhi,Rejected
+1334,119551,2025/01/26,redemption,181821.66,Telangana,Verified
+1335,119092,29-06-2025,Lumpsum,163583.84,Telangana,Pending
+1336,120503,2025/05/13,Lumpsum,142892.95,Karnataka,Verified
+1337,120503,2025/02/16,redemption,36397.54,Telangana,Pending
+1338,118632,01-02-2025,Lumpsum,41642.87,Maharashtra,Verified
+1339,120841,2025/03/07,sip,17379.76,Karnataka,Rejected
+1340,118632,2025/04/04,SIP,84898.74,Karnataka,Verified
+1341,118632,2025/01/12,Lumpsum,180971.59,Delhi,Rejected
+1342,120841,24-04-2025,lumpsum,139172.75,Telangana,Pending
+1343,120841,2025/05/18,redemption,20252.32,Karnataka,Verified
+1344,120503,18-02-2025,Redemption,166609.25,Maharashtra,Rejected
+1345,120841,2025/02/25,Sip,26134.18,Telangana,Pending
+1346,120503,21-05-2025,lumpsum,130128.9,Maharashtra,Pending
+1347,119092,2025/01/22,redemption,85356.0,Maharashtra,Rejected
+1348,119551,2025/01/19,Sip,199074.17,Maharashtra,Rejected
+1349,118632,2025/05/25,Redemption,102529.78,Maharashtra,Pending
+1350,119551,2025/03/22,lumpsum,76098.91,Telangana,Verified
+1351,120503,11-03-2025,sip,136953.86,Tamil Nadu,Verified
+1352,118632,13-06-2025,Sip,155725.15,Maharashtra,Verified
+1353,118632,03-01-2025,SIP,76037.15,Karnataka,Verified
+1354,119551,2025/05/15,Sip,117971.0,Tamil Nadu,Verified
+1355,120841,2025/03/31,Redemption,56758.35,Delhi,Rejected
+1356,120503,13-01-2025,Redemption,78217.88,Delhi,Rejected
+1357,120841,2025/05/22,Redemption,80828.93,Telangana,Verified
+1358,118632,2025/01/03,redemption,31520.51,Maharashtra,Verified
+1359,119092,2025/05/26,sip,183729.11,Delhi,Rejected
+1360,119551,2025/06/23,redemption,91828.42,Tamil Nadu,Pending
+1361,119092,09-05-2025,lumpsum,104358.64,Maharashtra,Pending
+1362,120503,2025/03/20,Sip,169126.5,Karnataka,Verified
+1363,119551,24-01-2025,sip,17374.73,Delhi,Rejected
+1364,119092,2025/01/03,lumpsum,135568.1,Maharashtra,Pending
+1365,119092,2025/05/12,redemption,177672.07,Karnataka,Pending
+1366,120503,07-06-2025,Redemption,149310.49,Tamil Nadu,Rejected
+1367,120841,30-03-2025,redemption,132404.24,Telangana,Rejected
+1368,120841,2025/01/11,SIP,135067.17,Telangana,Verified
+1369,119551,2025/01/20,SIP,102980.05,Karnataka,Pending
+1370,119092,08-04-2025,sip,67922.74,Maharashtra,Rejected
+1371,120503,16-03-2025,Sip,53317.78,Karnataka,Rejected
+1372,120841,11-04-2025,Sip,185857.25,Telangana,Verified
+1373,119092,2025/06/08,sip,71470.94,Telangana,Pending
+1374,118632,2025/03/18,sip,70269.48,Maharashtra,Pending
+1375,118632,03-01-2025,lumpsum,39910.11,Telangana,Rejected
+1376,119551,16-04-2025,lumpsum,1878.64,Delhi,Verified
+1377,119092,2025/04/12,Sip,85954.12,Maharashtra,Rejected
+1378,118632,2025/01/28,redemption,167951.81,Maharashtra,Verified
+1379,118632,22-04-2025,Redemption,141989.28,Karnataka,Verified
+1380,118632,11-01-2025,lumpsum,148912.84,Karnataka,Verified
+1381,119551,2025/05/03,Sip,24199.07,Tamil Nadu,Rejected
+1382,119092,2025/06/24,Sip,150342.44,Tamil Nadu,Rejected
+1383,119092,03-02-2025,sip,158646.23,Maharashtra,Verified
+1384,118632,09-05-2025,redemption,47682.73,Delhi,Pending
+1385,120841,2025/01/03,Sip,56803.56,Karnataka,Pending
+1386,119551,08-06-2025,Lumpsum,37778.62,Delhi,Verified
+1387,118632,29-06-2025,Redemption,86117.21,Tamil Nadu,Rejected
+1388,120503,2025/06/29,Lumpsum,36647.06,Telangana,Rejected
+1389,119551,28-02-2025,lumpsum,8154.1,Maharashtra,Verified
+1390,119092,2025/01/05,sip,172937.85,Tamil Nadu,Pending
+1391,120841,2025/03/20,SIP,44744.16,Tamil Nadu,Pending
+1392,120503,2025/05/11,sip,61205.85,Delhi,Pending
+1393,118632,2025/03/31,SIP,64308.26,Karnataka,Verified
+1394,120503,01-01-2025,redemption,64667.1,Delhi,Pending
+1395,118632,05-06-2025,SIP,50826.48,Tamil Nadu,Pending
+1396,118632,19-03-2025,redemption,3225.49,Telangana,Verified
+1397,118632,2025/04/03,Sip,148714.94,Telangana,Rejected
+1398,120841,06-04-2025,Sip,42401.64,Tamil Nadu,Verified
+1399,120503,2025/02/03,Lumpsum,24510.69,Telangana,Rejected
+1400,119551,2025/02/19,sip,15438.48,Telangana,Rejected
+1401,118632,2025/03/19,Redemption,40798.82,Maharashtra,Verified
+1402,119551,2025/02/19,redemption,50878.84,Telangana,Pending
+1403,118632,2025/04/25,sip,182214.41,Karnataka,Pending
+1404,119092,2025/05/15,Lumpsum,158281.59,Maharashtra,Rejected
+1405,118632,2025/06/28,Sip,9566.32,Telangana,Verified
+1406,119551,2025/04/12,Lumpsum,174116.02,Karnataka,Verified
+1407,119092,2025/05/11,Redemption,78354.26,Telangana,Pending
+1408,119551,17-02-2025,Lumpsum,43952.64,Karnataka,Rejected
+1409,119092,2025/05/09,Lumpsum,52137.51,Maharashtra,Pending
+1410,118632,22-05-2025,SIP,9599.69,Maharashtra,Pending
+1411,120503,13-06-2025,Sip,185485.97,Delhi,Verified
+1412,119551,2025/02/23,sip,129904.78,Telangana,Pending
+1413,118632,2025/01/22,Lumpsum,53175.62,Maharashtra,Pending
+1414,120841,2025/03/17,sip,125378.08,Karnataka,Pending
+1415,119551,13-03-2025,sip,107709.04,Telangana,Verified
+1416,119092,17-06-2025,redemption,127043.96,Telangana,Verified
+1417,119092,2025/02/26,SIP,116541.93,Tamil Nadu,Verified
+1418,119092,2025/03/01,lumpsum,74043.68,Tamil Nadu,Verified
+1419,119092,2025/02/16,Redemption,172539.26,Maharashtra,Rejected
+1420,119092,2025/02/16,sip,62376.96,Maharashtra,Pending
+1421,120841,18-02-2025,sip,85565.81,Tamil Nadu,Rejected
+1422,119092,2025/01/26,SIP,145489.54,Karnataka,Rejected
+1423,120503,2025/04/07,sip,165399.17,Karnataka,Verified
+1424,119551,22-01-2025,redemption,120127.62,Karnataka,Verified
+1425,120841,2025/03/28,sip,40863.17,Tamil Nadu,Rejected
+1426,119092,2025/02/11,lumpsum,31325.41,Karnataka,Rejected
+1427,118632,2025/06/10,sip,165072.52,Karnataka,Rejected
+1428,118632,2025/01/27,Redemption,83349.29,Karnataka,Verified
+1429,120503,2025/02/28,SIP,70985.33,Delhi,Verified
+1430,119092,2025/06/25,Redemption,180372.12,Tamil Nadu,Verified
+1431,120503,27-02-2025,Sip,71782.93,Telangana,Pending
+1432,120503,2025/04/03,sip,179169.5,Telangana,Verified
+1433,119551,2025/04/20,Lumpsum,36682.41,Tamil Nadu,Verified
+1434,118632,2025/06/09,Sip,175142.73,Delhi,Pending
+1435,118632,2025/03/09,redemption,159837.37,Karnataka,Verified
+1436,119551,23-03-2025,lumpsum,144408.02,Tamil Nadu,Verified
+1437,120503,2025/05/28,redemption,56055.99,Karnataka,Pending
+1438,119551,2025/02/16,Sip,64203.5,Tamil Nadu,Pending
+1439,119092,2025/06/04,Sip,28075.14,Maharashtra,Pending
+1440,119092,2025/05/21,Lumpsum,98773.98,Telangana,Verified
+1441,119092,2025/01/22,lumpsum,105625.72,Maharashtra,Rejected
+1442,120503,2025/03/02,SIP,198784.11,Karnataka,Pending
+1443,120841,2025/05/02,sip,12385.69,Delhi,Pending
+1444,119551,2025/03/17,Redemption,170735.79,Tamil Nadu,Verified
+1445,119551,27-02-2025,SIP,23888.54,Maharashtra,Pending
+1446,120503,2025/06/28,Sip,11289.63,Karnataka,Rejected
+1447,120841,2025/01/19,Lumpsum,174160.16,Karnataka,Verified
+1448,118632,06-02-2025,sip,2989.3,Tamil Nadu,Verified
+1449,119551,2025/05/01,redemption,105726.28,Delhi,Pending
+1450,119092,2025/03/28,redemption,139201.78,Delhi,Verified
+1451,119551,2025/01/16,sip,121032.63,Maharashtra,Rejected
+1452,119551,2025/01/03,lumpsum,136140.76,Tamil Nadu,Rejected
+1453,118632,2025/05/27,redemption,45849.31,Maharashtra,Pending
+1454,120503,2025/05/14,SIP,148755.38,Tamil Nadu,Rejected
+1455,120503,2025/02/26,Redemption,149326.15,Telangana,Rejected
+1456,120503,2025/06/27,Sip,130713.64,Tamil Nadu,Pending
+1457,119551,2025/01/14,redemption,85132.27,Delhi,Verified
+1458,120503,2025/01/20,Redemption,169398.55,Karnataka,Verified
+1459,118632,2025/02/11,sip,42776.03,Karnataka,Pending
+1460,119551,22-05-2025,sip,48446.86,Karnataka,Rejected
+1461,120841,2025/01/12,Redemption,97019.49,Karnataka,Pending
+1462,120503,21-03-2025,Sip,150460.05,Tamil Nadu,Rejected
+1463,119551,2025/03/22,redemption,71489.54,Maharashtra,Rejected
+1464,120503,2025/03/26,redemption,100963.89,Telangana,Verified
+1465,120503,2025/05/31,lumpsum,117478.46,Karnataka,Pending
+1466,119551,2025/02/08,sip,177098.17,Karnataka,Rejected
+1467,119551,2025/02/25,redemption,28602.09,Maharashtra,Rejected
+1468,120841,2025/06/05,Redemption,68612.35,Maharashtra,Pending
+1469,118632,2025/04/03,lumpsum,8482.57,Tamil Nadu,Verified
+1470,119551,2025/06/06,SIP,113596.72,Tamil Nadu,Verified
+1471,120503,2025/02/06,Sip,109653.64,Karnataka,Pending
+1472,120503,2025/04/27,Sip,32713.76,Delhi,Rejected
+1473,118632,01-04-2025,SIP,142275.68,Tamil Nadu,Pending
+1474,119092,2025/03/07,lumpsum,130233.27,Maharashtra,Verified
+1475,120841,05-05-2025,Redemption,57681.7,Tamil Nadu,Rejected
+1476,119551,2025/04/23,Redemption,125114.07,Delhi,Pending
+1477,120503,2025/06/24,lumpsum,52934.07,Karnataka,Rejected
+1478,120503,2025/03/04,Lumpsum,2084.62,Karnataka,Pending
+1479,119092,2025/02/10,Redemption,15059.25,Tamil Nadu,Pending
+1480,120503,2025/03/31,redemption,107255.59,Tamil Nadu,Verified
+1481,120503,2025/02/16,lumpsum,153759.22,Maharashtra,Pending
+1482,118632,2025/01/17,Lumpsum,97515.86,Tamil Nadu,Verified
+1483,118632,27-04-2025,SIP,189732.47,Maharashtra,Rejected
+1484,119551,2025/03/23,Lumpsum,154954.0,Karnataka,Pending
+1485,119092,02-05-2025,SIP,173670.11,Tamil Nadu,Pending
+1486,118632,12-06-2025,SIP,14317.18,Tamil Nadu,Verified
+1487,118632,2025/04/26,Lumpsum,43213.93,Delhi,Verified
+1488,120503,2025/01/24,lumpsum,68732.82,Delhi,Verified
+1489,119551,2025/03/31,lumpsum,95362.13,Maharashtra,Rejected
+1490,119092,2025/04/01,Lumpsum,78133.02,Karnataka,Rejected
+1491,120841,20-02-2025,redemption,115908.63,Maharashtra,Pending
+1492,118632,04-01-2025,lumpsum,186796.97,Tamil Nadu,Pending
+1493,120503,2025/06/22,Lumpsum,144596.06,Tamil Nadu,Verified
+1494,119092,2025/06/13,sip,7778.95,Maharashtra,Pending
+1495,120841,2025/02/12,SIP,69943.07,Maharashtra,Rejected
+1496,120841,2025/01/04,Sip,3730.16,Delhi,Rejected
+1497,120503,2025/06/29,lumpsum,83103.72,Delhi,Pending
+1498,120841,2025/04/20,Redemption,67497.41,Maharashtra,Pending
+1499,119092,06-04-2025,Lumpsum,32950.1,Tamil Nadu,Pending
+1500,118632,2025/06/18,lumpsum,127004.39,Telangana,Verified
+1501,120503,27-01-2025,sip,123443.94,Tamil Nadu,Verified
+1502,119092,2025/06/09,sip,126888.27,Telangana,Rejected
+1503,120503,20-06-2025,lumpsum,42768.29,Tamil Nadu,Rejected
+1504,119092,30-01-2025,lumpsum,190135.02,Delhi,Pending
+1505,119092,2025/06/15,redemption,79463.81,Delhi,Verified
+1506,120841,14-03-2025,redemption,53267.56,Tamil Nadu,Rejected
+1507,119551,2025/01/02,lumpsum,7018.58,Karnataka,Verified
+1508,118632,2025/05/13,Lumpsum,63835.46,Maharashtra,Rejected
+1509,119092,2025/03/03,lumpsum,38935.75,Tamil Nadu,Verified
+1510,120841,20-04-2025,redemption,78387.13,Maharashtra,Pending
+1511,118632,13-05-2025,SIP,20365.8,Maharashtra,Rejected
+1512,120503,2025/06/11,lumpsum,168684.63,Delhi,Rejected
+1513,119551,24-03-2025,sip,5615.23,Karnataka,Rejected
+1514,120841,09-02-2025,redemption,108962.66,Karnataka,Rejected
+1515,119092,2025/01/07,SIP,196691.13,Delhi,Verified
+1516,119551,2025/06/17,Sip,39168.87,Maharashtra,Rejected
+1517,119092,2025/03/08,Sip,17051.19,Maharashtra,Rejected
+1518,120503,2025/06/13,Redemption,21132.14,Tamil Nadu,Rejected
+1519,120503,28-01-2025,Sip,178973.66,Karnataka,Verified
+1520,119092,2025/04/03,SIP,78464.64,Tamil Nadu,Verified
+1521,119092,2025/01/19,redemption,15724.38,Tamil Nadu,Pending
+1522,118632,2025/06/12,Redemption,32640.18,Delhi,Verified
+1523,119551,2025/06/18,Lumpsum,171034.38,Karnataka,Pending
+1524,118632,2025/05/04,Lumpsum,109523.31,Maharashtra,Rejected
+1525,118632,01-02-2025,sip,107422.86,Telangana,Rejected
+1526,119551,2025/02/25,sip,179765.19,Karnataka,Pending
+1527,119551,26-02-2025,redemption,187999.7,Delhi,Pending
+1528,119092,2025/02/21,Sip,141762.67,Delhi,Pending
+1529,119092,2025/04/22,lumpsum,184508.45,Delhi,Verified
+1530,119551,2025/06/25,redemption,56576.01,Tamil Nadu,Verified
+1531,120841,2025/05/31,Redemption,41563.44,Tamil Nadu,Pending
+1532,119092,2025/04/19,Sip,163270.49,Telangana,Verified
+1533,120841,2025/04/09,Lumpsum,70906.64,Karnataka,Pending
+1534,119551,2025/01/09,Sip,117580.41,Delhi,Rejected
+1535,120841,2025/04/01,sip,36390.9,Delhi,Pending
+1536,119551,02-04-2025,SIP,131562.45,Delhi,Verified
+1537,118632,01-02-2025,redemption,2674.75,Delhi,Verified
+1538,119092,2025/05/26,SIP,112547.3,Tamil Nadu,Pending
+1539,120841,2025/02/24,sip,112411.26,Telangana,Rejected
+1540,120503,2025/05/27,lumpsum,136585.32,Tamil Nadu,Pending
+1541,118632,20-02-2025,Redemption,99039.89,Karnataka,Pending
+1542,119092,31-01-2025,SIP,120485.42,Telangana,Pending
+1543,119551,28-05-2025,sip,128911.49,Telangana,Verified
+1544,119092,14-03-2025,lumpsum,7883.13,Telangana,Rejected
+1545,120503,2025/03/28,sip,94243.72,Tamil Nadu,Rejected
+1546,118632,2025/03/12,Sip,80368.7,Telangana,Pending
+1547,119092,06-06-2025,Sip,139443.16,Tamil Nadu,Pending
+1548,120503,2025/04/06,sip,6342.99,Karnataka,Verified
+1549,119551,2025/01/27,Redemption,137675.98,Tamil Nadu,Verified
+1550,119551,23-01-2025,Redemption,74091.47,Telangana,Verified
+1551,120503,2025/03/08,sip,22605.32,Delhi,Verified
+1552,118632,2025/03/26,Redemption,162590.86,Delhi,Rejected
+1553,119551,2025/02/05,sip,25694.6,Maharashtra,Rejected
+1554,119092,2025/06/13,sip,104591.86,Maharashtra,Rejected
+1555,119092,2025/06/19,Sip,64721.32,Tamil Nadu,Verified
+1556,120503,2025/03/09,redemption,17017.46,Telangana,Verified
+1557,119551,27-06-2025,lumpsum,12523.25,Karnataka,Rejected
+1558,119551,2025/04/30,SIP,97785.29,Delhi,Verified
+1559,120841,2025/05/16,Sip,152217.35,Delhi,Rejected
+1560,119092,17-06-2025,Lumpsum,21579.26,Maharashtra,Verified
+1561,118632,2025/04/09,Redemption,124285.37,Maharashtra,Pending
+1562,119551,18-01-2025,SIP,137410.07,Telangana,Rejected
+1563,120503,2025/02/07,sip,149132.69,Maharashtra,Verified
+1564,119092,17-02-2025,lumpsum,132546.16,Tamil Nadu,Pending
+1565,118632,2025/01/31,sip,71208.15,Maharashtra,Verified
+1566,119092,2025/05/09,Sip,11104.84,Delhi,Pending
+1567,120503,2025/01/13,redemption,185639.98,Maharashtra,Pending
+1568,119551,14-04-2025,Sip,106147.77,Tamil Nadu,Rejected
+1569,119092,2025/01/28,redemption,50164.38,Karnataka,Verified
+1570,120503,2025/01/14,Lumpsum,53602.56,Karnataka,Rejected
+1571,120503,12-03-2025,Lumpsum,140052.7,Tamil Nadu,Pending
+1572,119092,26-01-2025,Redemption,175965.77,Delhi,Pending
+1573,119551,2025/02/13,Sip,127561.39,Telangana,Pending
+1574,120503,25-01-2025,redemption,124612.61,Delhi,Rejected
+1575,119551,2025/02/13,sip,33745.77,Delhi,Pending
+1576,119551,2025/01/04,lumpsum,67143.8,Maharashtra,Pending
+1577,120503,2025/02/13,Redemption,2441.91,Delhi,Pending
+1578,120841,2025/01/01,SIP,94777.36,Karnataka,Verified
+1579,120841,2025/06/24,Redemption,46043.39,Telangana,Verified
+1580,119551,25-01-2025,Redemption,147369.2,Tamil Nadu,Pending
+1581,118632,20-05-2025,lumpsum,51080.6,Tamil Nadu,Verified
+1582,118632,2025/03/19,Lumpsum,155018.0,Telangana,Pending
+1583,120503,2025/03/11,redemption,128140.16,Maharashtra,Pending
+1584,119551,2025/06/18,Sip,99817.53,Maharashtra,Rejected
+1585,119092,03-04-2025,sip,39171.5,Tamil Nadu,Rejected
+1586,120503,2025/03/12,redemption,109210.83,Tamil Nadu,Rejected
+1587,119551,2025/03/09,Sip,177654.98,Tamil Nadu,Rejected
+1588,119092,2025/03/12,sip,116113.61,Delhi,Rejected
+1589,120503,2025/04/21,Lumpsum,193646.53,Delhi,Pending
+1590,120503,2025/01/03,redemption,29852.65,Maharashtra,Rejected
+1591,118632,2025/06/09,SIP,61077.3,Delhi,Verified
+1592,118632,2025/01/04,SIP,56961.95,Telangana,Verified
+1593,120503,2025/05/06,lumpsum,70774.98,Karnataka,Verified
+1594,118632,2025/02/05,Sip,157160.03,Telangana,Rejected
+1595,120841,2025/02/09,redemption,54498.44,Maharashtra,Pending
+1596,120841,21-01-2025,sip,94898.96,Delhi,Verified
+1597,119092,2025/04/19,sip,178660.21,Delhi,Rejected
+1598,118632,2025/02/14,redemption,175248.51,Telangana,Verified
+1599,119551,06-03-2025,Lumpsum,40304.87,Delhi,Verified
+1600,118632,2025/05/26,lumpsum,109393.22,Tamil Nadu,Pending
+1601,120503,2025/02/05,redemption,62995.46,Delhi,Pending
+1602,118632,2025/04/20,lumpsum,92526.15,Telangana,Verified
+1603,119092,2025/01/23,Lumpsum,181416.33,Maharashtra,Rejected
+1604,120841,06-04-2025,Lumpsum,180032.53,Delhi,Verified
+1605,119092,2025/02/02,sip,92830.16,Telangana,Pending
+1606,120503,22-01-2025,Redemption,197241.62,Karnataka,Pending
+1607,120841,2025/01/25,Lumpsum,96552.85,Delhi,Verified
+1608,120503,2025/05/30,redemption,143531.8,Maharashtra,Rejected
+1609,119551,2025/05/24,lumpsum,27712.35,Maharashtra,Pending
+1610,118632,2025/01/02,Lumpsum,137711.05,Karnataka,Verified
+1611,120503,2025/02/09,sip,104204.6,Maharashtra,Verified
+1612,120503,02-05-2025,Lumpsum,89041.27,Karnataka,Verified
+1613,118632,2025/04/14,SIP,164144.06,Telangana,Pending
+1614,120841,2025/06/24,redemption,123623.12,Tamil Nadu,Verified
+1615,120503,17-02-2025,redemption,131664.34,Maharashtra,Rejected
+1616,120841,2025/02/21,Sip,58245.08,Karnataka,Rejected
+1617,119092,2025/04/05,lumpsum,77471.25,Karnataka,Pending
+1618,119092,19-04-2025,Sip,91687.91,Telangana,Pending
+1619,120503,2025/05/29,redemption,130259.25,Telangana,Pending
+1620,120503,2025/04/01,lumpsum,176543.63,Tamil Nadu,Pending
+1621,120503,2025/02/10,Redemption,172273.92,Maharashtra,Pending
+1622,120841,2025/04/10,SIP,131355.89,Delhi,Rejected
+1623,120841,2025/03/28,Redemption,157446.03,Delhi,Rejected
+1624,118632,11-04-2025,Redemption,129204.23,Tamil Nadu,Pending
+1625,120841,18-06-2025,redemption,185518.74,Telangana,Pending
+1626,119551,2025/06/28,Lumpsum,69945.0,Telangana,Pending
+1627,120503,12-01-2025,redemption,32256.35,Karnataka,Rejected
+1628,120503,2025/05/08,lumpsum,65070.05,Maharashtra,Rejected
+1629,119551,2025/01/27,SIP,145768.55,Tamil Nadu,Pending
+1630,120503,2025/01/16,sip,7964.95,Karnataka,Pending
+1631,118632,2025/06/05,sip,184748.39,Delhi,Verified
+1632,119092,07-04-2025,redemption,114969.04,Maharashtra,Verified
+1633,118632,2025/05/06,Sip,45486.56,Maharashtra,Pending
+1634,120841,19-02-2025,sip,126008.57,Karnataka,Verified
+1635,120503,2025/02/05,Sip,154989.94,Telangana,Rejected
+1636,120503,29-03-2025,redemption,191569.85,Telangana,Pending
+1637,119551,2025/02/23,lumpsum,100419.63,Delhi,Rejected
+1638,120841,2025/02/05,lumpsum,85788.59,Tamil Nadu,Verified
+1639,120841,21-01-2025,Lumpsum,59996.28,Karnataka,Pending
+1640,119551,2025/01/14,Sip,4997.22,Delhi,Pending
+1641,119092,02-04-2025,Redemption,31993.67,Delhi,Verified
+1642,120841,28-05-2025,Lumpsum,186395.91,Telangana,Pending
+1643,119092,08-06-2025,redemption,178415.77,Telangana,Pending
+1644,118632,17-06-2025,Sip,84570.44,Maharashtra,Pending
+1645,120503,05-02-2025,Redemption,146907.6,Karnataka,Verified
+1646,119092,2025/01/19,Lumpsum,180912.61,Karnataka,Pending
+1647,120503,2025/04/17,Lumpsum,185908.04,Telangana,Pending
+1648,119551,2025/03/11,sip,7602.22,Telangana,Verified
+1649,118632,2025/04/21,Redemption,170041.78,Maharashtra,Verified
+1650,120503,2025/01/07,Redemption,39636.77,Telangana,Pending
+1651,120503,2025/05/22,lumpsum,153253.46,Maharashtra,Pending
+1652,119092,21-05-2025,lumpsum,24039.52,Telangana,Pending
+1653,118632,2025/02/19,sip,48014.96,Karnataka,Rejected
+1654,120503,2025/02/28,Redemption,177722.9,Telangana,Rejected
+1655,120503,2025/01/04,SIP,162618.07,Karnataka,Verified
+1656,119551,23-04-2025,sip,63168.11,Telangana,Rejected
+1657,119551,16-03-2025,lumpsum,96000.92,Karnataka,Rejected
+1658,120503,20-01-2025,Lumpsum,41569.26,Delhi,Verified
+1659,119092,2025/03/19,Redemption,110505.47,Maharashtra,Rejected
+1660,118632,2025/03/23,Lumpsum,21323.45,Delhi,Pending
+1661,120841,05-05-2025,SIP,182453.82,Telangana,Verified
+1662,118632,22-05-2025,Sip,145119.7,Maharashtra,Verified
+1663,119551,2025/06/28,Redemption,91025.72,Karnataka,Verified
+1664,119092,09-01-2025,Lumpsum,77143.24,Karnataka,Verified
+1665,118632,2025/06/06,sip,172623.18,Tamil Nadu,Pending
+1666,120503,27-02-2025,SIP,132155.18,Telangana,Verified
+1667,118632,2025/01/09,Sip,187476.17,Telangana,Pending
+1668,118632,01-06-2025,sip,68518.4,Telangana,Pending
+1669,119092,2025/01/15,Lumpsum,77928.06,Delhi,Rejected
+1670,119092,2025/04/19,Lumpsum,153917.96,Delhi,Verified
+1671,119092,2025/04/30,SIP,26808.61,Karnataka,Pending
+1672,118632,2025/01/22,Redemption,108789.51,Delhi,Rejected
+1673,119092,2025/01/10,Sip,54115.1,Delhi,Rejected
+1674,120841,04-01-2025,Lumpsum,132324.91,Delhi,Verified
+1675,119092,29-04-2025,sip,93554.68,Delhi,Pending
+1676,120841,2025/02/25,Lumpsum,187797.43,Delhi,Rejected
+1677,120841,2025/03/22,lumpsum,36370.88,Delhi,Pending
+1678,119092,02-02-2025,SIP,29806.91,Telangana,Rejected
+1679,120503,01-03-2025,sip,37258.97,Telangana,Pending
+1680,120841,23-03-2025,redemption,45976.51,Delhi,Pending
+1681,120503,2025/06/23,Redemption,70990.34,Karnataka,Rejected
+1682,119551,31-03-2025,Lumpsum,89040.63,Telangana,Verified
+1683,119551,2025/02/22,Sip,165913.0,Tamil Nadu,Verified
+1684,119092,14-03-2025,Sip,121589.86,Delhi,Pending
+1685,119092,2025/06/16,Sip,124572.32,Maharashtra,Pending
+1686,120503,2025/03/16,Lumpsum,5594.29,Telangana,Verified
+1687,118632,2025/05/11,redemption,101882.36,Telangana,Rejected
+1688,118632,2025/02/25,Lumpsum,7003.61,Maharashtra,Pending
+1689,120503,2025/01/20,SIP,113297.78,Telangana,Rejected
+1690,120841,2025/04/18,sip,169595.22,Telangana,Verified
+1691,120841,2025/05/01,Lumpsum,88482.97,Delhi,Verified
+1692,120841,2025/03/17,Sip,48993.13,Delhi,Verified
+1693,119092,2025/03/22,sip,138768.09,Tamil Nadu,Rejected
+1694,119092,03-04-2025,Lumpsum,101375.87,Delhi,Rejected
+1695,119092,04-06-2025,Redemption,84060.62,Telangana,Verified
+1696,120841,2025/03/04,lumpsum,134983.97,Maharashtra,Rejected
+1697,118632,2025/03/15,sip,16760.44,Tamil Nadu,Rejected
+1698,119551,2025/05/28,Redemption,40021.79,Maharashtra,Pending
+1699,120503,12-02-2025,Sip,153219.16,Tamil Nadu,Rejected
+1700,120503,2025/02/02,Redemption,86568.26,Maharashtra,Verified
+1701,119551,2025/05/12,lumpsum,180899.95,Delhi,Verified
+1702,119092,2025/06/28,redemption,59031.68,Delhi,Pending
+1703,120841,2025/06/05,redemption,9524.92,Delhi,Pending
+1704,119092,2025/06/11,Redemption,87420.18,Tamil Nadu,Rejected
+1705,119551,2025/02/16,Lumpsum,183310.2,Telangana,Verified
+1706,119551,2025/01/02,Sip,134944.46,Tamil Nadu,Pending
+1707,118632,23-04-2025,redemption,117822.14,Karnataka,Verified
+1708,118632,2025/05/07,Lumpsum,103776.69,Telangana,Rejected
+1709,120841,20-04-2025,lumpsum,64056.37,Maharashtra,Verified
+1710,120503,2025/02/23,Sip,115240.0,Telangana,Pending
+1711,120503,30-03-2025,sip,57924.71,Tamil Nadu,Pending
+1712,119551,13-02-2025,Sip,197766.71,Karnataka,Verified
+1713,118632,06-02-2025,Lumpsum,167838.6,Maharashtra,Verified
+1714,120841,2025/01/11,Lumpsum,107814.23,Maharashtra,Verified
+1715,119092,2025/01/07,Sip,188390.29,Telangana,Pending
+1716,119092,14-05-2025,lumpsum,59340.85,Karnataka,Rejected
+1717,120503,2025/04/24,lumpsum,52979.78,Maharashtra,Pending
+1718,120503,2025/04/01,redemption,158767.39,Karnataka,Pending
+1719,119551,2025/05/10,lumpsum,126309.48,Telangana,Rejected
+1720,120503,2025/06/26,sip,86958.84,Telangana,Pending
+1721,119551,2025/05/23,redemption,7609.42,Karnataka,Verified
+1722,119551,2025/05/31,SIP,134832.85,Delhi,Pending
+1723,119551,2025/05/05,redemption,99596.92,Maharashtra,Verified
+1724,120503,2025/05/13,redemption,43230.72,Tamil Nadu,Verified
+1725,119092,2025/05/23,redemption,36033.95,Tamil Nadu,Rejected
+1726,118632,2025/06/07,Lumpsum,47325.8,Delhi,Pending
+1727,120841,2025/06/18,Sip,168218.02,Delhi,Rejected
+1728,119092,2025/05/06,lumpsum,119769.5,Telangana,Pending
+1729,118632,25-01-2025,Redemption,152905.36,Tamil Nadu,Pending
+1730,118632,2025/03/05,sip,35650.79,Delhi,Rejected
+1731,120503,2025/03/30,redemption,26047.54,Tamil Nadu,Pending
+1732,120841,2025/04/16,sip,58540.58,Telangana,Verified
+1733,119092,2025/01/16,Sip,52690.25,Delhi,Pending
+1734,119092,2025/04/24,Sip,182517.56,Delhi,Pending
+1735,119551,2025/03/28,sip,62047.87,Tamil Nadu,Verified
+1736,120841,2025/02/12,Redemption,125244.66,Telangana,Rejected
+1737,118632,2025/02/03,sip,190080.57,Karnataka,Pending
+1738,120503,2025/03/27,Redemption,153319.58,Karnataka,Rejected
+1739,120503,13-05-2025,Lumpsum,40088.74,Maharashtra,Rejected
+1740,119092,28-02-2025,SIP,182175.43,Delhi,Pending
+1741,119551,2025/05/22,sip,7696.96,Karnataka,Rejected
+1742,120503,2025/05/09,lumpsum,8935.89,Delhi,Pending
+1743,120503,2025/02/28,redemption,49838.09,Delhi,Rejected
+1744,120503,2025/04/07,SIP,163750.03,Delhi,Verified
+1745,120503,2025/01/19,redemption,152596.01,Tamil Nadu,Verified
+1746,120503,2025/05/19,SIP,19563.56,Telangana,Pending
+1747,119551,2025/06/05,Redemption,65083.48,Telangana,Rejected
+1748,120503,19-03-2025,SIP,20386.0,Telangana,Pending
+1749,119092,2025/03/16,SIP,193393.82,Telangana,Pending
+1750,119092,2025/03/14,Lumpsum,101565.4,Tamil Nadu,Verified
+1751,119092,2025/04/11,Redemption,109542.99,Karnataka,Pending
+1752,119551,2025/05/28,lumpsum,154355.56,Tamil Nadu,Pending
+1753,119092,25-05-2025,Sip,66820.88,Karnataka,Verified
+1754,120841,13-02-2025,lumpsum,118885.2,Karnataka,Verified
+1755,119092,2025/06/07,Lumpsum,144744.97,Telangana,Verified
+1756,120503,07-05-2025,Sip,148231.97,Maharashtra,Verified
+1757,118632,2025/06/26,lumpsum,174349.87,Delhi,Rejected
+1758,119551,2025/05/24,Lumpsum,100213.19,Maharashtra,Pending
+1759,119092,2025/05/04,Redemption,148067.16,Karnataka,Verified
+1760,119092,29-06-2025,SIP,151498.9,Maharashtra,Rejected
+1761,120503,12-02-2025,Redemption,194397.3,Karnataka,Pending
+1762,119092,2025/02/13,Lumpsum,97695.08,Telangana,Pending
+1763,119092,03-01-2025,lumpsum,199150.99,Delhi,Rejected
+1764,118632,2025/06/07,Lumpsum,130219.03,Maharashtra,Pending
+1765,120841,25-06-2025,Lumpsum,190423.07,Delhi,Rejected
+1766,120841,2025/03/06,SIP,187272.4,Maharashtra,Verified
+1767,120841,02-05-2025,lumpsum,36255.54,Tamil Nadu,Verified
+1768,120503,2025/03/21,SIP,138962.01,Telangana,Pending
+1769,118632,25-01-2025,lumpsum,119093.66,Karnataka,Pending
+1770,120841,2025/02/27,sip,185611.96,Delhi,Pending
+1771,119092,2025/05/30,Sip,125087.94,Tamil Nadu,Pending
+1772,120841,2025/05/19,SIP,15956.49,Maharashtra,Verified
+1773,119551,13-03-2025,Lumpsum,20913.26,Telangana,Rejected
+1774,119092,2025/03/26,Redemption,118637.91,Delhi,Rejected
+1775,120841,2025/06/21,SIP,34035.83,Maharashtra,Verified
+1776,120503,07-06-2025,SIP,95355.07,Karnataka,Pending
+1777,120503,14-01-2025,Redemption,88217.96,Tamil Nadu,Pending
+1778,118632,2025/05/09,SIP,112248.95,Tamil Nadu,Pending
+1779,119092,2025/04/01,Lumpsum,63735.9,Karnataka,Rejected
+1780,119551,2025/02/12,Redemption,55908.48,Maharashtra,Pending
+1781,120841,2025/04/24,Redemption,50482.54,Karnataka,Rejected
+1782,119092,2025/06/16,sip,173294.62,Tamil Nadu,Rejected
+1783,118632,19-04-2025,Lumpsum,175320.82,Maharashtra,Pending
+1784,118632,2025/02/15,sip,39569.3,Delhi,Rejected
+1785,119551,2025/01/02,Sip,19274.64,Delhi,Pending
+1786,120841,2025/01/04,sip,129620.01,Tamil Nadu,Pending
+1787,120503,2025/06/28,Sip,125241.45,Telangana,Verified
+1788,119092,2025/06/05,lumpsum,35167.31,Telangana,Verified
+1789,120503,05-04-2025,redemption,31061.75,Maharashtra,Verified
+1790,120503,2025/04/18,sip,11681.57,Karnataka,Pending
+1791,120503,20-05-2025,Redemption,39239.38,Telangana,Rejected
+1792,120503,2025/03/27,Redemption,179983.46,Maharashtra,Rejected
+1793,118632,13-05-2025,redemption,80933.03,Karnataka,Verified
+1794,119551,09-05-2025,Sip,17251.76,Tamil Nadu,Verified
+1795,118632,05-06-2025,Lumpsum,82145.68,Karnataka,Pending
+1796,118632,2025/05/24,Sip,93517.33,Karnataka,Rejected
+1797,119092,23-01-2025,sip,36908.94,Karnataka,Verified
+1798,118632,2025/06/01,sip,153461.15,Karnataka,Verified
+1799,118632,28-04-2025,redemption,188675.85,Delhi,Rejected
+1800,119551,2025/02/03,lumpsum,141329.84,Maharashtra,Pending
+1801,119551,2025/05/25,SIP,167137.42,Delhi,Verified
+1802,119551,17-03-2025,lumpsum,53276.76,Tamil Nadu,Pending
+1803,120841,2025/04/04,redemption,104847.03,Maharashtra,Verified
+1804,120841,09-04-2025,Lumpsum,42527.23,Tamil Nadu,Pending
+1805,118632,2025/02/23,Lumpsum,110546.44,Delhi,Verified
+1806,120841,23-02-2025,lumpsum,52538.76,Karnataka,Rejected
+1807,119551,02-05-2025,Lumpsum,64936.7,Telangana,Pending
+1808,120841,2025/01/09,sip,126079.68,Karnataka,Verified
+1809,119092,2025/05/02,redemption,180644.48,Maharashtra,Pending
+1810,118632,2025/02/11,SIP,150533.01,Tamil Nadu,Rejected
+1811,119092,2025/06/01,lumpsum,146325.49,Tamil Nadu,Verified
+1812,118632,2025/04/06,lumpsum,135871.89,Delhi,Verified
+1813,119551,10-05-2025,lumpsum,154927.45,Telangana,Pending
+1814,120841,08-01-2025,SIP,184509.54,Telangana,Rejected
+1815,120841,2025/02/20,Lumpsum,150494.09,Maharashtra,Rejected
+1816,118632,2025/01/14,Sip,158676.26,Maharashtra,Pending
+1817,119092,12-04-2025,sip,131892.42,Maharashtra,Verified
+1818,118632,20-03-2025,SIP,171623.56,Tamil Nadu,Verified
+1819,119551,2025/02/09,Redemption,155233.9,Karnataka,Pending
+1820,119551,30-03-2025,Lumpsum,137513.89,Maharashtra,Pending
+1821,119092,2025/04/29,Redemption,183431.47,Tamil Nadu,Verified
+1822,118632,2025/02/04,Sip,179655.25,Tamil Nadu,Rejected
+1823,119092,17-05-2025,lumpsum,134140.4,Telangana,Verified
+1824,119551,05-06-2025,SIP,74141.95,Delhi,Rejected
+1825,120503,2025/06/06,lumpsum,182959.91,Maharashtra,Verified
+1826,119092,18-02-2025,Sip,87362.43,Delhi,Pending
+1827,119551,19-04-2025,Sip,77669.7,Tamil Nadu,Verified
+1828,118632,18-04-2025,lumpsum,136626.79,Karnataka,Pending
+1829,120503,2025/03/30,sip,131345.79,Tamil Nadu,Verified
+1830,119551,23-03-2025,Lumpsum,77106.06,Tamil Nadu,Verified
+1831,119092,2025/06/17,lumpsum,84780.18,Karnataka,Pending
+1832,119092,2025/03/08,sip,120925.39,Tamil Nadu,Rejected
+1833,118632,2025/05/02,Redemption,107237.32,Delhi,Verified
+1834,119551,2025/04/19,lumpsum,174127.7,Karnataka,Verified
+1835,120503,2025/03/28,redemption,118235.53,Maharashtra,Rejected
+1836,120841,2025/04/27,lumpsum,56701.93,Karnataka,Pending
+1837,119092,04-04-2025,Lumpsum,137434.33,Delhi,Pending
+1838,118632,22-06-2025,Redemption,5194.3,Delhi,Verified
+1839,118632,2025/04/02,lumpsum,65264.19,Karnataka,Rejected
+1840,120503,2025/04/02,Lumpsum,147866.72,Maharashtra,Verified
+1841,120503,17-05-2025,redemption,29356.54,Tamil Nadu,Pending
+1842,118632,2025/03/30,redemption,123639.61,Telangana,Rejected
+1843,119092,11-01-2025,Sip,8138.33,Telangana,Rejected
+1844,120503,2025/04/08,redemption,16213.59,Delhi,Pending
+1845,119092,06-01-2025,redemption,51743.17,Karnataka,Pending
+1846,120503,2025/02/19,Sip,123308.5,Telangana,Verified
+1847,120503,2025/04/06,SIP,152263.45,Tamil Nadu,Pending
+1848,119551,2025/03/12,sip,121122.2,Maharashtra,Rejected
+1849,118632,11-03-2025,SIP,4234.43,Tamil Nadu,Rejected
+1850,119551,12-03-2025,Lumpsum,158156.52,Delhi,Verified
+1851,119551,27-02-2025,Sip,44601.01,Telangana,Pending
+1852,120841,2025/04/28,redemption,119248.54,Telangana,Pending
+1853,119092,23-05-2025,Sip,64268.74,Tamil Nadu,Verified
+1854,119092,08-05-2025,redemption,34417.68,Tamil Nadu,Pending
+1855,119092,2025/01/09,Lumpsum,193560.86,Tamil Nadu,Rejected
+1856,118632,22-01-2025,Lumpsum,74153.7,Delhi,Pending
+1857,119092,2025/06/22,SIP,125160.11,Maharashtra,Rejected
+1858,118632,2025/05/25,Redemption,5169.96,Delhi,Rejected
+1859,119092,2025/03/02,Lumpsum,26773.63,Telangana,Verified
+1860,120503,12-04-2025,sip,114363.63,Maharashtra,Verified
+1861,119092,2025/05/21,Redemption,43941.64,Telangana,Pending
+1862,118632,2025/04/03,redemption,177009.19,Delhi,Rejected
+1863,120841,2025/05/17,Redemption,81091.21,Tamil Nadu,Pending
+1864,119092,2025/02/10,SIP,80310.84,Karnataka,Rejected
+1865,118632,2025/04/29,redemption,181502.54,Tamil Nadu,Rejected
+1866,119092,2025/04/18,redemption,6293.68,Maharashtra,Verified
+1867,120841,2025/06/08,sip,120113.85,Tamil Nadu,Verified
+1868,118632,06-06-2025,Lumpsum,125286.28,Karnataka,Pending
+1869,120503,2025/06/03,redemption,78173.21,Telangana,Verified
+1870,119551,2025/04/28,Redemption,48243.41,Tamil Nadu,Rejected
+1871,119551,24-03-2025,sip,178941.91,Maharashtra,Rejected
+1872,119092,28-04-2025,Lumpsum,89008.81,Maharashtra,Verified
+1873,119092,2025/05/09,Redemption,120999.36,Delhi,Verified
+1874,119551,2025/04/29,sip,1873.22,Karnataka,Rejected
+1875,119092,2025/05/14,Redemption,77370.46,Tamil Nadu,Pending
+1876,120841,2025/01/31,Lumpsum,129594.32,Telangana,Rejected
+1877,120503,2025/04/23,redemption,12427.36,Tamil Nadu,Rejected
+1878,120503,2025/04/04,Lumpsum,126039.01,Tamil Nadu,Pending
+1879,120503,27-01-2025,Sip,151709.11,Telangana,Verified
+1880,119551,2025/04/04,Sip,28819.04,Maharashtra,Pending
+1881,119551,09-03-2025,redemption,138896.35,Tamil Nadu,Rejected
+1882,119092,2025/03/04,Sip,59410.77,Tamil Nadu,Pending
+1883,119092,29-06-2025,Sip,119088.41,Maharashtra,Verified
+1884,120841,15-03-2025,Sip,112926.12,Delhi,Pending
+1885,119551,2025/05/26,lumpsum,142759.23,Delhi,Verified
+1886,119551,2025/02/07,Redemption,77153.22,Maharashtra,Verified
+1887,119551,2025/05/30,Lumpsum,2907.31,Delhi,Rejected
+1888,120841,2025/05/13,Lumpsum,180050.8,Delhi,Rejected
+1889,119551,2025/05/31,Sip,104905.82,Tamil Nadu,Pending
+1890,119551,2025/05/15,lumpsum,179478.15,Karnataka,Rejected
+1891,120503,29-03-2025,SIP,45249.84,Delhi,Rejected
+1892,120503,16-06-2025,lumpsum,92134.68,Karnataka,Rejected
+1893,120841,2025/02/28,Sip,133016.7,Tamil Nadu,Rejected
+1894,120503,2025/03/26,Sip,110880.25,Telangana,Rejected
+1895,120841,2025/01/21,sip,89603.25,Telangana,Verified
+1896,119551,2025/03/07,SIP,138094.96,Maharashtra,Verified
+1897,119092,15-02-2025,Lumpsum,53519.79,Delhi,Verified
+1898,119551,2025/01/17,SIP,104750.26,Karnataka,Verified
+1899,119551,2025/03/04,Lumpsum,95717.82,Karnataka,Rejected
+1900,120503,2025/03/23,sip,39686.95,Karnataka,Pending
+1901,120503,02-05-2025,Lumpsum,118080.49,Telangana,Pending
+1902,118632,26-05-2025,lumpsum,172297.25,Karnataka,Rejected
+1903,119092,14-06-2025,Redemption,127169.04,Tamil Nadu,Verified
+1904,118632,2025/04/15,lumpsum,126410.07,Delhi,Rejected
+1905,119092,12-05-2025,redemption,60277.63,Telangana,Verified
+1906,118632,2025/03/12,Lumpsum,62106.4,Tamil Nadu,Verified
+1907,119551,05-05-2025,Lumpsum,94366.01,Maharashtra,Verified
+1908,120503,2025/04/21,sip,185096.42,Tamil Nadu,Pending
+1909,120841,16-02-2025,sip,152689.1,Maharashtra,Pending
+1910,120841,2025/03/20,Lumpsum,94639.19,Delhi,Rejected
+1911,119551,2025/05/27,Sip,31699.35,Tamil Nadu,Verified
+1912,119551,2025/06/06,Sip,191363.04,Tamil Nadu,Rejected
+1913,120841,2025/04/17,Sip,46130.36,Delhi,Pending
+1914,118632,05-04-2025,Sip,145478.57,Delhi,Pending
+1915,118632,2025/04/19,Redemption,83716.17,Tamil Nadu,Verified
+1916,119092,2025/04/01,SIP,195009.66,Delhi,Verified
+1917,119551,2025/02/23,Sip,59311.98,Delhi,Verified
+1918,118632,2025/04/20,Sip,111834.6,Maharashtra,Verified
+1919,120841,2025/05/09,Sip,21813.5,Maharashtra,Verified
+1920,118632,2025/05/03,Lumpsum,94239.42,Karnataka,Rejected
+1921,119092,2025/06/26,redemption,97664.75,Delhi,Rejected
+1922,120841,07-04-2025,sip,128105.92,Delhi,Rejected
+1923,118632,2025/04/23,sip,94632.25,Karnataka,Pending
+1924,119092,2025/02/08,Lumpsum,60121.7,Maharashtra,Rejected
+1925,120503,23-04-2025,Lumpsum,109543.74,Delhi,Rejected
+1926,120841,2025/03/16,SIP,154534.09,Karnataka,Rejected
+1927,118632,2025/04/03,lumpsum,149581.0,Maharashtra,Verified
+1928,118632,30-04-2025,Sip,66935.91,Delhi,Pending
+1929,120841,06-01-2025,redemption,82450.4,Tamil Nadu,Pending
+1930,120503,16-05-2025,Lumpsum,75008.13,Telangana,Pending
+1931,120503,2025/05/10,Sip,158132.43,Tamil Nadu,Pending
+1932,120841,2025/03/27,redemption,15572.74,Karnataka,Rejected
+1933,120503,17-05-2025,Lumpsum,169336.72,Karnataka,Rejected
+1934,119092,2025/06/06,SIP,150505.52,Tamil Nadu,Pending
+1935,119092,2025/04/26,redemption,30864.96,Delhi,Verified
+1936,119551,2025/06/15,lumpsum,105778.94,Tamil Nadu,Verified
+1937,119092,28-05-2025,Lumpsum,165730.42,Karnataka,Verified
+1938,119551,2025/03/24,Sip,171187.14,Telangana,Rejected
+1939,118632,2025/05/17,redemption,40466.14,Telangana,Pending
+1940,120841,09-02-2025,SIP,41625.76,Maharashtra,Verified
+1941,120503,2025/05/17,Redemption,8370.79,Maharashtra,Rejected
+1942,118632,2025/01/18,Sip,185728.87,Maharashtra,Verified
+1943,118632,2025/02/11,Sip,46979.28,Maharashtra,Pending
+1944,120503,2025/02/05,lumpsum,25060.46,Tamil Nadu,Verified
+1945,119092,2025/02/23,lumpsum,87990.1,Maharashtra,Verified
+1946,119092,2025/06/01,sip,193864.13,Telangana,Rejected
+1947,120841,01-02-2025,SIP,24511.49,Tamil Nadu,Rejected
+1948,120841,2025/04/02,Sip,83318.01,Maharashtra,Verified
+1949,120841,2025/04/03,Lumpsum,22842.48,Tamil Nadu,Verified
+1950,120503,2025/04/08,lumpsum,192332.97,Karnataka,Pending
+1951,118632,2025/03/21,lumpsum,189215.15,Delhi,Verified
+1952,120503,2025/06/16,lumpsum,175250.39,Karnataka,Pending
+1953,118632,12-01-2025,SIP,35883.0,Karnataka,Verified
+1954,120841,09-02-2025,lumpsum,152576.42,Karnataka,Rejected
+1955,119551,19-06-2025,Lumpsum,83267.84,Maharashtra,Pending
+1956,119551,2025/02/14,SIP,148522.35,Maharashtra,Pending
+1957,120503,11-02-2025,SIP,61559.93,Delhi,Pending
+1958,120841,24-03-2025,sip,66650.62,Tamil Nadu,Verified
+1959,119551,15-04-2025,lumpsum,152619.21,Telangana,Verified
+1960,119551,26-01-2025,SIP,18878.72,Karnataka,Verified
+1961,119092,2025/04/29,Redemption,179679.61,Tamil Nadu,Verified
+1962,120841,13-06-2025,lumpsum,94162.65,Delhi,Verified
+1963,118632,2025/06/18,Lumpsum,133852.17,Karnataka,Pending
+1964,119092,27-05-2025,SIP,103189.44,Maharashtra,Verified
+1965,120503,2025/01/25,Sip,177440.13,Karnataka,Verified
+1966,119551,06-03-2025,redemption,60571.08,Tamil Nadu,Rejected
+1967,120841,2025/05/14,Sip,152098.78,Maharashtra,Pending
+1968,119092,2025/04/06,Lumpsum,147413.86,Karnataka,Rejected
+1969,119092,11-06-2025,SIP,195916.36,Karnataka,Verified
+1970,120503,02-03-2025,Sip,2836.65,Tamil Nadu,Pending
+1971,118632,2025/02/18,Redemption,194170.56,Tamil Nadu,Pending
+1972,119551,2025/04/27,Lumpsum,88252.67,Delhi,Rejected
+1973,120841,2025/03/28,SIP,51429.24,Tamil Nadu,Rejected
+1974,119092,19-06-2025,Redemption,68803.82,Telangana,Pending
+1975,120503,2025/04/04,sip,192968.33,Maharashtra,Verified
+1976,119551,2025/04/28,sip,110317.72,Delhi,Verified
+1977,118632,2025/03/20,Lumpsum,196870.18,Karnataka,Rejected
+1978,119551,2025/04/12,Lumpsum,39378.16,Maharashtra,Verified
+1979,119551,2025/04/01,Redemption,30778.35,Telangana,Rejected
+1980,120503,2025/05/17,SIP,138892.1,Telangana,Verified
+1981,118632,10-02-2025,SIP,127164.01,Telangana,Verified
+1982,119551,2025/05/19,Lumpsum,85091.14,Maharashtra,Pending
+1983,120503,13-04-2025,Lumpsum,194415.77,Tamil Nadu,Pending
+1984,118632,2025/02/04,Sip,570.55,Delhi,Rejected
+1985,120841,2025/06/21,redemption,122816.89,Karnataka,Verified
+1986,119092,05-02-2025,Redemption,32470.46,Maharashtra,Pending
+1987,119551,2025/06/15,Lumpsum,39077.57,Delhi,Verified
+1988,119551,12-03-2025,lumpsum,25132.55,Telangana,Rejected
+1989,119551,2025/02/22,redemption,55456.32,Delhi,Verified
+1990,120503,2025/05/14,sip,154445.78,Telangana,Pending
+1991,119551,2025/06/19,Redemption,25410.47,Telangana,Pending
+1992,119551,2025/01/19,Redemption,182145.98,Delhi,Pending
+1993,120503,2025/04/08,Sip,23011.1,Tamil Nadu,Pending
+1994,120841,2025/02/13,redemption,173168.48,Tamil Nadu,Pending
+1995,119551,14-05-2025,redemption,120861.56,Telangana,Pending
+1996,119551,2025/06/20,redemption,192667.26,Tamil Nadu,Verified
+1997,120503,2025/03/13,redemption,55535.19,Delhi,Rejected
+1998,120841,2025/03/26,Redemption,50624.19,Delhi,Verified
+1999,120503,2025/01/26,lumpsum,48927.47,Tamil Nadu,Verified
+2000,120841,2025/04/22,sip,199461.86,Tamil Nadu,Rejected
+2001,120841,2025/05/25,Lumpsum,174143.5,Tamil Nadu,Verified
+2002,120841,2025/01/28,Redemption,128714.22,Karnataka,Rejected
+2003,120503,2025/01/31,SIP,72459.82,Telangana,Pending
+2004,119092,2025/01/11,Redemption,88328.89,Tamil Nadu,Rejected
+2005,120841,2025/01/10,Redemption,161141.51,Tamil Nadu,Rejected
+2006,120503,2025/02/25,sip,126288.99,Delhi,Verified
+2007,118632,2025/04/16,redemption,91596.32,Delhi,Pending
+2008,118632,2025/04/01,SIP,55688.18,Karnataka,Pending
+2009,119092,2025/06/28,Sip,153837.92,Maharashtra,Verified
+2010,120841,2025/05/21,redemption,80563.51,Delhi,Verified
+2011,119092,2025/01/23,Lumpsum,107877.84,Maharashtra,Pending
+2012,118632,2025/01/26,sip,128070.62,Delhi,Rejected
+2013,119092,13-06-2025,lumpsum,40828.75,Tamil Nadu,Pending
+2014,118632,2025/04/23,Redemption,32263.87,Maharashtra,Pending
+2015,120503,29-01-2025,Sip,181811.65,Telangana,Pending
+2016,120841,18-05-2025,Lumpsum,139279.4,Maharashtra,Verified
+2017,120503,2025/06/03,redemption,81225.1,Delhi,Verified
+2018,118632,2025/05/17,SIP,184291.04,Karnataka,Rejected
+2019,118632,2025/06/07,sip,65105.34,Maharashtra,Pending
+2020,120503,2025/03/04,redemption,198539.12,Karnataka,Pending
+2021,119551,2025/06/27,SIP,175089.62,Tamil Nadu,Rejected
+2022,119551,07-02-2025,SIP,192935.8,Telangana,Pending
+2023,119092,2025/04/17,Lumpsum,38851.7,Maharashtra,Rejected
+2024,120841,2025/04/13,lumpsum,149485.16,Delhi,Pending
+2025,119092,2025/04/05,SIP,64370.87,Delhi,Verified
+2026,119551,2025/03/24,redemption,49755.62,Telangana,Rejected
+2027,119551,2025/01/25,Redemption,197108.09,Tamil Nadu,Rejected
+2028,118632,2025/01/27,Lumpsum,45950.97,Delhi,Rejected
+2029,120841,2025/02/27,Lumpsum,167404.38,Tamil Nadu,Rejected
+2030,119092,2025/05/08,sip,190656.22,Maharashtra,Verified
+2031,120841,2025/04/25,sip,179220.41,Tamil Nadu,Rejected
+2032,119551,2025/01/17,sip,190969.48,Delhi,Rejected
+2033,118632,2025/01/08,lumpsum,86450.59,Maharashtra,Pending
+2034,119551,2025/06/19,Lumpsum,139592.59,Delhi,Pending
+2035,119551,2025/05/26,Lumpsum,189280.42,Maharashtra,Rejected
+2036,120841,2025/03/22,Lumpsum,11067.7,Delhi,Rejected
+2037,120503,2025/01/19,Lumpsum,83035.43,Maharashtra,Rejected
+2038,119551,2025/03/05,Redemption,151884.79,Maharashtra,Verified
+2039,120503,2025/06/16,redemption,24340.27,Karnataka,Verified
+2040,119092,2025/05/27,redemption,77796.5,Tamil Nadu,Pending
+2041,119092,2025/02/05,SIP,19624.73,Delhi,Verified
+2042,119092,2025/03/06,SIP,52470.86,Maharashtra,Verified
+2043,118632,2025/06/15,Sip,90619.63,Karnataka,Rejected
+2044,118632,2025/01/06,sip,196411.02,Karnataka,Rejected
+2045,118632,25-01-2025,Lumpsum,3009.41,Delhi,Pending
+2046,118632,2025/01/08,Lumpsum,112891.26,Karnataka,Verified
+2047,119551,2025/06/12,SIP,107275.19,Delhi,Verified
+2048,119551,2025/06/03,SIP,178341.63,Maharashtra,Rejected
+2049,119551,24-04-2025,sip,187090.96,Karnataka,Pending
+2050,118632,2025/01/28,SIP,118226.21,Maharashtra,Verified
+2051,119092,2025/02/19,Lumpsum,184039.83,Tamil Nadu,Rejected
+2052,120841,2025/04/10,sip,133906.66,Karnataka,Pending
+2053,119551,04-04-2025,Redemption,98408.25,Tamil Nadu,Verified
+2054,118632,2025/01/16,lumpsum,162276.02,Telangana,Verified
+2055,120841,2025/01/24,Sip,182417.47,Telangana,Rejected
+2056,120841,2025/05/14,Lumpsum,128818.1,Delhi,Pending
+2057,119551,2025/04/25,Sip,188877.33,Tamil Nadu,Pending
+2058,119092,07-04-2025,sip,98502.26,Delhi,Rejected
+2059,119092,2025/06/06,lumpsum,198461.33,Delhi,Rejected
+2060,120503,2025/05/16,SIP,189382.58,Delhi,Rejected
+2061,120841,19-05-2025,Sip,147981.78,Telangana,Verified
+2062,120503,2025/03/19,Sip,192855.33,Karnataka,Rejected
+2063,119092,2025/05/11,SIP,101994.74,Karnataka,Verified
+2064,120503,2025/04/28,SIP,142625.91,Karnataka,Rejected
+2065,119551,07-05-2025,redemption,122796.9,Karnataka,Pending
+2066,119551,26-06-2025,Sip,1445.39,Maharashtra,Rejected
+2067,118632,2025/02/15,Redemption,46060.18,Tamil Nadu,Verified
+2068,119551,2025/02/06,Lumpsum,133872.29,Tamil Nadu,Rejected
+2069,120841,2025/06/10,redemption,147458.4,Delhi,Pending
+2070,120503,2025/04/17,lumpsum,55978.29,Maharashtra,Pending
+2071,118632,03-06-2025,redemption,79395.96,Tamil Nadu,Verified
+2072,119551,2025/01/19,sip,32205.3,Tamil Nadu,Verified
+2073,119551,2025/05/18,redemption,51671.58,Tamil Nadu,Pending
+2074,120841,15-03-2025,Lumpsum,52669.09,Karnataka,Pending
+2075,119551,2025/01/23,lumpsum,40557.24,Telangana,Verified
+2076,119092,03-05-2025,SIP,8087.24,Tamil Nadu,Verified
+2077,120503,2025/06/27,SIP,87471.75,Delhi,Pending
+2078,119551,2025/04/24,sip,132743.91,Telangana,Verified
+2079,119551,23-03-2025,sip,189743.59,Delhi,Pending
+2080,119551,2025/03/31,redemption,11757.42,Tamil Nadu,Verified
+2081,118632,10-05-2025,SIP,125629.12,Delhi,Rejected
+2082,119092,2025/01/07,sip,168762.75,Telangana,Rejected
+2083,118632,23-05-2025,Lumpsum,192853.22,Karnataka,Verified
+2084,120503,2025/04/15,sip,123907.95,Maharashtra,Rejected
+2085,118632,05-04-2025,sip,137021.16,Karnataka,Pending
+2086,120503,25-05-2025,lumpsum,153854.74,Karnataka,Verified
+2087,120503,2025/05/25,sip,129948.09,Tamil Nadu,Rejected
+2088,119092,2025/03/14,lumpsum,90209.41,Maharashtra,Rejected
+2089,119092,06-06-2025,redemption,91269.36,Maharashtra,Pending
+2090,120841,03-04-2025,Sip,127600.1,Maharashtra,Pending
+2091,118632,2025/02/11,sip,86631.45,Delhi,Verified
+2092,120503,2025/04/28,Lumpsum,170410.89,Tamil Nadu,Verified
+2093,118632,2025/02/23,lumpsum,176782.55,Tamil Nadu,Rejected
+2094,119092,2025/04/24,lumpsum,73030.27,Delhi,Rejected
+2095,119092,2025/02/04,SIP,49578.42,Maharashtra,Rejected
+2096,119551,2025/06/18,Sip,180120.69,Telangana,Pending
+2097,118632,2025/06/14,lumpsum,28695.63,Karnataka,Rejected
+2098,119092,2025/03/18,Redemption,174087.13,Tamil Nadu,Verified
+2099,119551,2025/02/25,SIP,132100.47,Telangana,Pending
+2100,119551,24-04-2025,SIP,77501.15,Maharashtra,Pending
+2101,120841,2025/02/09,Lumpsum,156480.85,Maharashtra,Verified
+2102,119092,2025/03/23,Redemption,147823.9,Tamil Nadu,Pending
+2103,120841,2025/06/06,redemption,175245.36,Karnataka,Verified
+2104,120503,06-01-2025,Redemption,173958.02,Delhi,Verified
+2105,118632,02-04-2025,SIP,191612.34,Delhi,Verified
+2106,118632,2025/06/09,Lumpsum,180950.77,Tamil Nadu,Pending
+2107,118632,14-02-2025,sip,160566.02,Maharashtra,Verified
+2108,119551,17-04-2025,Lumpsum,82231.14,Telangana,Rejected
+2109,119092,2025/06/29,redemption,169674.94,Maharashtra,Verified
+2110,119551,24-04-2025,sip,27551.95,Tamil Nadu,Pending
+2111,119092,03-05-2025,sip,117441.99,Delhi,Pending
+2112,120841,27-05-2025,sip,194074.19,Telangana,Pending
+2113,118632,2025/01/22,sip,35858.48,Telangana,Pending
+2114,119092,08-02-2025,Redemption,192102.67,Maharashtra,Rejected
+2115,118632,2025/03/16,Redemption,17073.0,Telangana,Pending
+2116,120503,2025/06/09,lumpsum,198344.51,Delhi,Pending
+2117,119551,12-05-2025,Lumpsum,180903.83,Karnataka,Pending
+2118,118632,12-02-2025,SIP,140252.72,Delhi,Pending
+2119,119092,28-03-2025,redemption,199021.79,Tamil Nadu,Rejected
+2120,120503,2025/03/27,SIP,174471.99,Telangana,Verified
+2121,120841,2025/01/05,SIP,180954.7,Tamil Nadu,Pending
+2122,120503,2025/06/27,redemption,75340.82,Delhi,Rejected
+2123,119092,2025/04/15,SIP,188609.8,Delhi,Rejected
+2124,119551,06-05-2025,sip,182714.79,Karnataka,Rejected
+2125,118632,2025/05/11,sip,162245.64,Karnataka,Verified
+2126,120503,2025/02/15,SIP,114595.81,Maharashtra,Verified
+2127,120503,2025/01/03,redemption,161493.76,Telangana,Verified
+2128,119551,2025/05/30,Redemption,193837.4,Delhi,Rejected
+2129,120503,06-06-2025,redemption,28173.63,Karnataka,Verified
+2130,120503,24-01-2025,Redemption,137277.4,Maharashtra,Verified
+2131,120503,2025/04/10,Lumpsum,38931.4,Maharashtra,Rejected
+2132,119092,2025/06/04,lumpsum,57968.67,Telangana,Verified
+2133,119092,2025/02/17,sip,35582.26,Maharashtra,Pending
+2134,119551,2025/05/19,SIP,140143.42,Karnataka,Verified
+2135,119551,2025/03/24,SIP,32903.5,Telangana,Pending
+2136,120841,2025/04/16,Sip,44042.52,Delhi,Pending
+2137,119551,16-05-2025,redemption,50707.8,Maharashtra,Verified
+2138,120503,2025/01/17,redemption,12550.59,Tamil Nadu,Verified
+2139,119092,2025/01/04,redemption,18102.22,Telangana,Pending
+2140,120841,2025/06/23,Lumpsum,52856.24,Delhi,Pending
+2141,118632,2025/05/03,Sip,152800.79,Delhi,Rejected
+2142,119551,2025/02/28,sip,138327.49,Tamil Nadu,Pending
+2143,119092,2025/03/25,Redemption,189070.02,Tamil Nadu,Pending
+2144,119092,26-04-2025,redemption,150235.14,Tamil Nadu,Verified
+2145,119551,2025/03/23,Redemption,126622.51,Tamil Nadu,Pending
+2146,120503,2025/04/22,redemption,181119.78,Maharashtra,Rejected
+2147,119551,25-02-2025,lumpsum,94721.5,Delhi,Pending
+2148,119551,2025/01/06,SIP,61052.67,Telangana,Pending
+2149,119551,2025/02/18,redemption,100077.81,Tamil Nadu,Verified
+2150,119092,20-06-2025,sip,13847.76,Delhi,Rejected
+2151,119092,05-06-2025,SIP,103993.16,Tamil Nadu,Verified
+2152,119092,06-05-2025,Sip,126485.97,Delhi,Rejected
+2153,118632,2025/06/25,Lumpsum,24808.55,Maharashtra,Rejected
+2154,118632,2025/03/29,Redemption,137858.64,Maharashtra,Pending
+2155,120841,02-05-2025,lumpsum,74316.7,Maharashtra,Verified
+2156,118632,26-06-2025,Redemption,180559.54,Tamil Nadu,Pending
+2157,120841,2025/03/29,Sip,139816.74,Maharashtra,Pending
+2158,120841,2025/02/28,Lumpsum,47785.07,Maharashtra,Pending
+2159,120841,2025/05/01,Sip,102436.61,Karnataka,Pending
+2160,119551,2025/06/09,Lumpsum,98442.63,Telangana,Rejected
+2161,118632,2025/01/18,Redemption,39039.75,Delhi,Rejected
+2162,119551,2025/04/04,sip,95012.51,Maharashtra,Rejected
+2163,120503,2025/03/25,Lumpsum,96769.35,Maharashtra,Pending
+2164,118632,2025/05/05,Lumpsum,176701.09,Maharashtra,Rejected
+2165,119551,2025/06/02,Sip,146817.27,Maharashtra,Rejected
+2166,120841,14-03-2025,lumpsum,84886.77,Karnataka,Pending
+2167,118632,22-02-2025,sip,6249.84,Tamil Nadu,Verified
+2168,118632,2025/04/30,SIP,89613.68,Tamil Nadu,Rejected
+2169,119551,2025/06/02,Sip,21995.1,Delhi,Pending
+2170,118632,2025/02/20,lumpsum,57310.17,Telangana,Verified
+2171,118632,05-01-2025,Redemption,65644.34,Tamil Nadu,Pending
+2172,119551,2025/03/22,lumpsum,110250.36,Tamil Nadu,Rejected
+2173,118632,12-04-2025,Lumpsum,167296.63,Karnataka,Rejected
+2174,118632,2025/03/24,Lumpsum,8356.6,Telangana,Verified
+2175,119551,08-05-2025,sip,28412.33,Karnataka,Rejected
+2176,119551,02-03-2025,Sip,194477.73,Delhi,Verified
+2177,119092,2025/03/29,lumpsum,80411.7,Karnataka,Rejected
+2178,119092,2025/06/14,redemption,31419.31,Karnataka,Verified
+2179,119092,10-02-2025,Redemption,52520.56,Maharashtra,Verified
+2180,120841,07-01-2025,Redemption,139608.91,Tamil Nadu,Verified
+2181,120503,2025/02/26,SIP,190906.99,Maharashtra,Rejected
+2182,118632,2025/03/24,redemption,134217.47,Karnataka,Rejected
+2183,118632,07-05-2025,redemption,139576.39,Telangana,Verified
+2184,120503,2025/02/21,SIP,46286.45,Tamil Nadu,Verified
+2185,118632,29-06-2025,Sip,102075.15,Maharashtra,Pending
+2186,119551,2025/02/08,redemption,148978.65,Delhi,Pending
+2187,120841,2025/04/06,SIP,167047.06,Telangana,Pending
+2188,118632,2025/02/20,Sip,78830.17,Delhi,Pending
+2189,120503,2025/04/25,redemption,134533.35,Tamil Nadu,Verified
+2190,119551,29-01-2025,Redemption,21792.56,Maharashtra,Verified
+2191,120841,2025/03/18,redemption,43261.31,Telangana,Pending
+2192,118632,29-04-2025,redemption,46347.1,Delhi,Verified
+2193,120841,2025/01/07,SIP,166002.64,Delhi,Verified
+2194,119092,2025/04/10,lumpsum,196853.78,Telangana,Verified
+2195,119092,2025/05/03,Sip,159103.13,Maharashtra,Verified
+2196,120841,2025/01/28,Redemption,6724.39,Karnataka,Verified
+2197,118632,2025/01/01,lumpsum,145885.27,Maharashtra,Verified
+2198,120503,05-04-2025,SIP,194202.57,Delhi,Verified
+2199,118632,2025/04/17,Sip,154203.52,Karnataka,Pending
+2200,119551,2025/03/09,Redemption,182955.93,Karnataka,Rejected
+2201,120503,02-05-2025,sip,17676.01,Maharashtra,Pending
+2202,120841,2025/06/27,Sip,5000.51,Telangana,Pending
+2203,120503,27-06-2025,sip,79809.02,Tamil Nadu,Verified
+2204,120503,2025/05/08,lumpsum,82778.64,Karnataka,Rejected
+2205,120503,18-06-2025,Redemption,175336.98,Delhi,Rejected
+2206,119092,2025/02/21,sip,134412.89,Maharashtra,Verified
+2207,119092,2025/01/01,sip,174767.42,Tamil Nadu,Rejected
+2208,119092,2025/03/01,redemption,9935.26,Delhi,Verified
+2209,120841,2025/04/05,lumpsum,109145.85,Delhi,Rejected
+2210,118632,2025/05/22,Sip,147171.39,Delhi,Pending
+2211,119551,2025/05/29,lumpsum,196710.8,Delhi,Verified
+2212,119092,2025/06/22,Sip,192296.59,Karnataka,Rejected
+2213,118632,2025/02/05,Sip,129270.1,Tamil Nadu,Rejected
+2214,119551,2025/01/11,Redemption,196551.46,Maharashtra,Rejected
+2215,118632,2025/05/19,redemption,32305.88,Telangana,Verified
+2216,119551,2025/06/27,Redemption,84085.73,Karnataka,Rejected
+2217,120841,2025/01/11,Lumpsum,1306.08,Telangana,Rejected
+2218,119551,2025/02/28,Redemption,67312.5,Karnataka,Pending
+2219,118632,2025/05/21,Lumpsum,131549.93,Tamil Nadu,Verified
+2220,120841,2025/03/31,redemption,150437.32,Karnataka,Verified
+2221,119092,2025/02/09,Redemption,38072.06,Karnataka,Rejected
+2222,120503,07-05-2025,sip,139140.01,Delhi,Verified
+2223,119092,2025/03/19,Lumpsum,127830.6,Maharashtra,Verified
+2224,120503,08-01-2025,SIP,37549.97,Karnataka,Verified
+2225,118632,2025/04/26,lumpsum,189002.48,Tamil Nadu,Verified
+2226,120841,2025/03/18,Sip,42085.46,Tamil Nadu,Rejected
+2227,120841,2025/05/03,Lumpsum,8854.04,Tamil Nadu,Verified
+2228,119092,2025/03/23,Sip,140275.98,Tamil Nadu,Rejected
+2229,120503,2025/04/19,Lumpsum,176186.83,Tamil Nadu,Verified
+2230,119092,2025/01/10,Redemption,181222.15,Tamil Nadu,Pending
+2231,120841,24-01-2025,redemption,166210.7,Karnataka,Pending
+2232,119092,28-03-2025,lumpsum,7351.26,Delhi,Rejected
+2233,119092,2025/02/25,sip,2553.64,Maharashtra,Rejected
+2234,120503,2025/05/10,Lumpsum,36656.04,Delhi,Rejected
+2235,120841,2025/04/10,Lumpsum,130913.61,Karnataka,Pending
+2236,120841,2025/01/31,lumpsum,35196.78,Tamil Nadu,Pending
+2237,119551,11-01-2025,Sip,85632.95,Maharashtra,Verified
+2238,119551,2025/05/04,sip,77767.08,Maharashtra,Pending
+2239,120503,19-03-2025,Sip,173180.33,Telangana,Pending
+2240,119551,2025/04/24,sip,20756.78,Maharashtra,Verified
+2241,120841,25-05-2025,lumpsum,73651.79,Tamil Nadu,Verified
+2242,120841,2025/06/27,Lumpsum,21712.46,Tamil Nadu,Verified
+2243,118632,2025/04/22,lumpsum,13854.24,Karnataka,Pending
+2244,118632,2025/05/02,SIP,181369.94,Maharashtra,Verified
+2245,120503,11-02-2025,SIP,133095.87,Tamil Nadu,Rejected
+2246,120841,2025/04/06,lumpsum,13830.37,Maharashtra,Rejected
+2247,119092,2025/01/30,SIP,40888.23,Delhi,Verified
+2248,119092,2025/01/03,Lumpsum,157723.37,Karnataka,Rejected
+2249,118632,2025/05/30,Sip,176136.74,Maharashtra,Pending
+2250,119551,2025/05/03,SIP,132975.25,Tamil Nadu,Pending
+2251,119551,26-01-2025,Lumpsum,126862.61,Telangana,Verified
+2252,119551,20-06-2025,Lumpsum,29507.82,Karnataka,Pending
+2253,120841,2025/01/19,SIP,125574.72,Tamil Nadu,Rejected
+2254,118632,2025/02/27,lumpsum,12404.77,Tamil Nadu,Verified
+2255,118632,12-04-2025,redemption,145435.8,Delhi,Pending
+2256,119092,2025/06/05,SIP,149847.4,Maharashtra,Pending
+2257,120841,2025/05/11,redemption,174438.3,Maharashtra,Verified
+2258,120841,14-05-2025,Redemption,15473.55,Telangana,Verified
+2259,119092,2025/01/17,redemption,178384.27,Maharashtra,Rejected
+2260,120503,05-04-2025,Sip,93169.17,Delhi,Pending
+2261,120841,2025/06/04,Sip,171148.09,Tamil Nadu,Rejected
+2262,119092,2025/04/09,Redemption,137846.11,Telangana,Rejected
+2263,120841,2025/06/03,Lumpsum,27884.83,Delhi,Verified
+2264,119092,2025/03/29,Lumpsum,126457.49,Delhi,Rejected
+2265,118632,2025/03/11,Lumpsum,102946.82,Delhi,Pending
+2266,119551,25-05-2025,Sip,38773.38,Delhi,Rejected
+2267,119092,13-03-2025,lumpsum,134102.08,Maharashtra,Rejected
+2268,119551,26-06-2025,redemption,137352.94,Telangana,Rejected
+2269,118632,2025/02/22,Lumpsum,104262.48,Karnataka,Rejected
+2270,118632,13-06-2025,Lumpsum,158094.03,Delhi,Verified
+2271,119092,06-04-2025,lumpsum,143549.77,Telangana,Pending
+2272,120841,29-03-2025,Lumpsum,14874.02,Karnataka,Pending
+2273,120841,11-04-2025,SIP,162492.24,Delhi,Pending
+2274,119092,2025/05/21,Sip,102468.12,Tamil Nadu,Verified
+2275,118632,2025/01/14,redemption,196348.48,Telangana,Verified
+2276,119092,2025/04/22,sip,28375.61,Karnataka,Pending
+2277,120503,2025/01/11,Sip,21938.59,Telangana,Pending
+2278,119551,2025/01/25,redemption,84941.14,Karnataka,Rejected
+2279,120841,16-01-2025,Sip,195378.83,Delhi,Pending
+2280,119092,03-03-2025,Lumpsum,120930.43,Delhi,Rejected
+2281,118632,02-03-2025,Lumpsum,117031.94,Maharashtra,Verified
+2282,119092,2025/02/22,sip,190917.43,Karnataka,Rejected
+2283,120841,2025/03/11,sip,19588.89,Tamil Nadu,Verified
+2284,119551,2025/04/28,SIP,183566.29,Delhi,Verified
+2285,120503,2025/03/03,lumpsum,116137.7,Telangana,Pending
+2286,119092,24-02-2025,Redemption,16858.43,Tamil Nadu,Pending
+2287,119551,2025/04/09,Redemption,76342.45,Telangana,Pending
+2288,119551,2025/06/22,Redemption,175091.77,Delhi,Pending
+2289,120503,2025/05/08,lumpsum,167724.68,Telangana,Verified
+2290,118632,2025/02/06,Lumpsum,167469.48,Tamil Nadu,Verified
+2291,119092,23-02-2025,Sip,81317.91,Maharashtra,Rejected
+2292,118632,2025/03/01,lumpsum,192150.69,Telangana,Verified
+2293,120503,2025/04/26,sip,78079.54,Delhi,Pending
+2294,119092,2025/01/06,redemption,89342.85,Tamil Nadu,Verified
+2295,119092,2025/03/07,Sip,73635.65,Delhi,Pending
+2296,119551,13-02-2025,Lumpsum,129179.29,Telangana,Rejected
+2297,119551,2025/01/10,Sip,10071.72,Maharashtra,Verified
+2298,119551,2025/01/24,Lumpsum,10487.98,Karnataka,Rejected
+2299,118632,26-04-2025,SIP,171770.8,Delhi,Verified
+2300,119551,2025/04/15,Lumpsum,13822.39,Karnataka,Rejected
+2301,120503,2025/05/27,Redemption,174429.66,Maharashtra,Pending
+2302,120841,2025/05/01,SIP,47630.92,Maharashtra,Rejected
+2303,120503,2025/01/18,Sip,163549.31,Maharashtra,Rejected
+2304,120503,2025/04/29,Sip,144780.09,Maharashtra,Rejected
+2305,119551,2025/03/04,Sip,171153.76,Delhi,Rejected
+2306,120503,2025/05/09,sip,79064.23,Maharashtra,Verified
+2307,119092,2025/02/09,SIP,172406.81,Delhi,Rejected
+2308,118632,29-04-2025,SIP,142186.73,Maharashtra,Verified
+2309,120841,11-01-2025,lumpsum,27612.9,Delhi,Pending
+2310,120841,2025/05/06,lumpsum,110287.99,Tamil Nadu,Rejected
+2311,119092,2025/06/15,Sip,157383.75,Telangana,Rejected
+2312,119092,2025/03/06,lumpsum,33795.66,Tamil Nadu,Verified
+2313,120503,22-02-2025,Sip,168468.23,Karnataka,Rejected
+2314,119092,2025/04/08,Sip,5263.23,Tamil Nadu,Verified
+2315,120503,2025/02/25,redemption,150194.33,Tamil Nadu,Rejected
+2316,119551,2025/06/16,lumpsum,49276.11,Karnataka,Verified
+2317,119092,2025/03/06,lumpsum,142721.61,Delhi,Verified
+2318,119092,2025/02/03,sip,49450.52,Maharashtra,Rejected
+2319,120503,2025/03/17,Sip,93285.34,Tamil Nadu,Rejected
+2320,119092,2025/01/20,Sip,164308.3,Telangana,Pending
+2321,120503,03-05-2025,Sip,39099.12,Telangana,Verified
+2322,120503,26-01-2025,redemption,112537.23,Karnataka,Verified
+2323,120841,2025/02/25,Sip,5315.9,Tamil Nadu,Pending
+2324,120841,2025/04/28,Sip,57342.97,Karnataka,Rejected
+2325,120841,2025/02/01,Redemption,97759.61,Telangana,Verified
+2326,120841,2025/05/25,SIP,186623.04,Tamil Nadu,Pending
+2327,119092,12-06-2025,SIP,152540.7,Maharashtra,Verified
+2328,120841,09-04-2025,SIP,8857.38,Delhi,Verified
+2329,119551,2025/02/19,SIP,83809.02,Maharashtra,Pending
+2330,120841,26-05-2025,SIP,613.11,Karnataka,Verified
+2331,120503,2025/03/09,Redemption,13684.77,Tamil Nadu,Verified
+2332,119092,30-01-2025,lumpsum,162432.11,Delhi,Rejected
+2333,118632,2025/05/01,Sip,115620.17,Telangana,Rejected
+2334,118632,2025/06/11,Lumpsum,31541.87,Telangana,Rejected
+2335,118632,2025/06/02,SIP,45626.68,Karnataka,Pending
+2336,119092,2025/03/11,Lumpsum,60463.51,Tamil Nadu,Verified
+2337,120841,2025/03/18,Sip,21746.11,Maharashtra,Rejected
+2338,119551,2025/02/26,SIP,93137.34,Maharashtra,Verified
+2339,120841,2025/05/10,redemption,80270.22,Telangana,Pending
+2340,118632,21-01-2025,Lumpsum,96494.15,Karnataka,Pending
+2341,120503,2025/04/22,lumpsum,31232.17,Tamil Nadu,Verified
+2342,118632,05-04-2025,SIP,97560.73,Tamil Nadu,Pending
+2343,120841,2025/02/24,Redemption,47404.71,Maharashtra,Rejected
+2344,119551,28-03-2025,Sip,118892.49,Karnataka,Verified
+2345,120503,2025/01/22,sip,30434.23,Tamil Nadu,Pending
+2346,120503,2025/06/28,sip,916.41,Maharashtra,Verified
+2347,119551,2025/03/16,Sip,135908.57,Delhi,Rejected
+2348,120841,23-01-2025,Sip,66363.28,Karnataka,Rejected
+2349,120503,2025/01/11,Redemption,184548.95,Maharashtra,Pending
+2350,119092,28-01-2025,Sip,123279.3,Telangana,Verified
+2351,120841,14-03-2025,lumpsum,121430.46,Delhi,Verified
+2352,120841,2025/01/25,SIP,137961.89,Karnataka,Pending
+2353,118632,20-06-2025,lumpsum,162149.02,Delhi,Rejected
+2354,118632,2025/03/17,Redemption,80518.26,Maharashtra,Pending
+2355,118632,23-02-2025,SIP,140795.31,Karnataka,Verified
+2356,120503,2025/05/31,SIP,21981.06,Tamil Nadu,Verified
+2357,119551,19-01-2025,Sip,137701.3,Telangana,Verified
+2358,119092,2025/04/22,redemption,133819.73,Telangana,Rejected
+2359,120841,2025/03/19,SIP,179170.13,Karnataka,Pending
+2360,119551,11-04-2025,sip,10257.98,Delhi,Pending
+2361,119551,2025/05/08,lumpsum,156853.09,Delhi,Pending
+2362,119551,2025/03/25,redemption,84758.51,Delhi,Rejected
+2363,119551,2025/01/02,SIP,190880.77,Tamil Nadu,Verified
+2364,119092,27-03-2025,SIP,48384.66,Telangana,Pending
+2365,118632,2025/02/21,lumpsum,8170.59,Karnataka,Rejected
+2366,118632,2025/03/29,Sip,67767.37,Karnataka,Pending
+2367,120841,21-02-2025,Sip,136230.96,Telangana,Pending
+2368,120841,2025/04/11,Lumpsum,122686.53,Telangana,Verified
+2369,119092,2025/01/11,redemption,118399.54,Delhi,Rejected
+2370,119092,12-01-2025,sip,81763.59,Karnataka,Pending
+2371,119092,2025/04/29,Lumpsum,114593.58,Delhi,Rejected
+2372,119551,26-04-2025,redemption,170506.86,Maharashtra,Rejected
+2373,120841,2025/03/07,sip,106383.19,Karnataka,Verified
+2374,119092,2025/03/03,lumpsum,10028.87,Karnataka,Pending
+2375,120841,2025/05/20,sip,100599.49,Delhi,Rejected
+2376,120503,2025/05/08,SIP,107050.96,Telangana,Pending
+2377,120503,2025/03/02,lumpsum,112370.57,Delhi,Verified
+2378,120841,17-06-2025,redemption,86185.35,Delhi,Rejected
+2379,119551,03-05-2025,SIP,186250.85,Delhi,Verified
+2380,118632,21-06-2025,SIP,181237.93,Maharashtra,Rejected
+2381,119551,03-04-2025,Sip,62243.74,Telangana,Rejected
+2382,120841,13-06-2025,SIP,174707.62,Karnataka,Verified
+2383,120503,2025/03/11,sip,153097.61,Delhi,Verified
+2384,120841,2025/05/17,sip,96507.75,Telangana,Pending
+2385,120503,2025/04/02,Sip,35691.51,Maharashtra,Rejected
+2386,118632,2025/01/05,Lumpsum,160972.88,Karnataka,Verified
+2387,119551,2025/02/07,Lumpsum,163135.98,Telangana,Verified
+2388,119092,2025/06/11,Sip,170774.49,Tamil Nadu,Verified
+2389,120841,14-04-2025,SIP,124404.48,Tamil Nadu,Rejected
+2390,120503,2025/02/28,Redemption,99127.85,Tamil Nadu,Pending
+2391,118632,2025/06/14,sip,7757.71,Maharashtra,Verified
+2392,120841,01-04-2025,redemption,186817.05,Delhi,Pending
+2393,120503,2025/03/22,sip,27248.88,Karnataka,Rejected
+2394,120841,2025/05/24,Lumpsum,27586.18,Tamil Nadu,Rejected
+2395,120841,29-03-2025,Redemption,6979.78,Delhi,Verified
+2396,118632,2025/05/18,Sip,8268.29,Karnataka,Verified
+2397,118632,2025/06/20,SIP,139333.4,Tamil Nadu,Verified
+2398,118632,2025/03/29,sip,195038.35,Delhi,Verified
+2399,119092,2025/03/20,lumpsum,5035.08,Delhi,Pending
+2400,119551,2025/01/24,Lumpsum,120779.83,Karnataka,Pending
+2401,120503,2025/01/25,Redemption,67090.14,Karnataka,Verified
+2402,120841,2025/02/24,sip,46688.12,Delhi,Pending
+2403,120841,2025/05/19,sip,162409.63,Telangana,Rejected
+2404,120841,2025/03/18,redemption,59860.44,Tamil Nadu,Verified
+2405,118632,18-04-2025,Sip,54175.11,Karnataka,Verified
+2406,120503,2025/01/25,Lumpsum,1299.89,Tamil Nadu,Verified
+2407,119092,2025/04/03,sip,53224.31,Telangana,Rejected
+2408,119551,2025/01/21,SIP,129872.91,Telangana,Rejected
+2409,120503,2025/06/11,lumpsum,44074.37,Maharashtra,Verified
+2410,120841,2025/03/03,sip,136441.54,Delhi,Rejected
+2411,119551,2025/05/07,sip,86229.76,Telangana,Rejected
+2412,119092,2025/02/19,Sip,69181.44,Tamil Nadu,Rejected
+2413,119092,29-05-2025,SIP,123468.78,Karnataka,Rejected
+2414,119092,2025/03/07,lumpsum,789.8,Karnataka,Pending
+2415,120841,2025/02/18,redemption,26074.11,Maharashtra,Rejected
+2416,120841,2025/01/31,SIP,26923.49,Karnataka,Verified
+2417,119551,2025/01/12,redemption,79246.39,Maharashtra,Pending
+2418,120503,28-05-2025,SIP,143588.68,Karnataka,Pending
+2419,120503,29-03-2025,SIP,29824.02,Karnataka,Pending
+2420,118632,2025/04/16,Lumpsum,136222.75,Tamil Nadu,Rejected
+2421,119551,12-06-2025,lumpsum,70959.05,Maharashtra,Pending
+2422,119092,2025/03/12,Sip,1109.95,Tamil Nadu,Verified
+2423,120503,2025/01/16,Lumpsum,58170.04,Tamil Nadu,Verified
+2424,118632,06-02-2025,SIP,85517.38,Karnataka,Pending
+2425,120841,2025/01/17,Sip,60987.54,Maharashtra,Pending
+2426,119551,2025/06/26,Redemption,95628.63,Tamil Nadu,Pending
+2427,119551,03-05-2025,SIP,3920.58,Maharashtra,Rejected
+2428,119092,09-04-2025,Lumpsum,102184.69,Maharashtra,Verified
+2429,118632,2025/04/05,redemption,20217.5,Telangana,Pending
+2430,119092,06-01-2025,sip,48624.54,Delhi,Pending
+2431,119551,2025/06/21,Redemption,122912.03,Telangana,Verified
+2432,119092,16-05-2025,sip,65811.65,Telangana,Pending
+2433,120841,29-03-2025,SIP,37880.69,Delhi,Rejected
+2434,119092,2025/03/06,Sip,117445.38,Tamil Nadu,Rejected
+2435,120841,2025/05/25,sip,76294.34,Telangana,Verified
+2436,119551,25-03-2025,Sip,71697.69,Maharashtra,Rejected
+2437,118632,07-05-2025,Lumpsum,3778.06,Karnataka,Verified
+2438,120841,05-02-2025,Redemption,9253.41,Tamil Nadu,Pending
+2439,120841,19-01-2025,Lumpsum,88535.59,Maharashtra,Verified
+2440,119551,2025/02/25,sip,51663.08,Telangana,Pending
+2441,120503,2025/03/13,lumpsum,178674.0,Karnataka,Pending
+2442,119551,06-06-2025,Redemption,50438.18,Telangana,Rejected
+2443,119551,2025/01/12,Sip,108444.49,Karnataka,Pending
+2444,119551,2025/04/16,sip,18197.68,Telangana,Verified
+2445,120841,13-03-2025,redemption,70117.28,Delhi,Pending
+2446,120841,28-06-2025,redemption,19953.48,Telangana,Verified
+2447,118632,19-02-2025,SIP,47226.8,Karnataka,Rejected
+2448,119551,2025/02/20,SIP,26959.32,Tamil Nadu,Verified
+2449,119092,2025/02/27,sip,24016.31,Maharashtra,Pending
+2450,118632,2025/06/25,redemption,13121.96,Maharashtra,Pending
+2451,119092,02-01-2025,sip,106839.42,Tamil Nadu,Verified
+2452,120503,10-02-2025,SIP,83303.04,Tamil Nadu,Verified
+2453,119551,2025/03/10,redemption,111221.97,Telangana,Rejected
+2454,120841,2025/03/26,SIP,165840.72,Telangana,Rejected
+2455,120841,2025/02/25,lumpsum,34840.94,Tamil Nadu,Pending
+2456,118632,2025/03/08,redemption,159761.27,Karnataka,Verified
+2457,119092,2025/03/17,Lumpsum,93241.24,Karnataka,Rejected
+2458,120503,27-06-2025,sip,46332.7,Telangana,Verified
+2459,120841,2025/05/03,redemption,116342.14,Maharashtra,Verified
+2460,120841,2025/02/16,SIP,159889.11,Maharashtra,Verified
+2461,120841,2025/06/05,sip,48678.2,Telangana,Verified
+2462,118632,2025/05/15,Sip,52597.47,Telangana,Verified
+2463,119551,2025/01/12,Redemption,167661.34,Maharashtra,Verified
+2464,120503,13-05-2025,lumpsum,14751.33,Telangana,Verified
+2465,118632,28-04-2025,Sip,198554.0,Delhi,Verified
+2466,120503,2025/01/03,Redemption,133143.99,Karnataka,Rejected
+2467,120503,2025/01/22,Redemption,148568.51,Telangana,Verified
+2468,120503,26-06-2025,Redemption,20102.99,Telangana,Rejected
+2469,118632,2025/01/15,redemption,193744.41,Karnataka,Rejected
+2470,119551,2025/04/01,redemption,23473.93,Telangana,Rejected
+2471,118632,16-03-2025,sip,109382.16,Maharashtra,Rejected
+2472,120841,2025/05/19,lumpsum,104683.32,Karnataka,Verified
+2473,119551,2025/03/15,Redemption,8970.74,Tamil Nadu,Pending
+2474,120503,2025/05/10,sip,9307.21,Karnataka,Verified
+2475,118632,2025/03/04,redemption,68627.08,Delhi,Rejected
+2476,120841,2025/03/12,lumpsum,75855.37,Karnataka,Verified
+2477,119092,2025/02/08,Lumpsum,45955.03,Delhi,Pending
+2478,120503,2025/04/04,SIP,157135.41,Tamil Nadu,Rejected
+2479,120503,2025/05/22,redemption,94218.96,Tamil Nadu,Verified
+2480,119551,2025/04/16,Lumpsum,111873.34,Telangana,Pending
+2481,120503,2025/06/09,Redemption,184966.15,Maharashtra,Verified
+2482,120503,16-01-2025,sip,185663.65,Tamil Nadu,Pending
+2483,120841,2025/02/01,Lumpsum,147831.99,Delhi,Rejected
+2484,118632,14-06-2025,lumpsum,99940.22,Maharashtra,Rejected
+2485,119551,2025/04/07,SIP,105900.1,Karnataka,Pending
+2486,118632,04-03-2025,sip,28729.44,Tamil Nadu,Rejected
+2487,118632,2025/02/13,redemption,134064.29,Delhi,Pending
+2488,118632,10-02-2025,lumpsum,151417.65,Maharashtra,Pending
+2489,120841,21-04-2025,Sip,192174.34,Delhi,Verified
+2490,119092,2025/01/11,Sip,189117.84,Tamil Nadu,Verified
+2491,118632,2025/04/06,Redemption,174756.66,Maharashtra,Pending
+2492,119551,2025/06/22,Lumpsum,136795.09,Delhi,Verified
+2493,120503,21-06-2025,lumpsum,61892.03,Delhi,Pending
+2494,120841,2025/05/28,Lumpsum,101290.66,Karnataka,Verified
+2495,120503,05-04-2025,redemption,100443.48,Maharashtra,Pending
+2496,118632,2025/02/04,Redemption,139589.52,Delhi,Verified
+2497,118632,2025/06/25,Redemption,58629.56,Maharashtra,Verified
+2498,119551,01-04-2025,Lumpsum,51914.56,Delhi,Rejected
+2499,120503,2025/04/12,Redemption,28712.51,Karnataka,Verified
+2500,120503,2025/06/03,lumpsum,144389.72,Karnataka,Rejected
+2501,120503,2025/06/05,SIP,118866.88,Maharashtra,Pending
+2502,119551,2025/02/04,Sip,199888.99,Karnataka,Pending
+2503,120503,2025/01/20,Redemption,122569.1,Telangana,Pending
+2504,118632,10-04-2025,Lumpsum,171746.5,Telangana,Rejected
+2505,120841,03-01-2025,SIP,42136.36,Karnataka,Verified
+2506,120841,2025/01/28,lumpsum,22846.92,Maharashtra,Rejected
+2507,120841,04-01-2025,lumpsum,67103.47,Tamil Nadu,Pending
+2508,118632,02-06-2025,redemption,181633.4,Karnataka,Rejected
+2509,119551,2025/04/11,Redemption,69485.62,Karnataka,Verified
+2510,118632,04-06-2025,sip,174232.9,Telangana,Pending
+2511,120503,19-05-2025,SIP,79701.93,Tamil Nadu,Pending
+2512,120503,31-05-2025,lumpsum,39343.83,Maharashtra,Verified
+2513,120841,2025/06/04,sip,48408.41,Delhi,Pending
+2514,118632,18-04-2025,Sip,186788.69,Delhi,Verified
+2515,120841,2025/05/18,redemption,9049.26,Delhi,Rejected
+2516,120503,28-03-2025,lumpsum,86019.57,Karnataka,Rejected
+2517,120503,2025/01/30,lumpsum,156171.2,Karnataka,Verified
+2518,119551,2025/01/15,SIP,72583.76,Tamil Nadu,Rejected
+2519,120503,2025/01/07,redemption,91397.94,Delhi,Rejected
+2520,119551,2025/01/26,Redemption,44111.51,Delhi,Pending
+2521,120503,2025/04/21,SIP,87529.97,Karnataka,Pending
+2522,119092,2025/04/19,redemption,180532.36,Telangana,Verified
+2523,120841,09-03-2025,sip,23607.8,Delhi,Rejected
+2524,120503,2025/05/16,Redemption,39216.8,Delhi,Verified
+2525,119092,2025/06/20,redemption,178798.11,Maharashtra,Pending
+2526,120503,24-02-2025,Sip,123094.45,Karnataka,Verified
+2527,120503,2025/06/20,redemption,138946.45,Telangana,Verified
+2528,120841,2025/04/05,Lumpsum,141655.67,Delhi,Pending
+2529,120841,2025/02/16,redemption,199075.02,Delhi,Rejected
+2530,119551,2025/04/14,redemption,114771.08,Tamil Nadu,Rejected
+2531,120841,2025/04/07,redemption,59634.13,Telangana,Rejected
+2532,120841,2025/06/03,redemption,135816.72,Tamil Nadu,Verified
+2533,120841,17-03-2025,Redemption,73553.01,Tamil Nadu,Rejected
+2534,120841,05-03-2025,Lumpsum,21037.32,Karnataka,Rejected
+2535,118632,2025/05/26,Redemption,39292.97,Maharashtra,Verified
+2536,120503,2025/02/17,Redemption,163963.45,Delhi,Verified
+2537,119092,2025/04/14,sip,81859.91,Karnataka,Rejected
+2538,119092,2025/02/09,sip,91707.71,Tamil Nadu,Verified
+2539,119092,2025/02/14,Sip,112551.1,Maharashtra,Rejected
+2540,120841,2025/02/26,redemption,120678.82,Delhi,Rejected
+2541,119551,14-05-2025,Lumpsum,151523.94,Delhi,Verified
+2542,118632,2025/04/15,sip,196328.81,Telangana,Rejected
+2543,119092,29-03-2025,Redemption,169869.86,Maharashtra,Pending
+2544,120841,2025/04/02,SIP,87112.04,Delhi,Verified
+2545,120841,2025/04/08,Sip,81681.53,Karnataka,Verified
+2546,120503,2025/05/24,lumpsum,20101.43,Maharashtra,Verified
+2547,120841,2025/03/22,Redemption,24477.09,Maharashtra,Pending
+2548,119092,19-05-2025,Lumpsum,159358.57,Delhi,Rejected
+2549,118632,2025/06/10,Redemption,6376.09,Maharashtra,Pending
+2550,119551,01-01-2025,Redemption,103022.77,Telangana,Pending
+2551,119092,2025/01/17,sip,166825.2,Tamil Nadu,Rejected
+2552,119551,20-01-2025,SIP,162955.59,Delhi,Verified
+2553,120503,2025/01/17,sip,122607.49,Delhi,Verified
+2554,118632,2025/06/11,Redemption,147677.2,Karnataka,Pending
+2555,119092,2025/02/15,Lumpsum,39581.95,Telangana,Pending
+2556,119092,10-06-2025,redemption,73988.03,Delhi,Pending
+2557,120503,2025/05/07,Lumpsum,56659.44,Maharashtra,Verified
+2558,119092,2025/02/05,Redemption,172671.75,Maharashtra,Rejected
+2559,119551,30-03-2025,Redemption,18867.87,Tamil Nadu,Rejected
+2560,119092,2025/04/09,SIP,113301.56,Telangana,Verified
+2561,118632,2025/01/06,Lumpsum,135089.17,Delhi,Verified
+2562,119551,20-02-2025,SIP,18292.78,Maharashtra,Pending
+2563,118632,13-02-2025,lumpsum,22188.3,Telangana,Verified
+2564,119092,03-01-2025,SIP,135767.52,Karnataka,Rejected
+2565,119551,2025/01/01,SIP,150192.37,Maharashtra,Rejected
+2566,118632,2025/02/03,Lumpsum,114900.41,Delhi,Pending
+2567,120503,18-02-2025,sip,178334.41,Telangana,Pending
+2568,118632,2025/03/09,redemption,192266.95,Telangana,Pending
+2569,120503,2025/02/06,Sip,102298.59,Karnataka,Pending
+2570,118632,2025/03/14,SIP,90621.86,Delhi,Verified
+2571,119092,2025/05/01,SIP,181056.04,Tamil Nadu,Rejected
+2572,120841,2025/02/13,sip,3295.7,Maharashtra,Rejected
+2573,120503,2025/05/06,Lumpsum,107480.68,Maharashtra,Verified
+2574,119551,2025/03/08,lumpsum,34738.11,Telangana,Pending
+2575,119092,2025/06/25,SIP,151696.75,Maharashtra,Rejected
+2576,119551,2025/01/30,SIP,108930.59,Delhi,Pending
+2577,120503,28-03-2025,Redemption,90203.83,Karnataka,Pending
+2578,120841,2025/05/20,lumpsum,80854.89,Karnataka,Pending
+2579,119092,29-06-2025,Redemption,187669.78,Maharashtra,Pending
+2580,120841,2025/02/07,sip,73334.72,Karnataka,Pending
+2581,120841,06-02-2025,Redemption,34602.58,Maharashtra,Rejected
+2582,118632,2025/03/25,sip,198434.08,Delhi,Verified
+2583,118632,2025/05/19,sip,137506.12,Tamil Nadu,Rejected
+2584,119551,2025/01/19,Redemption,187444.89,Karnataka,Rejected
+2585,119551,2025/03/25,lumpsum,151115.12,Karnataka,Rejected
+2586,120841,2025/05/17,Sip,47426.23,Telangana,Rejected
+2587,120841,2025/03/15,Redemption,3725.17,Maharashtra,Verified
+2588,120503,2025/03/26,Lumpsum,138512.76,Maharashtra,Rejected
+2589,120841,2025/04/21,Lumpsum,143491.84,Delhi,Rejected
+2590,118632,15-06-2025,Lumpsum,67875.33,Telangana,Rejected
+2591,120841,11-06-2025,sip,57071.4,Tamil Nadu,Rejected
+2592,120841,2025/05/10,Redemption,150359.29,Karnataka,Rejected
+2593,119092,2025/01/24,SIP,47438.54,Telangana,Pending
+2594,119092,2025/04/10,Lumpsum,153936.91,Maharashtra,Verified
+2595,120841,26-04-2025,Redemption,16059.38,Telangana,Verified
+2596,119092,2025/05/07,lumpsum,77202.64,Maharashtra,Rejected
+2597,120841,2025/04/22,redemption,169179.5,Maharashtra,Pending
+2598,120841,28-05-2025,redemption,8116.9,Telangana,Pending
+2599,120841,2025/01/01,SIP,136626.58,Maharashtra,Pending
+2600,120503,28-06-2025,sip,132882.24,Delhi,Pending
+2601,119092,2025/06/08,lumpsum,114054.1,Karnataka,Rejected
+2602,120503,12-02-2025,Lumpsum,35593.49,Delhi,Pending
+2603,118632,06-03-2025,Lumpsum,78938.09,Telangana,Pending
+2604,119551,2025/02/05,Redemption,122471.79,Maharashtra,Rejected
+2605,119551,2025/06/12,redemption,106774.27,Telangana,Pending
+2606,119092,2025/02/26,SIP,109463.33,Telangana,Verified
+2607,118632,14-04-2025,sip,137051.62,Delhi,Verified
+2608,120841,2025/03/28,lumpsum,35990.77,Delhi,Pending
+2609,119551,28-05-2025,Lumpsum,44719.6,Maharashtra,Pending
+2610,120841,2025/06/05,Sip,20893.03,Telangana,Verified
+2611,120841,2025/04/11,sip,190349.86,Tamil Nadu,Rejected
+2612,118632,2025/04/09,Lumpsum,65213.08,Telangana,Pending
+2613,119092,24-06-2025,Sip,45229.24,Maharashtra,Pending
+2614,120841,2025/01/31,Lumpsum,164953.55,Karnataka,Verified
+2615,119092,2025/06/03,sip,40229.99,Delhi,Rejected
+2616,119551,2025/03/10,sip,167793.28,Maharashtra,Pending
+2617,118632,2025/01/23,lumpsum,21950.77,Delhi,Verified
+2618,120503,2025/02/25,Sip,124066.22,Maharashtra,Pending
+2619,119092,15-05-2025,Redemption,85536.89,Delhi,Verified
+2620,120503,08-06-2025,Redemption,30362.46,Karnataka,Pending
+2621,120503,2025/01/10,SIP,91598.28,Telangana,Rejected
+2622,120503,2025/06/28,lumpsum,112516.38,Telangana,Rejected
+2623,119551,03-05-2025,Sip,26390.29,Telangana,Rejected
+2624,120841,2025/03/31,SIP,187067.21,Telangana,Pending
+2625,119092,2025/01/15,Redemption,154698.65,Telangana,Pending
+2626,119092,2025/05/18,Sip,172587.24,Maharashtra,Pending
+2627,118632,2025/05/11,redemption,178687.61,Delhi,Rejected
+2628,118632,2025/05/31,Sip,159422.19,Delhi,Rejected
+2629,120841,15-03-2025,SIP,61256.07,Telangana,Verified
+2630,120503,2025/06/27,Sip,5566.45,Karnataka,Verified
+2631,120503,2025/02/09,Sip,128013.43,Telangana,Rejected
+2632,119551,2025/01/19,SIP,128708.77,Karnataka,Pending
+2633,118632,18-01-2025,Sip,68315.99,Karnataka,Rejected
+2634,119551,2025/06/12,Lumpsum,147761.95,Karnataka,Pending
+2635,118632,2025/03/14,Lumpsum,123573.26,Tamil Nadu,Rejected
+2636,120841,06-05-2025,Redemption,138226.95,Maharashtra,Pending
+2637,119092,2025/06/13,redemption,189916.77,Tamil Nadu,Verified
+2638,120503,2025/02/03,Lumpsum,196965.6,Maharashtra,Pending
+2639,118632,2025/02/23,sip,105402.62,Maharashtra,Rejected
+2640,120841,2025/01/28,SIP,167349.56,Maharashtra,Verified
+2641,120841,2025/02/06,redemption,1913.31,Delhi,Rejected
+2642,120503,2025/01/16,sip,177153.69,Telangana,Verified
+2643,119092,2025/03/09,SIP,143650.14,Tamil Nadu,Pending
+2644,120503,17-05-2025,lumpsum,81103.06,Karnataka,Rejected
+2645,119092,2025/02/15,Sip,96275.88,Delhi,Pending
+2646,118632,2025/05/24,lumpsum,27565.49,Maharashtra,Rejected
+2647,120503,25-03-2025,sip,102430.17,Tamil Nadu,Pending
+2648,120841,2025/03/03,lumpsum,11092.74,Maharashtra,Rejected
+2649,119092,2025/01/31,SIP,13132.73,Maharashtra,Verified
+2650,119092,2025/02/25,redemption,116719.61,Maharashtra,Verified
+2651,118632,16-02-2025,Lumpsum,191060.96,Telangana,Verified
+2652,119092,2025/02/13,redemption,85706.46,Delhi,Rejected
+2653,120841,2025/01/20,SIP,110850.71,Maharashtra,Verified
+2654,119551,2025/03/25,redemption,192848.22,Telangana,Rejected
+2655,119551,2025/03/23,Sip,53722.26,Karnataka,Pending
+2656,119092,07-05-2025,Redemption,78919.82,Maharashtra,Verified
+2657,120841,27-03-2025,Sip,115732.98,Tamil Nadu,Rejected
+2658,120503,2025/02/16,Lumpsum,165061.37,Telangana,Pending
+2659,120503,2025/02/17,lumpsum,14441.55,Karnataka,Pending
+2660,119551,2025/06/20,lumpsum,152069.25,Tamil Nadu,Rejected
+2661,120503,2025/02/24,Redemption,65711.92,Telangana,Rejected
+2662,120841,04-03-2025,sip,162557.99,Karnataka,Verified
+2663,118632,2025/04/12,redemption,172664.14,Telangana,Verified
+2664,119551,2025/01/10,Sip,152318.85,Tamil Nadu,Rejected
+2665,119092,2025/05/13,Redemption,113999.8,Delhi,Rejected
+2666,119551,2025/06/27,redemption,175763.8,Telangana,Pending
+2667,119551,2025/03/02,lumpsum,184898.36,Karnataka,Verified
+2668,120503,2025/03/13,SIP,184547.66,Karnataka,Rejected
+2669,120841,24-03-2025,sip,69704.05,Maharashtra,Verified
+2670,120841,24-01-2025,SIP,128760.88,Maharashtra,Rejected
+2671,120841,2025/03/31,sip,60906.74,Tamil Nadu,Pending
+2672,120841,19-02-2025,Redemption,39668.36,Karnataka,Rejected
+2673,119092,01-05-2025,redemption,118900.25,Karnataka,Rejected
+2674,120503,2025/02/07,redemption,30610.88,Maharashtra,Verified
+2675,119551,10-02-2025,redemption,184835.51,Tamil Nadu,Pending
+2676,119092,19-06-2025,sip,121364.54,Karnataka,Verified
+2677,120503,2025/04/08,SIP,182700.41,Karnataka,Verified
+2678,120841,2025/01/09,redemption,68916.32,Telangana,Pending
+2679,119551,2025/02/20,redemption,146071.35,Karnataka,Pending
+2680,120841,2025/02/19,Sip,42076.18,Karnataka,Rejected
+2681,119551,2025/04/27,redemption,162346.21,Telangana,Verified
+2682,119551,14-03-2025,sip,57247.86,Telangana,Rejected
+2683,119092,2025/06/10,Sip,172038.85,Telangana,Rejected
+2684,118632,04-02-2025,Sip,75427.6,Karnataka,Rejected
+2685,119551,2025/06/29,Sip,144454.05,Karnataka,Rejected
+2686,120503,2025/02/24,Lumpsum,119442.45,Maharashtra,Rejected
+2687,120841,2025/05/08,Redemption,19885.03,Tamil Nadu,Verified
+2688,119551,12-03-2025,Sip,110164.15,Telangana,Pending
+2689,119092,2025/03/20,SIP,42796.52,Karnataka,Pending
+2690,120503,09-02-2025,lumpsum,186071.95,Tamil Nadu,Verified
+2691,118632,07-06-2025,SIP,111726.92,Delhi,Verified
+2692,119551,2025/06/03,lumpsum,143908.78,Karnataka,Pending
+2693,119092,01-06-2025,SIP,26432.53,Delhi,Rejected
+2694,120503,2025/03/29,Redemption,32140.39,Karnataka,Verified
+2695,118632,09-01-2025,sip,3863.6,Delhi,Pending
+2696,119092,2025/05/25,redemption,90568.99,Tamil Nadu,Pending
+2697,120841,2025/01/17,Lumpsum,135575.16,Delhi,Pending
+2698,118632,2025/04/19,SIP,50630.6,Karnataka,Verified
+2699,118632,2025/04/29,sip,9302.66,Karnataka,Verified
+2700,120841,01-02-2025,sip,161316.3,Tamil Nadu,Rejected
+2701,119551,2025/01/26,Sip,152807.13,Karnataka,Pending
+2702,119551,2025/04/19,Lumpsum,3119.24,Karnataka,Rejected
+2703,118632,25-04-2025,Lumpsum,6581.17,Karnataka,Pending
+2704,120503,29-04-2025,Lumpsum,8968.9,Tamil Nadu,Verified
+2705,119551,2025/01/14,SIP,66761.79,Karnataka,Pending
+2706,118632,2025/05/16,lumpsum,60397.2,Tamil Nadu,Verified
+2707,120503,20-02-2025,Lumpsum,87301.67,Delhi,Rejected
+2708,120841,2025/06/23,lumpsum,140829.85,Telangana,Pending
+2709,119092,08-01-2025,Lumpsum,1590.6,Maharashtra,Rejected
+2710,119551,2025/06/05,Redemption,162068.28,Tamil Nadu,Pending
+2711,119092,2025/04/11,SIP,16247.22,Telangana,Verified
+2712,120841,2025/03/03,redemption,170823.05,Karnataka,Verified
+2713,120503,2025/03/10,lumpsum,20483.35,Delhi,Rejected
+2714,120841,2025/01/07,Redemption,23737.67,Tamil Nadu,Rejected
+2715,119092,2025/06/20,Sip,7951.47,Delhi,Rejected
+2716,119551,2025/05/20,Lumpsum,14054.97,Telangana,Rejected
+2717,118632,27-05-2025,SIP,133708.08,Karnataka,Pending
+2718,119551,11-01-2025,Lumpsum,100616.29,Telangana,Pending
+2719,120841,2025/05/08,lumpsum,156773.51,Telangana,Pending
+2720,119551,15-06-2025,lumpsum,118268.27,Karnataka,Pending
+2721,119092,2025/06/04,Sip,20860.06,Tamil Nadu,Verified
+2722,119551,2025/02/25,sip,97261.77,Telangana,Pending
+2723,119551,2025/03/01,Redemption,64802.75,Maharashtra,Verified
+2724,120841,2025/06/21,Sip,116781.36,Karnataka,Rejected
+2725,119092,04-01-2025,Redemption,182258.63,Maharashtra,Pending
+2726,119551,07-01-2025,sip,103356.46,Telangana,Verified
+2727,120503,2025/01/23,Redemption,32092.52,Karnataka,Rejected
+2728,118632,2025/01/25,Lumpsum,188770.97,Karnataka,Verified
+2729,118632,2025/06/25,Lumpsum,114526.71,Telangana,Rejected
+2730,120841,2025/04/25,sip,17158.41,Tamil Nadu,Verified
+2731,120841,2025/05/09,Sip,185596.77,Telangana,Verified
+2732,120503,2025/05/20,Sip,61170.76,Maharashtra,Verified
+2733,120503,2025/04/26,Sip,104628.29,Maharashtra,Rejected
+2734,119092,2025/05/10,sip,108050.4,Karnataka,Verified
+2735,118632,19-05-2025,lumpsum,64379.53,Karnataka,Verified
+2736,119551,2025/04/08,Sip,119338.24,Karnataka,Rejected
+2737,120503,2025/02/10,lumpsum,135030.92,Telangana,Pending
+2738,119551,2025/06/03,Lumpsum,180810.42,Maharashtra,Pending
+2739,119092,2025/05/29,redemption,186077.89,Tamil Nadu,Rejected
+2740,120503,10-03-2025,Sip,46252.78,Karnataka,Pending
+2741,120503,2025/05/29,Sip,85716.36,Tamil Nadu,Rejected
+2742,119551,2025/02/15,redemption,178805.68,Telangana,Rejected
+2743,119551,2025/03/27,Sip,21848.27,Tamil Nadu,Rejected
+2744,119092,16-02-2025,sip,177011.11,Tamil Nadu,Rejected
+2745,118632,2025/06/06,Lumpsum,50106.66,Delhi,Rejected
+2746,119092,07-01-2025,Lumpsum,62822.54,Karnataka,Pending
+2747,120503,2025/02/09,sip,77494.07,Maharashtra,Pending
+2748,120841,2025/03/04,lumpsum,55405.84,Telangana,Verified
+2749,120503,2025/05/09,Redemption,155843.72,Delhi,Rejected
+2750,119092,2025/05/17,SIP,123009.01,Tamil Nadu,Verified
+2751,118632,2025/04/12,Redemption,105678.26,Telangana,Rejected
+2752,120503,19-04-2025,Redemption,13150.29,Delhi,Verified
+2753,119551,2025/01/29,Redemption,198847.1,Maharashtra,Pending
+2754,120841,2025/06/13,Redemption,174689.99,Tamil Nadu,Verified
+2755,119551,2025/02/24,lumpsum,178941.27,Delhi,Verified
+2756,119551,2025/01/12,Sip,111480.61,Karnataka,Pending
+2757,118632,29-06-2025,SIP,72383.08,Delhi,Pending
+2758,119092,07-02-2025,Lumpsum,19923.61,Delhi,Rejected
+2759,120503,2025/02/19,Sip,6136.86,Telangana,Pending
+2760,119092,2025/01/17,redemption,97105.8,Karnataka,Rejected
+2761,119551,29-06-2025,Lumpsum,114860.3,Telangana,Rejected
+2762,120503,2025/05/20,redemption,1068.89,Tamil Nadu,Pending
+2763,120841,07-02-2025,sip,88848.77,Tamil Nadu,Rejected
+2764,120503,2025/02/27,Lumpsum,37349.24,Tamil Nadu,Rejected
+2765,119092,2025/03/09,Lumpsum,132802.01,Telangana,Verified
+2766,120841,2025/04/12,Lumpsum,88349.15,Telangana,Pending
+2767,120841,2025/03/21,Redemption,18514.03,Delhi,Rejected
+2768,118632,2025/03/22,sip,22573.87,Telangana,Verified
+2769,120841,23-06-2025,Redemption,137646.8,Tamil Nadu,Pending
+2770,119551,2025/06/28,redemption,9375.44,Karnataka,Verified
+2771,119092,2025/01/21,redemption,12842.49,Telangana,Rejected
+2772,120841,12-04-2025,Sip,50086.3,Maharashtra,Verified
+2773,120841,29-05-2025,Sip,120099.02,Tamil Nadu,Pending
+2774,120503,13-01-2025,redemption,130439.81,Delhi,Verified
+2775,118632,2025/05/16,Sip,36196.04,Delhi,Pending
+2776,119092,2025/06/24,Redemption,180654.41,Telangana,Rejected
+2777,119092,2025/04/21,sip,65711.46,Tamil Nadu,Pending
+2778,119551,2025/01/04,Sip,63292.15,Delhi,Pending
+2779,119092,2025/03/29,sip,114456.42,Delhi,Pending
+2780,119551,2025/02/19,Redemption,121917.84,Tamil Nadu,Verified
+2781,119551,05-04-2025,lumpsum,175239.19,Maharashtra,Rejected
+2782,119551,2025/04/18,Sip,11311.38,Tamil Nadu,Rejected
+2783,118632,2025/06/04,SIP,185107.78,Karnataka,Rejected
+2784,119092,2025/02/11,sip,35394.13,Delhi,Verified
+2785,119092,2025/04/20,lumpsum,138942.95,Tamil Nadu,Pending
+2786,119092,2025/02/04,Lumpsum,13932.79,Karnataka,Verified
+2787,120503,15-02-2025,sip,18913.88,Telangana,Pending
+2788,120841,2025/05/13,sip,1720.8,Telangana,Verified
+2789,120503,2025/05/02,lumpsum,96499.47,Tamil Nadu,Rejected
+2790,119551,2025/02/20,SIP,115778.99,Delhi,Pending
+2791,120503,2025/03/11,redemption,82005.46,Delhi,Verified
+2792,119092,20-01-2025,sip,183944.59,Karnataka,Verified
+2793,120841,06-03-2025,Redemption,176957.34,Delhi,Verified
+2794,119092,2025/03/30,redemption,77480.96,Telangana,Verified
+2795,119092,2025/05/22,Redemption,127293.82,Delhi,Pending
+2796,120841,2025/02/14,sip,134513.95,Maharashtra,Rejected
+2797,118632,2025/03/06,Redemption,195999.68,Delhi,Verified
+2798,120503,2025/06/23,Sip,61447.86,Delhi,Pending
+2799,119092,2025/03/28,Redemption,39763.46,Karnataka,Verified
+2800,119551,19-02-2025,redemption,196952.73,Delhi,Rejected
+2801,120841,2025/05/06,Lumpsum,146821.25,Karnataka,Pending
+2802,119092,2025/04/12,SIP,133067.36,Maharashtra,Pending
+2803,119551,08-01-2025,Redemption,111240.22,Tamil Nadu,Rejected
+2804,119551,2025/01/19,Sip,142986.25,Telangana,Verified
+2805,120503,2025/06/05,SIP,165426.96,Delhi,Pending
+2806,119551,2025/01/09,Redemption,195782.74,Delhi,Rejected
+2807,120841,2025/05/09,Sip,125013.73,Maharashtra,Pending
+2808,119551,20-03-2025,Redemption,184206.09,Karnataka,Rejected
+2809,120503,2025/04/12,Lumpsum,57677.84,Karnataka,Pending
+2810,118632,14-02-2025,Sip,183399.56,Delhi,Pending
+2811,118632,20-04-2025,Lumpsum,42448.07,Telangana,Pending
+2812,120503,2025/05/02,SIP,90342.12,Telangana,Verified
+2813,120503,2025/06/14,Redemption,182114.49,Delhi,Verified
+2814,120841,01-02-2025,lumpsum,192088.83,Telangana,Rejected
+2815,118632,2025/05/18,Redemption,124608.73,Telangana,Pending
+2816,120841,2025/05/16,SIP,177017.44,Telangana,Verified
+2817,118632,2025/03/22,redemption,27002.56,Tamil Nadu,Verified
+2818,118632,2025/04/26,Sip,75680.01,Karnataka,Verified
+2819,120841,2025/05/19,lumpsum,142239.28,Maharashtra,Pending
+2820,119551,2025/02/22,redemption,45663.64,Tamil Nadu,Verified
+2821,120841,02-03-2025,Redemption,21089.07,Karnataka,Rejected
+2822,120841,08-05-2025,Redemption,31844.71,Telangana,Verified
+2823,119551,2025/05/13,sip,142482.29,Telangana,Verified
+2824,119551,07-02-2025,Redemption,23836.11,Maharashtra,Verified
+2825,119551,01-01-2025,redemption,104643.3,Tamil Nadu,Pending
+2826,119092,30-01-2025,sip,101830.68,Telangana,Rejected
+2827,120841,2025/06/23,lumpsum,24779.69,Telangana,Verified
+2828,118632,2025/02/18,Redemption,19041.62,Karnataka,Rejected
+2829,119551,22-05-2025,Sip,130150.19,Karnataka,Rejected
+2830,120841,2025/01/13,Sip,84517.46,Telangana,Rejected
+2831,119551,2025/02/19,lumpsum,173337.74,Telangana,Pending
+2832,120503,09-01-2025,redemption,154732.39,Karnataka,Pending
+2833,119092,16-02-2025,Redemption,163208.28,Delhi,Rejected
+2834,120841,2025/04/08,sip,66615.78,Karnataka,Pending
+2835,119092,2025/06/21,Sip,18859.49,Karnataka,Rejected
+2836,119092,05-04-2025,sip,141937.27,Maharashtra,Pending
+2837,120503,2025/04/25,sip,80065.24,Telangana,Pending
+2838,120841,01-05-2025,Lumpsum,3501.36,Telangana,Verified
+2839,119092,2025/04/18,Sip,111015.24,Tamil Nadu,Rejected
+2840,120841,2025/05/25,SIP,77988.65,Tamil Nadu,Verified
+2841,120841,2025/03/01,Lumpsum,111306.45,Telangana,Verified
+2842,119092,2025/05/16,redemption,128347.32,Telangana,Verified
+2843,118632,2025/01/08,Lumpsum,86036.49,Delhi,Pending
+2844,120503,2025/05/26,lumpsum,5163.04,Telangana,Verified
+2845,119551,2025/01/06,SIP,86606.78,Delhi,Pending
+2846,120841,2025/05/28,Redemption,37761.01,Karnataka,Pending
+2847,120503,2025/05/22,Redemption,188749.82,Telangana,Pending
+2848,119551,2025/01/19,Sip,67455.07,Delhi,Verified
+2849,119092,2025/05/05,redemption,18497.36,Maharashtra,Pending
+2850,118632,2025/04/09,Redemption,15388.34,Telangana,Rejected
+2851,120841,07-02-2025,Lumpsum,142697.64,Tamil Nadu,Verified
+2852,119092,10-03-2025,SIP,120830.13,Tamil Nadu,Pending
+2853,120841,31-05-2025,sip,162326.97,Delhi,Rejected
+2854,118632,2025/03/10,sip,164749.85,Delhi,Rejected
+2855,118632,2025/04/06,Redemption,9551.6,Tamil Nadu,Rejected
+2856,119551,2025/01/01,SIP,25702.54,Delhi,Pending
+2857,120503,28-05-2025,redemption,10431.32,Tamil Nadu,Verified
+2858,118632,15-04-2025,sip,92141.95,Maharashtra,Verified
+2859,118632,2025/05/01,Lumpsum,33009.52,Telangana,Rejected
+2860,118632,13-03-2025,sip,97352.23,Telangana,Verified
+2861,119551,26-06-2025,lumpsum,48453.91,Maharashtra,Pending
+2862,120503,2025/04/10,Lumpsum,184877.1,Delhi,Verified
+2863,119092,17-01-2025,Sip,188622.74,Karnataka,Verified
+2864,120503,2025/05/28,sip,122278.47,Tamil Nadu,Verified
+2865,120503,22-03-2025,sip,149632.54,Karnataka,Rejected
+2866,118632,2025/02/28,Redemption,158892.05,Karnataka,Rejected
+2867,119551,21-02-2025,lumpsum,14640.59,Tamil Nadu,Rejected
+2868,118632,24-06-2025,lumpsum,51656.92,Karnataka,Rejected
+2869,120841,2025/03/21,Sip,139975.8,Maharashtra,Rejected
+2870,119551,2025/05/26,lumpsum,118823.07,Telangana,Verified
+2871,119092,30-03-2025,Sip,56166.19,Tamil Nadu,Verified
+2872,119092,2025/01/23,Redemption,144329.6,Maharashtra,Pending
+2873,119551,2025/03/21,sip,43036.87,Karnataka,Verified
+2874,118632,27-03-2025,Sip,155049.3,Telangana,Pending
+2875,119551,25-06-2025,lumpsum,178534.17,Maharashtra,Rejected
+2876,118632,23-04-2025,Redemption,176321.14,Maharashtra,Pending
+2877,119551,2025/04/18,lumpsum,172477.82,Telangana,Pending
+2878,120503,2025/04/20,Lumpsum,109816.76,Delhi,Pending
+2879,120841,09-05-2025,Sip,193550.76,Delhi,Verified
+2880,119092,2025/06/11,Sip,81475.49,Maharashtra,Rejected
+2881,120503,2025/03/26,lumpsum,163352.73,Delhi,Rejected
+2882,120503,2025/04/11,Lumpsum,67444.93,Karnataka,Pending
+2883,119092,10-02-2025,SIP,145972.71,Karnataka,Rejected
+2884,120503,2025/05/19,Redemption,65248.21,Karnataka,Pending
+2885,118632,2025/01/08,Lumpsum,20792.48,Maharashtra,Verified
+2886,120503,2025/01/26,Lumpsum,188310.06,Karnataka,Rejected
+2887,120503,2025/02/06,Sip,140979.84,Tamil Nadu,Rejected
+2888,119092,2025/01/14,SIP,34053.92,Karnataka,Pending
+2889,120841,2025/04/05,Sip,163605.74,Delhi,Rejected
+2890,120503,24-06-2025,sip,178647.28,Maharashtra,Verified
+2891,119092,2025/03/22,Lumpsum,71790.21,Karnataka,Verified
+2892,119551,2025/04/17,redemption,183835.09,Karnataka,Pending
+2893,120503,28-03-2025,redemption,186135.03,Delhi,Rejected
+2894,120841,2025/03/08,Lumpsum,68286.97,Tamil Nadu,Pending
+2895,120503,07-05-2025,lumpsum,140984.8,Maharashtra,Pending
+2896,120841,21-05-2025,Sip,141805.25,Telangana,Rejected
+2897,118632,14-06-2025,SIP,133452.2,Karnataka,Verified
+2898,120503,11-04-2025,redemption,124597.12,Delhi,Rejected
+2899,120503,2025/02/22,Lumpsum,24144.24,Delhi,Pending
+2900,119551,2025/01/09,lumpsum,9598.62,Telangana,Rejected
+2901,118632,17-01-2025,Sip,125558.77,Karnataka,Verified
+2902,118632,2025/06/07,SIP,191988.95,Delhi,Pending
+2903,119551,2025/04/06,Sip,29728.33,Delhi,Pending
+2904,120503,09-01-2025,lumpsum,114094.2,Telangana,Verified
+2905,120503,2025/04/12,Redemption,109725.86,Karnataka,Rejected
+2906,119092,2025/04/23,sip,155769.64,Maharashtra,Pending
+2907,120841,2025/03/10,SIP,143472.96,Maharashtra,Rejected
+2908,119551,2025/05/26,Sip,116420.11,Delhi,Verified
+2909,120503,2025/01/01,lumpsum,75706.9,Maharashtra,Pending
+2910,118632,03-01-2025,redemption,69913.8,Karnataka,Verified
+2911,119092,2025/02/24,Sip,51393.22,Tamil Nadu,Verified
+2912,118632,2025/01/28,Sip,37162.17,Karnataka,Rejected
+2913,119551,2025/06/19,redemption,155930.12,Maharashtra,Verified
+2914,118632,2025/03/26,sip,3539.05,Karnataka,Rejected
+2915,120503,2025/06/14,lumpsum,167866.59,Karnataka,Pending
+2916,119551,2025/01/02,Lumpsum,111379.28,Tamil Nadu,Rejected
+2917,118632,04-03-2025,sip,18133.06,Tamil Nadu,Pending
+2918,119551,2025/02/04,sip,56677.18,Delhi,Pending
+2919,118632,2025/05/25,Lumpsum,90503.95,Telangana,Verified
+2920,120503,2025/02/13,Lumpsum,154327.67,Delhi,Verified
+2921,119092,12-01-2025,Redemption,48433.74,Maharashtra,Verified
+2922,119551,2025/04/28,Lumpsum,37714.45,Delhi,Pending
+2923,119092,2025/01/07,SIP,718.93,Tamil Nadu,Verified
+2924,120503,2025/03/30,SIP,142882.0,Telangana,Verified
+2925,119551,2025/02/18,SIP,20245.44,Telangana,Rejected
+2926,119551,2025/01/18,Lumpsum,157242.43,Telangana,Rejected
+2927,119092,2025/01/02,Lumpsum,19345.44,Karnataka,Verified
+2928,120841,22-04-2025,Sip,66796.99,Telangana,Verified
+2929,120841,2025/03/22,lumpsum,138208.34,Tamil Nadu,Verified
+2930,120503,2025/04/08,sip,141911.53,Delhi,Verified
+2931,119092,2025/05/17,redemption,120972.84,Maharashtra,Verified
+2932,120841,2025/04/07,SIP,101949.8,Telangana,Pending
+2933,119551,11-05-2025,Sip,173313.41,Karnataka,Rejected
+2934,119551,2025/02/13,lumpsum,32921.46,Karnataka,Verified
+2935,120841,2025/02/24,Lumpsum,25928.44,Maharashtra,Verified
+2936,119551,16-01-2025,Sip,56109.55,Delhi,Rejected
+2937,119551,2025/02/03,Redemption,105217.68,Karnataka,Verified
+2938,119092,2025/04/03,redemption,39658.48,Karnataka,Rejected
+2939,119551,2025/06/10,SIP,7705.08,Maharashtra,Verified
+2940,118632,28-06-2025,Redemption,26674.51,Tamil Nadu,Pending
+2941,118632,2025/02/02,sip,49118.0,Maharashtra,Verified
+2942,119551,09-05-2025,Sip,177324.01,Tamil Nadu,Pending
+2943,119092,20-02-2025,Redemption,11959.5,Telangana,Verified
+2944,119092,2025/04/27,lumpsum,180667.13,Karnataka,Rejected
+2945,120841,27-02-2025,sip,136915.51,Maharashtra,Rejected
+2946,120503,2025/04/17,Redemption,137314.65,Karnataka,Pending
+2947,118632,2025/04/07,sip,172189.82,Maharashtra,Rejected
+2948,120841,25-02-2025,Redemption,6319.74,Maharashtra,Rejected
+2949,120841,12-03-2025,lumpsum,78680.47,Maharashtra,Rejected
+2950,120503,2025/02/21,lumpsum,97626.15,Telangana,Verified
+2951,118632,2025/04/14,Sip,193783.38,Tamil Nadu,Pending
+2952,119092,2025/01/11,redemption,79103.24,Maharashtra,Verified
+2953,120841,2025/05/12,Sip,72653.27,Delhi,Rejected
+2954,118632,2025/03/07,sip,88474.57,Tamil Nadu,Pending
+2955,119551,2025/06/25,Redemption,38118.62,Maharashtra,Rejected
+2956,119092,30-03-2025,redemption,121101.42,Maharashtra,Pending
+2957,119551,2025/02/03,lumpsum,27370.58,Karnataka,Verified
+2958,118632,07-02-2025,Redemption,82481.66,Maharashtra,Rejected
+2959,118632,2025/06/17,Sip,53677.73,Maharashtra,Verified
+2960,120841,2025/05/12,sip,106993.29,Tamil Nadu,Rejected
+2961,120841,2025/01/26,lumpsum,29930.02,Maharashtra,Rejected
+2962,118632,2025/01/22,Lumpsum,136698.31,Delhi,Verified
+2963,119551,2025/05/24,SIP,177528.63,Delhi,Pending
+2964,119551,2025/04/04,Sip,106559.94,Maharashtra,Verified
+2965,118632,2025/02/21,sip,161878.9,Maharashtra,Verified
+2966,120503,2025/04/04,Lumpsum,100151.9,Karnataka,Pending
+2967,118632,2025/04/05,Redemption,145688.96,Telangana,Rejected
+2968,118632,2025/05/08,lumpsum,80574.64,Delhi,Rejected
+2969,118632,2025/02/21,SIP,87598.93,Telangana,Pending
+2970,118632,2025/04/11,redemption,119132.12,Telangana,Pending
+2971,120503,21-04-2025,Sip,25731.4,Maharashtra,Pending
+2972,118632,05-04-2025,redemption,181697.62,Telangana,Pending
+2973,120841,2025/03/20,Redemption,68667.25,Tamil Nadu,Rejected
+2974,119551,2025/03/24,Sip,115355.46,Tamil Nadu,Pending
+2975,119092,16-02-2025,SIP,3202.47,Delhi,Verified
+2976,119551,2025/04/05,Lumpsum,197466.18,Delhi,Verified
+2977,119092,2025/02/01,Sip,11001.51,Delhi,Rejected
+2978,120841,30-05-2025,Redemption,179503.49,Tamil Nadu,Verified
+2979,118632,2025/03/23,SIP,143819.67,Karnataka,Pending
+2980,120841,16-04-2025,Redemption,91850.6,Karnataka,Rejected
+2981,120503,2025/01/08,redemption,146308.69,Tamil Nadu,Rejected
+2982,118632,12-02-2025,sip,16340.46,Telangana,Pending
+2983,120503,23-05-2025,SIP,42218.49,Delhi,Rejected
+2984,119551,2025/04/21,Lumpsum,159603.34,Delhi,Pending
+2985,119092,13-01-2025,SIP,128741.75,Maharashtra,Rejected
+2986,120503,2025/06/27,Redemption,68616.71,Maharashtra,Verified
+2987,119092,2025/04/29,Lumpsum,86279.95,Delhi,Pending
+2988,119551,2025/02/19,sip,56092.14,Karnataka,Rejected
+2989,120503,2025/06/11,Redemption,30923.88,Tamil Nadu,Rejected
+2990,120503,2025/01/07,Sip,65433.99,Telangana,Rejected
+2991,120503,10-01-2025,SIP,97027.06,Maharashtra,Rejected
+2992,119551,2025/01/17,Sip,92891.38,Maharashtra,Verified
+2993,119092,2025/01/07,SIP,193548.08,Karnataka,Verified
+2994,119092,2025/05/16,redemption,17825.5,Maharashtra,Verified
+2995,119551,01-02-2025,Lumpsum,69499.71,Maharashtra,Rejected
+2996,119092,2025/02/15,sip,120386.14,Maharashtra,Rejected
+2997,119092,2025/03/05,redemption,75019.02,Telangana,Pending
+2998,119551,02-03-2025,SIP,128167.36,Tamil Nadu,Verified
+2999,120841,2025/02/18,Lumpsum,121780.78,Karnataka,Pending
+3000,118632,2025/05/02,Redemption,178933.19,Maharashtra,Pending
