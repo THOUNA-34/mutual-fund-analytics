@@ -1,6 +1,41 @@
 amfi_code,scheme_name,fund_house,category,subcategory,risk_grade
-120503,ICICI Bluechip,ICICI,Equity,Large Cap,Moderately High
-119551,SBI Bluechip,SBI,Equity,Large Cap,Moderately High
-118632,Nippon Large Cap,Nippon,Equity,Large Cap,High
-119092,Axis Bluechip,Axis,Equity,Large Cap,Moderately High
-120841,Kotak Bluechip,Kotak,Equity,Large Cap,Moderately High
+120000,SBI Large Cap Fund 1,SBI,Equity,Large Cap,Moderately High
+120001,HDFC Mid Cap Fund 2,HDFC,Equity,Mid Cap,Moderately High
+120002,ICICI Small Cap Fund 3,ICICI,Equity,Small Cap,High
+120003,Axis Flexi Cap Fund 4,Axis,Equity,Flexi Cap,High
+120004,Kotak ELSS Fund 5,Kotak,Equity,ELSS,Moderately High
+120005,Nippon Large Cap Fund 6,Nippon,Equity,Large Cap,Moderately High
+120006,UTI Mid Cap Fund 7,UTI,Equity,Mid Cap,High
+120007,Mirae Small Cap Fund 8,Mirae,Equity,Small Cap,High
+120008,DSP Flexi Cap Fund 9,DSP,Equity,Flexi Cap,High
+120009,Canara ELSS Fund 10,Canara,Equity,ELSS,High
+120010,SBI Large Cap Fund 11,SBI,Equity,Large Cap,High
+120011,HDFC Mid Cap Fund 12,HDFC,Equity,Mid Cap,Moderately High
+120012,ICICI Small Cap Fund 13,ICICI,Equity,Small Cap,High
+120013,Axis Flexi Cap Fund 14,Axis,Equity,Flexi Cap,High
+120014,Kotak ELSS Fund 15,Kotak,Equity,ELSS,High
+120015,Nippon Large Cap Fund 16,Nippon,Equity,Large Cap,High
+120016,UTI Mid Cap Fund 17,UTI,Equity,Mid Cap,Moderately High
+120017,Mirae Small Cap Fund 18,Mirae,Equity,Small Cap,High
+120018,DSP Flexi Cap Fund 19,DSP,Equity,Flexi Cap,High
+120019,Canara ELSS Fund 20,Canara,Equity,ELSS,Moderately High
+120020,SBI Large Cap Fund 21,SBI,Equity,Large Cap,Moderately High
+120021,HDFC Mid Cap Fund 22,HDFC,Equity,Mid Cap,Moderately High
+120022,ICICI Small Cap Fund 23,ICICI,Equity,Small Cap,Moderately High
+120023,Axis Flexi Cap Fund 24,Axis,Equity,Flexi Cap,Moderately High
+120024,Kotak ELSS Fund 25,Kotak,Equity,ELSS,High
+120025,Nippon Large Cap Fund 26,Nippon,Equity,Large Cap,Moderately High
+120026,UTI Mid Cap Fund 27,UTI,Equity,Mid Cap,Moderately High
+120027,Mirae Small Cap Fund 28,Mirae,Equity,Small Cap,High
+120028,DSP Flexi Cap Fund 29,DSP,Equity,Flexi Cap,High
+120029,Canara ELSS Fund 30,Canara,Equity,ELSS,High
+120030,SBI Large Cap Fund 31,SBI,Equity,Large Cap,High
+120031,HDFC Mid Cap Fund 32,HDFC,Equity,Mid Cap,Moderately High
+120032,ICICI Small Cap Fund 33,ICICI,Equity,Small Cap,Moderately High
+120033,Axis Flexi Cap Fund 34,Axis,Equity,Flexi Cap,High
+120034,Kotak ELSS Fund 35,Kotak,Equity,ELSS,Moderately High
+120035,Nippon Large Cap Fund 36,Nippon,Equity,Large Cap,Moderately High
+120036,UTI Mid Cap Fund 37,UTI,Equity,Mid Cap,Moderately High
+120037,Mirae Small Cap Fund 38,Mirae,Equity,Small Cap,High
+120038,DSP Flexi Cap Fund 39,DSP,Equity,Flexi Cap,High
+120039,Canara ELSS Fund 40,Canara,Equity,ELSS,Moderately High

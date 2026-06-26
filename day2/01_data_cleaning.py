@@ -268,7 +268,15 @@ remaining = [
 
     "fund_manager.csv",
 
-    "amfi_codes.csv"
+    "amfi_codes.csv",
+
+    "portfolio_holdings.csv",
+
+    "sip_monthly.csv",
+
+    "category_inflows.csv",
+
+    "folio_growth.csv"
 
 ]
 

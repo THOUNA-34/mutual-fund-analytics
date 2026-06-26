@@ -55,7 +55,19 @@ datasets = {
         "fund_manager.csv",
 
     "amfi_codes":
-        "amfi_codes.csv"
+        "amfi_codes.csv",
+    
+    "portfolio_holdings": 
+        "portfolio_holdings.csv",
+
+    "sip_monthly": 
+        "sip_monthly.csv",
+
+    "category_inflows": 
+        "category_inflows.csv",
+
+    "folio_growth": 
+        "folio_growth.csv",
 
 }
 
